@@ -1,22 +1,22 @@
 {
  "source": "https://ocds-api.etenders.gov.za/api/OCDSReleases",
- "generatedAt": "2026-11-15T12:32:33.201922+00:00",
+ "generatedAt": "2026-11-15T21:37:03.961958+00:00",
  "lookbackDays": 60,
- "coveredFrom": "2026-10-09",
- "releasesScanned": 3146,
- "uniqueTenders": 3196,
- "count": 166,
+ "coveredFrom": "2026-09-16",
+ "releasesScanned": 4480,
+ "uniqueTenders": 4480,
+ "count": 167,
  "categories": {
-  "Software & Systems": 75,
-  "End-User Computing": 24,
-  "Cloud Services": 11,
+  "Software & Systems": 78,
+  "End-User Computing": 22,
+  "Cloud Services": 5,
   "IT Services & Support": 12,
   "Cybersecurity": 12,
-  "Network & Infrastructure": 22,
+  "Network & Infrastructure": 28,
   "Telecoms & Unified Comms": 10
  },
  "onlineBriefings": 1,
- "carriedOver": 9,
+ "carriedOver": 0,
  "briefingFieldsSeen": {},
  "tenders": [
   {
@@ -485,7 +485,7 @@
    "reference": "GMT012/26-27",
    "title": "GMT012/26-27 – Tender for the appointment of a Service Provider for the Management of George Municipality’s Microsoft Enterprise Agreement, including Azure and Microsoft related projects from date of appointment until 30 June 2029.",
    "department": "George Municipality",
-   "category": "Cloud Services",
+   "category": "Software & Systems",
    "company": "rtc",
    "matchedTerms": [
     "azure",
@@ -825,7 +825,7 @@
    "reference": "RFB 3299/2026 - (ERP No 534010)",
    "title": "Request for Bid for the Procurement of Security Access Cards, Access Card Materials and the Cleaning Kit of the Smart Card Printer for a Period of Five (5) Years.",
    "department": "State Information Technology Agency",
-   "category": "End-User Computing",
+   "category": "Software & Systems",
    "company": "rtc",
    "matchedTerms": [
     "erp",
@@ -930,7 +930,7 @@
    "reference": "RFX 6000003815",
    "title": "Appointment of a Service Provider for the Provisioning of Microsoft Azure Subscription Services and Microsoft Fabric F16 Capacity for Sentech Head Office",
    "department": "Sentech Limited",
-   "category": "Cloud Services",
+   "category": "Software & Systems",
    "company": "rtc",
    "matchedTerms": [
     "azure",
@@ -1218,7 +1218,7 @@
    "reference": "ELM-4/004/2026-2027",
    "title": "Provision of Data Backup and Replication System",
    "department": "Elundini Local Municipality",
-   "category": "Software & Systems",
+   "category": "Network & Infrastructure",
    "company": "rtc",
    "matchedTerms": [
     "backup",
@@ -1437,7 +1437,7 @@
    "reference": "RFQ2026-27-48",
    "title": "APPOINTMENT OF A SERVICE PROVIDER TO CONDUCT AN AZURE DEVOPS COURSE FOR ONE DELEGATE.",
    "department": "The South African Qualifications Authority (SAQA)",
-   "category": "Cloud Services",
+   "category": "Software & Systems",
    "company": "rtc",
    "matchedTerms": [
     "azure",
@@ -2226,7 +2226,7 @@
    "reference": "RFB 3301/ 2026 - (ERP No 530015)",
    "title": "Appointment of a Service Provider to Provide a New Integrated Video Conferencing and Audio-Visual Solution for SAPS UBUNYE Auditorium",
    "department": "State Information Technology Agency",
-   "category": "Software & Systems",
+   "category": "Telecoms & Unified Comms",
    "company": "rtc",
    "matchedTerms": [
     "erp",
@@ -2666,7 +2666,7 @@
    "reference": "SANBI IT593/2026",
    "title": "THE APPOINTMENT OF A MICROSOFT AZURE MANAGED SERVICE PROVIDER TO MANAGE, STANDARDISE\r\nAND OPTIMISE EXISTING AZURE SERVICES FOR THE SOUTH AFRICAN NATIONAL BIODIVERSITY INSTITUTE (SANBI) FOR A PERIOD OF THREE (3) YEARS",
    "department": "South African National Biodiversity Institute",
-   "category": "Cloud Services",
+   "category": "Software & Systems",
    "company": "rtc",
    "matchedTerms": [
     "azure",
@@ -3136,6 +3136,12 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=c7d71dd7-c32f-4c29-aa9c-e6ae956e7cdc.pdf&downloadedFileName=Volume%204%20-%20Fibre%20Termination%20Nod.pdf",
      "format": "pdf",
      "published": "2026-09-22T18:06:24Z"
+    },
+    {
+     "title": "Tender Questions and Answers Register 11 November 2026.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=e6f477ff-9342-437d-b6f2-ea737f68ec50.pdf&downloadedFileName=Tender%20Questions%20and%20Answers%20Register%2011%20November%202026.pdf",
+     "format": "pdf",
+     "published": "2026-11-11T07:25:59Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -3273,6 +3279,12 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=9062f3e7-4e00-40f3-90c2-ed251b50c738.pdf&downloadedFileName=Annexure%20C1_Metering%20Technical%20Specifications%20and%20Guidelines_D112MAN.pdf",
      "format": "pdf",
      "published": "2026-09-18T14:54:54Z"
+    },
+    {
+     "title": "Addendum No.5  for COR8204-2026RFP.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=f01d1c3d-09a2-4d7a-bc51-f5e1ac5ad80a.pdf&downloadedFileName=Addendum%20No.5%20%20for%20COR8204-2026RFP.pdf",
+     "format": "pdf",
+     "published": "2026-11-03T00:52:54Z"
     },
     {
      "title": "Annexure B2 - Cluster 2 NEC3 TSC Contract.pdf",
@@ -3462,6 +3474,48 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=d1259a56-c92d-4dd2-903c-903ed0c3ed9f.pdf&downloadedFileName=SCM%2013-2027%20Advert.pdf",
      "format": "pdf",
      "published": "2026-11-13T15:53:23Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-171537",
+   "reference": "E3571CXERE",
+   "title": "THE INSTALLATION OF A VISITOR MANAGEMENT SYSTEM (VMS) AND LICENCE\r\nPLATE RECOGNITION (LPR) SYSTEM AT ESKOM CORPORATE SITES (EAL, MWP\r\nAND ERIC) FOR A PERIOD OF THREE (03) YEARS",
+   "department": "ESKOM",
+   "category": "Software & Systems",
+   "company": "rtc",
+   "matchedTerms": [
+    "licence",
+    "management system",
+    "system"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-09-23T00:00:00+00:00",
+   "closingDate": "2026-11-23T10:00:00+00:00",
+   "procurementMethod": "Request for Proposal",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "E3571CXERE_Invitation to Tender (ITT)_VMS_22 September 2026.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=547379cd-9822-41d9-96a7-22c7f88fde6e.pdf&downloadedFileName=E3571CXERE_Invitation%20to%20Tender%20%28ITT%29_VMS_22%20September%202026.pdf",
+     "format": "pdf",
+     "published": "2026-09-23T15:59:25Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -4149,7 +4203,7 @@
    "reference": "10418532 R",
    "title": "Installation of a Backup power supply system for Barnardsvlei online water quality Instruments, Hartebeesthoek Reservoir and Guard houses",
    "department": "Rand Water",
-   "category": "Software & Systems",
+   "category": "Network & Infrastructure",
    "company": "rtc",
    "matchedTerms": [
     "backup",
@@ -4567,7 +4621,7 @@
    "reference": "PSiRA/2026/27/RFB/08",
    "title": "APPOINTMENT OF A SERVICE PROVIDER FOR THE DESIGN, SUPPLY, IMPLEMENT AND MAINTENANCE OF A CLOUD-BASED MICROSOFT TEAMS TELEPHONY SYSTEM AND CALL CENTER SOLUTION FOR A PERIOD OF 36 MONTHS.",
    "department": "Private Security Industry Regulatory Authority",
-   "category": "Cloud Services",
+   "category": "Software & Systems",
    "company": "rtc",
    "matchedTerms": [
     "cloud",
@@ -6597,7 +6651,7 @@
    "reference": "57 OF 2026",
    "title": "Supply, delivery, installation and commissioning of server room environmental management system including quarterly support and maintenance plan for the period of three years",
    "department": "Makhado Local Municipality",
-   "category": "Software & Systems",
+   "category": "Network & Infrastructure",
    "company": "rtc",
    "matchedTerms": [
     "management system",
@@ -6911,7 +6965,7 @@
    "reference": "TMPD 02-2026/27",
    "title": "Tender for the supply and delivery of original equipment manufacturer (OEM) printer specific consumables for identity (id) card printers and as well as upgrading of the existing id card software packages to the Tshwane police department for a period of three (3) years on and when required basis.",
    "department": "City of Tshwane",
-   "category": "End-User Computing",
+   "category": "Software & Systems",
    "company": "rtc",
    "matchedTerms": [
     "printer",
@@ -7188,7 +7242,7 @@
    "reference": "CGE/T/11/2026/27",
    "title": "Provision of WAN and VOIP services for 36 months",
    "department": "Commission for Gender Equality",
-   "category": "Telecoms & Unified Comms",
+   "category": "Network & Infrastructure",
    "company": "rtc",
    "matchedTerms": [
     "voip",
@@ -8105,7 +8159,7 @@
    "reference": "5/2/2/1(013)2026-2027",
    "title": "APPOINTMENT OF A SERVICE PROVIDER TO SUPPLY AND ACTIVATE CISCO DNA CENTRE VIRTUAL APPLIANCE, CISCO IDENTITY SERVICES LICENCE RENEWALS, SMARTNET AND PROVIDE SUPPORT FOR THE PERIOD OF THREE YEARS (36 MONTHS) FOR THE DEPARTMENT OF AGRICULTURE.",
    "department": "National - Department of Agriculture",
-   "category": "Software & Systems",
+   "category": "Network & Infrastructure",
    "company": "rtc",
    "matchedTerms": [
     "cisco",
@@ -8831,7 +8885,7 @@
    "reference": "EDUMT05/2026/27 - ReAdvertisement",
    "title": "RE-ADVERTISEMENT OF THE PROVISION, CONFIRGURATION,IMPLEMENTATION AND SUPPORT OF A DISASTER RECOVERY CLOUD BACKUP SOLUTION FOR A PERIOD OF THIRTY SIX (36) MONTHS",
    "department": "eDumbe Local Municipality",
-   "category": "Cloud Services",
+   "category": "Network & Infrastructure",
    "company": "rtc",
    "matchedTerms": [
     "backup",
