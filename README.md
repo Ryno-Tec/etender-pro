@@ -34,6 +34,28 @@ eTenders OCDS API ──► GitHub Action (every 6h) ──► data/tenders.json
 - **Lesego Laka Projects:** the same fetch also picks out facilities maintenance, grounds and landscaping, agriculture and supply (PPE, cleaning materials) tenders and writes them to `data/tenders-llp.json`. The daily sync adds the open ones in Gauteng to the hub under Lesego Laka, with or without an online briefing. The web app still shows IT tenders only.
 - **Deep links:** `#tender=<ocid>&tab=bid` (or `tab=analysis`) opens a tender straight in the Bid builder. The hub's *Build bid in eTender Pro* button uses this.
 
+## Tender tracker (runs without Claude)
+
+The **Tracker** tab lists both companies' tenders (Ryno-Tec and Lesego Laka Projects) with a status and notes, stored in a free [Supabase](https://supabase.com) database.
+
+- The GitHub Action fills it after every data refresh (`tools/supabase_sync.py`), using the same rules as the hub: Ryno-Tec gets open IT tenders with an online briefing, and Lesego Laka gets open tenders in Gauteng.
+- Status and notes are never overwritten by the sync.
+- **Retention:** tenders are like adverts. A tender still marked *New* with no notes is deleted 7 days after it closes. Anything with another status, or with notes, is kept.
+- No Claude session or API credit is needed, so it keeps working even if the Claude hub sync stops.
+
+**One-time setup**
+
+1. Create a free project at supabase.com.
+2. Open the **SQL Editor**, paste in `supabase/schema.sql` and click **Run**.
+3. Go to **Authentication → Sign In / Providers**. Turn off *Allow new users to sign up*, and leave *Email* on.
+4. Go to **Authentication → Users → Invite user** and invite each team member's email.
+5. Go to **Authentication → URL Configuration** and set the Site URL to `https://tenders.ryno-tec.co.za`.
+6. From **Project Settings → API**, copy the Project URL and the `service_role` key. In this GitHub repo, go to **Settings → Secrets and variables → Actions** and add them as `SUPABASE_URL` and `SUPABASE_SERVICE_KEY`. Keep the `service_role` key secret: never put it in index.html.
+7. Paste the Project URL and the **anon public** key into `SUPABASE_URL` and `SUPABASE_ANON_KEY` at the top of the script in `index.html`. Both are safe to publish.
+8. Go to **Actions → Update tender data → Run workflow** to fill the tracker straight away.
+
+Until the secrets are added, the Action's Supabase step just prints "not set up" and skips.
+
 ## Setup
 
 1. **GitHub Pages:** go to Settings → Pages, set Source to *Deploy from a branch*, choose `main` and `/ (root)`, then Save.
