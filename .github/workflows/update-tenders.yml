@@ -50,3 +50,11 @@ jobs:
             git pull --rebase origin main
             git push
           fi
+
+      # Fills the tracker on tenders.ryno-tec.co.za (no Claude needed). Skips itself until the
+      # SUPABASE_URL and SUPABASE_SERVICE_KEY repository secrets are added (see README).
+      - name: Sync the Supabase tender tracker
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: python3 tools/supabase_sync.py data/tenders.json

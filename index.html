@@ -11,6 +11,7 @@
 <script src="https://unpkg.com/@babel/standalone@7.25.6/babel.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/mammoth@1.8.0/mammoth.browser.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js"></script>
 <style>
   /* Ryno-Tec brand: charcoal header, light working area, orange accent (matches ryno-tec.co.za and the Business Hub) */
   :root {
@@ -136,6 +137,13 @@ const DATA_URLS = [
   './data/tenders.json',
 ];
 const MODEL = 'claude-sonnet-5-5';
+
+// Tender tracker (Supabase). Paste the project URL and the *anon public* key from
+// Supabase -> Project Settings -> API. Both are safe to publish: the table's access rules
+// only let invited, signed-in team members read tenders and change status and notes.
+const SUPABASE_URL = '';
+const SUPABASE_ANON_KEY = '';
+const sb = SUPABASE_URL && SUPABASE_ANON_KEY && window.supabase ? window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY) : null;
 
 // ---------- storage helpers (wrapped: storage can be blocked) ----------
 const store = {
@@ -480,7 +488,7 @@ function App() {
 
       <div className="wrap">
         <div className="tabs">
-          {[['discover', 'Discover tenders'], ['analysis', 'AI analysis'], ['bid', 'Bid builder'], ['quotes', 'Supplier quotes']].map(([id, label]) =>
+          {[['discover', 'Discover tenders'], ['tracker', 'Tracker'], ['analysis', 'AI analysis'], ['bid', 'Bid builder'], ['quotes', 'Supplier quotes']].map(([id, label]) =>
             <button key={id} className={tab === id ? 'on' : ''} onClick={() => setTab(id)}>{label}</button>)}
         </div>
 
@@ -554,6 +562,7 @@ function App() {
           })}
         </>}
 
+        {tab === 'tracker' && <Tracker itIds={tenders.map(t => t.id)} open={id => { setSelId(id); setTab('bid'); }} />}
         {tab === 'analysis' && (sel ? <Analysis t={sel} /> : <Pick />)}
         {tab === 'bid' && (sel ? <BidBuilder t={sel} /> : <Pick />)}
         {tab === 'quotes' && (sel ? <Sourcing t={sel} /> : <Pick />)}
@@ -613,6 +622,109 @@ function exportForHub(list) {
 }
 
 const Pick = () => <div className="panel empty">Pick a tender on the Discover tab first.</div>;
+
+// ---------- Tracker: both companies' tenders, with status and notes, stored in Supabase ----------
+const COMPANY = { rtc: 'Ryno-Tec', llp: 'Lesego Laka Projects' };
+const STATUSES = ['New', 'Interested', 'Preparing bid', 'Submitted', 'Won', 'Lost', 'Not bidding'];
+function Tracker({ itIds, open }) {
+  const [session, setSession] = useState(null);
+  const [rows, setRows] = useState(null);
+  const [err, setErr] = useState('');
+  const [email, setEmail] = useState('');
+  const [sent, setSent] = useState(false);
+  const [company, setCompany] = useState(store.get('tracker_company', 'all'));
+  const [status, setStatus] = useState(store.get('tracker_status', 'all'));
+  useEffect(() => { store.set('tracker_company', company); store.set('tracker_status', status); }, [company, status]);
+  useEffect(() => {
+    if (!sb) return;
+    sb.auth.getSession().then(({ data }) => setSession(data.session));
+    const { data } = sb.auth.onAuthStateChange((_e, s) => setSession(s));
+    return () => data.subscription.unsubscribe();
+  }, []);
+  const load = async () => {
+    setErr('');
+    const { data, error } = await sb.from('tenders').select('*').order('closing', { ascending: true });
+    if (error) setErr(error.message); else setRows(data);
+  };
+  useEffect(() => { if (session) load(); }, [session]);
+
+  if (!sb) return <div className="panel"><h2>Tracker not set up yet</h2>
+    <p className="note">Add the Supabase project URL and anon key at the top of index.html. The README explains the setup.</p></div>;
+  if (!session) return <div className="panel" style={{ maxWidth: 480 }}>
+    <h2>Sign in to the tracker</h2>
+    <p className="note">Enter your work email and we'll send you a sign-in link. Only invited team members can sign in.</p>
+    {sent ? <p>Check your inbox for the sign-in link.</p> : <form onSubmit={async e => {
+      e.preventDefault(); setErr('');
+      const { error } = await sb.auth.signInWithOtp({ email, options: { shouldCreateUser: false, emailRedirectTo: location.origin + location.pathname } });
+      if (error) setErr(error.message); else setSent(true);
+    }}>
+      <input type="email" required placeholder="you@ryno-tec.co.za" value={email} onChange={e => setEmail(e.target.value)} />
+      <div className="row"><button className="btn primary" type="submit">Email me a sign-in link</button></div>
+    </form>}
+    {err && <p className="note urgent">{err}</p>}
+  </div>;
+
+  const save = async (r, change) => {
+    setRows(rs => rs.map(x => x.ocid === r.ocid ? { ...x, ...change } : x));
+    const { error } = await sb.from('tenders').update({ ...change, updated_at: new Date().toISOString() }).eq('ocid', r.ocid);
+    if (error) { setErr('Could not save: ' + error.message); load(); }
+  };
+  const list = (rows || []).filter(r => (company === 'all' || r.company === company) && (status === 'all' || r.status === status));
+  const openCount = c => (rows || []).filter(r => r.company === c && r.closing && daysLeft(r.closing) >= 0).length;
+  return <>
+    <div className="panel">
+      <div className="grid4">
+        <div><label className="l">Company</label>
+          <select value={company} onChange={e => setCompany(e.target.value)}>
+            <option value="all">Both companies</option>
+            {Object.entries(COMPANY).map(([k, v]) => <option key={k} value={k}>{v} ({openCount(k)} open)</option>)}
+          </select></div>
+        <div><label className="l">Status</label>
+          <select value={status} onChange={e => setStatus(e.target.value)}>
+            <option value="all">Any status</option>
+            {STATUSES.map(s => <option key={s}>{s}</option>)}
+          </select></div>
+      </div>
+    </div>
+    <div className="meta">
+      <span>{rows ? `Showing ${list.length} of ${rows.length}, soonest closing first. Tenders still marked New with no notes are removed 7 days after they close.` : 'Loading…'}</span>
+      <span className="row" style={{ marginTop: 0 }}>
+        <button className="btn" onClick={load}>Refresh</button>
+        <button className="btn" onClick={() => sb.auth.signOut()}>Sign out</button>
+      </span>
+    </div>
+    {err && <div className="panel urgent">{err}</div>}
+    {rows && list.length === 0 && <div className="panel empty">No tenders match these filters.</div>}
+    {list.map(r => {
+      const d = r.closing ? daysLeft(r.closing) : null;
+      return <div key={r.ocid} className="card">
+        <div><span className="chip">{COMPANY[r.company] || r.company}</span>{r.category && <span className="chip gray">{r.category}</span>}
+          {r.tender_no && <span className="chip gray">{r.tender_no}</span>}{r.status !== 'New' && <span className="chip saved">{r.status}</span>}</div>
+        <h3>{r.title}</h3>
+        <div className="note">{r.buyer}{r.province ? ` · ${r.province}` : ''}</div>
+        <div className="facts">
+          <div className="fact"><div className="k">Closes</div><div className={'v ' + (d == null ? '' : urgency(d))}>{r.closing ? fmtDate(r.closing) : 'Not stated'}</div>
+            {d != null && <div className={'note ' + urgency(d)}>{d < 0 ? 'Closed' : d === 0 ? 'Closes today' : `${d} day${d === 1 ? '' : 's'} left`}</div>}</div>
+          <div className="fact"><div className="k">Briefing</div><div className="v">{r.briefing}</div>
+            <div className="note">{[r.briefing_at && fmtDate(r.briefing_at), r.compulsory ? 'compulsory' : ''].filter(Boolean).join(', ')}</div>
+            {r.briefing_link && <div className="note"><a href={r.briefing_link} target="_blank" rel="noopener">Join link ↗</a></div>}</div>
+          <div className="fact"><div className="k">Status</div>
+            <select value={r.status} onChange={e => save(r, { status: e.target.value })} aria-label="Status">
+              {[...new Set([...STATUSES, r.status])].map(s => <option key={s}>{s}</option>)}
+            </select></div>
+        </div>
+        {r.briefing_venue && <div className="note">{r.briefing_venue}</div>}
+        <label className="l" style={{ marginTop: 12 }}>Notes</label>
+        <textarea rows="2" defaultValue={r.notes} placeholder="Add a note. Tenders with notes are kept after they close."
+          onBlur={e => e.target.value !== r.notes && save(r, { notes: e.target.value })} />
+        <div className="row">
+          {r.docs_url && <a className="btn" href={r.docs_url} target="_blank" rel="noopener">Tender documents ↗</a>}
+          {itIds.includes(r.ocid) && <button className="btn primary" onClick={() => open(r.ocid)}>Build bid</button>}
+        </div>
+      </div>;
+    })}
+  </>;
+}
 
 function TenderHeader({ t }) {
   const d = daysLeft(t.closingDate);
