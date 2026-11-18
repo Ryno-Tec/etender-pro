@@ -14,6 +14,10 @@ Two companies share the hub, and each tender document carries a "company" field:
 Tenders already in the hub are refreshed (dates, briefing details, links) without touching
 the bid status or notes.
 
+Retention: tenders are like adverts, so a tender nobody has worked on (status still "New" and
+no notes) is deleted RETENTION_DAYS (7) days after it closes. Tenders with any other status or
+with notes are kept.
+
 Usage:
     python3 tools/hub_sync.py data/tenders.json HUB_DIR [META_VERSION] [VERSIONS_JSON] > writes.json
 
@@ -39,6 +43,8 @@ GAUTENG = re.compile(r"gauteng|tshwane|pretoria|johannesburg|joburg|soweto|ekurh
                      r"kempton|tembisa|springs|sedibeng|vereeniging|vanderbijlpark|emfuleni|midvaal|meyerton|lesedi|heidelberg|"
                      r"west rand|mogale|krugersdorp|randfontein|rand west|merafong|carletonville|westonaria|mabopane|"
                      r"soshanguve|ga-?rankuwa|hammanskraal|centurion|midrand|sandton|roodepoort|alberton", re.I)
+RETENTION_DAYS = 7
+UNTOUCHED = ("", "new")
 FEED_FIELDS = ("title", "tenderNo", "buyer", "province", "category", "value", "closing", "briefing",
                "compulsory", "briefingAt", "briefingVenue", "briefingLink", "sourceUrl", "docsUrl", "ocid")
 
@@ -176,8 +182,25 @@ def main():
             else:
                 added += 1
 
+    # retention: delete untouched tenders that closed more than RETENTION_DAYS ago
+    removed = 0
+    cutoff = now - timedelta(days=RETENTION_DAYS)
+    for doc_id, doc in sorted(hub.items()):
+        old = doc["data"]
+        if str(old.get("status") or "").strip().lower() not in UNTOUCHED or str(old.get("notes") or "").strip():
+            continue
+        try:
+            closed = datetime.fromisoformat(str(old.get("closing") or ""))
+        except ValueError:
+            continue  # no usable closing date: keep it
+        if closed.tzinfo is None:
+            closed = closed.replace(tzinfo=SAST)
+        if closed < cutoff and not any(w["doc_id"] == doc_id for w in writes):
+            writes.append({"op": "delete", "collection": "tenders", "doc_id": doc_id, "if_version": doc["version"]})
+            removed += 1
+
     summary = {"syncedAt": stamp, "feedGeneratedAt": feed.get("generatedAt"), "online": online,
-               "added": added, "updated": updated, "source": "https://tenders.ryno-tec.co.za/",
+               "added": added, "updated": updated, "removed": removed, "source": "https://tenders.ryno-tec.co.za/",
                "companies": {"llp": llp}}
     batches = [writes[i:i + 49] for i in range(0, len(writes), 49)] or [[]]
     # the sync status shown on the hub's Tenders page goes in the last batch
@@ -187,6 +210,7 @@ def main():
     print(f"\nRyno-Tec: {added} to add, {updated} to update, {online} open online-briefing tenders in the feed", file=sys.stderr)
     print(f"Lesego Laka: {llp['added']} to add, {llp['updated']} to update, {llp['open']} open in Gauteng "
           f"({llp['outsideGauteng']} elsewhere skipped)", file=sys.stderr)
+    print(f"Retention: {removed} untouched tenders closed more than {RETENTION_DAYS} days ago to delete", file=sys.stderr)
 
 
 if __name__ == "__main__":
