@@ -31,6 +31,7 @@ eTenders OCDS API ──► GitHub Action (every 6h) ──► data/tenders.json
 - **Briefing filter:** Discover has a *Briefing* filter. Choose *Online briefing* to see only tenders you can brief on remotely.
 - **Export for Ryno-Tec hub:** downloads the filtered tenders as JSON. In the hub, go to Tenders → *Import file*. The hub keeps the IT tenders with an online briefing and updates ones it already has without touching your bid status or notes.
 - **Daily sync:** a scheduled Claude task reads `data/tenders.json` each morning and adds new online-briefing tenders to the hub.
+- **Retention:** tenders are like adverts. The daily sync deletes a hub tender 7 days after it closes if nobody worked on it (status still *New* and no notes). Tenders with any other status, or with notes, are kept.
 - **Lesego Laka Projects:** the same fetch also picks out facilities maintenance, grounds and landscaping, agriculture and supply (PPE, cleaning materials) tenders and writes them to `data/tenders-llp.json`. The daily sync adds the open ones in Gauteng to the hub under Lesego Laka, with or without an online briefing. The web app still shows IT tenders only.
 - **Deep links:** `#tender=<ocid>&tab=bid` (or `tab=analysis`) opens a tender straight in the Bid builder. The hub's *Build bid in eTender Pro* button uses this.
 
