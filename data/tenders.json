@@ -1,22 +1,22 @@
 {
  "source": "https://ocds-api.etenders.gov.za/api/OCDSReleases",
- "generatedAt": "2026-11-18T13:38:35.910040+00:00",
+ "generatedAt": "2026-11-18T23:32:37.138125+00:00",
  "lookbackDays": 60,
- "coveredFrom": "2026-10-07",
- "releasesScanned": 3526,
- "uniqueTenders": 3551,
- "count": 159,
+ "coveredFrom": "2026-11-06",
+ "releasesScanned": 1274,
+ "uniqueTenders": 1329,
+ "count": 163,
  "categories": {
-  "IT Services & Support": 13,
-  "Software & Systems": 75,
-  "Cybersecurity": 8,
+  "IT Services & Support": 14,
+  "Software & Systems": 73,
+  "Cybersecurity": 11,
   "End-User Computing": 21,
-  "Network & Infrastructure": 25,
+  "Network & Infrastructure": 27,
   "Telecoms & Unified Comms": 11,
   "Cloud Services": 6
  },
  "onlineBriefings": 0,
- "carriedOver": 8,
+ "carriedOver": 80,
  "briefingFieldsSeen": {},
  "tenders": [
   {
@@ -237,7 +237,7 @@
    "reference": "RFQ2026-011-019",
    "title": "REQUEST FOR QUOTATIONS FOR THE APPOINTMENT OF A SERVICE PROVIDER FOR IMPLEMENTATION OF ISO/IEC 27001 INFORMATION SECURITY MANAGEMENT SYSTEM AND ISO 14001 ENVIRONMENTAL MANAGEMENT SYSTEM",
    "department": "National Lotteries Commission",
-   "category": "Software & Systems",
+   "category": "Cybersecurity",
    "company": "rtc",
    "matchedTerms": [
     "information security",
@@ -2618,7 +2618,7 @@
    "reference": "HO/ICT/10376225/11/2026",
    "title": "APPOINTMENT OF A SERVICE PROVIDER FOR INDEPENDENT ADVISORY AND ANALYTICAL SERVICES TO DEFINE, QUANTIFY, AND PROTECT VALUE FROM DIGITAL CHANNELS, SAP, AND THE DATA CENTER/PRIVATE CLOUD: INVESTMENT VALUE AND DIGITAL CHANNEL COMMERCIAL MODEL FOR SIX MONTHS",
    "department": "Passenger Rail Agency of South Africa",
-   "category": "Software & Systems",
+   "category": "IT Services & Support",
    "company": "rtc",
    "matchedTerms": [
     "cloud",
@@ -2664,6 +2664,47 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=bfb9d632-1be4-4a1c-9c2f-ee7f73a8ef87.pdf&downloadedFileName=SAP%20Ariba%20Sourcing%20User%20Guide%20-%20Supplier%20Responses%20E-Tender.pdf",
      "format": "pdf",
      "published": "2026-11-18T12:05:16Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-178769",
+   "reference": "Q33/2026/27",
+   "title": "RENEWAL AND REGISTRATION OF SOPHOS LICENSES",
+   "department": "Cape Agulhas Municipality",
+   "category": "Cybersecurity",
+   "company": "rtc",
+   "matchedTerms": [
+    "license",
+    "sophos"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-18T00:00:00+00:00",
+   "closingDate": "2026-11-25T12:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "consultingServices",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "Q33-2026-27 RENEWAL AND REGISTRATION OF SOPHOS LICENSES - TENDER DOCUMENT.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=b064487a-cfb6-4c15-baa2-14f26b8e5bf0.pdf&downloadedFileName=Q33-2026-27%20RENEWAL%20AND%20REGISTRATION%20OF%20SOPHOS%20LICENSES%20-%20TENDER%20DOCUMENT.pdf",
+     "format": "pdf",
+     "published": "2026-11-18T18:27:07Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -4542,6 +4583,60 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
+   "id": "ocds-9t57fa-178766",
+   "reference": "RFQ 10049886",
+   "title": "The Appointment of a service provider for the provision of a cloud based Board Pack Management and Governance Solution, Including Software subscription, Implementation, Configuration, Training, Support and Maintenance Services at Lepelle Northern Water",
+   "department": "Lepelle Northern Water",
+   "category": "Cloud Services",
+   "company": "rtc",
+   "matchedTerms": [
+    "cloud",
+    "cloud based",
+    "software"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-18T00:00:00+00:00",
+   "closingDate": "2026-11-27T16:30:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "SBD 4 FORM.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=ac1ecfb5-ba83-4f16-9497-238161afe3b4.pdf&downloadedFileName=SBD%204%20FORM.pdf",
+     "format": "pdf",
+     "published": "2026-11-18T17:45:08Z"
+    },
+    {
+     "title": "Request for Quotation Board Pack Solution.docx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=f267b310-dfba-46b8-ae07-80ac24de52b9.docx&downloadedFileName=Request%20for%20Quotation%20Board%20Pack%20Solution.docx",
+     "format": "docx",
+     "published": "2026-11-18T17:41:55Z"
+    },
+    {
+     "title": "SBD 6.1 FORM.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=ffaad5a8-7065-4e1e-806f-dcec3de9c4f0.pdf&downloadedFileName=SBD%206.1%20FORM.pdf",
+     "format": "pdf",
+     "published": "2026-11-18T17:44:22Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
    "id": "ocds-9t57fa-174367",
    "reference": "101S/2026/27",
    "title": "SUPPLY, INSTALLATION AND MAINTENANCE OF VIDEO CONFERENCING AND COLLABORATION SYSTEMS.",
@@ -5162,7 +5257,7 @@
    "reference": "TCC/2026/08/0103/9785/RFP",
    "title": "PROVISIONING AND INSTALLATION OF A WEB APPLICATION FIREWALL (WAF) SOLUTION\r\nWITH MAINTENANCE AND SUPPORT FOR FIVE (5) YEARS",
    "department": "Transnet SOC Ltd",
-   "category": "Software & Systems",
+   "category": "Cybersecurity",
    "company": "rtc",
    "matchedTerms": [
     "firewall",
@@ -8211,7 +8306,7 @@
    "reference": "EDUMT05/2026/27 - ReAdvertisement",
    "title": "RE-ADVERTISEMENT OF THE PROVISION, CONFIRGURATION,IMPLEMENTATION AND SUPPORT OF A DISASTER RECOVERY CLOUD BACKUP SOLUTION FOR A PERIOD OF THIRTY SIX (36) MONTHS",
    "department": "eDumbe Local Municipality",
-   "category": "Cloud Services",
+   "category": "Network & Infrastructure",
    "company": "rtc",
    "matchedTerms": [
     "backup",
@@ -8515,6 +8610,92 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=303577c3-4eac-4aa3-ba2d-c40ce2625533.xlsx&downloadedFileName=PRICING%20SCHEDULE%20UGU-07-1735-2026.xlsx",
      "format": "xlsx",
      "published": "2026-11-18T05:35:09Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-178714",
+   "reference": "UMN 06/2026-27",
+   "title": "Appointment of a Service Provider to Supply, delivery and installation of Adobe Acrobat DC Pro volume licenses for 45 users for the uMngeni Municipality for a period of 36 months.",
+   "department": "Umngeni Municipality",
+   "category": "Software & Systems",
+   "company": "rtc",
+   "matchedTerms": [
+    "adobe acrobat dc pro volume licens",
+    "license"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-18T00:00:00+00:00",
+   "closingDate": "2027-01-11T12:00:00+00:00",
+   "procurementMethod": "Request for Bid(Open-Tender)",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "UMN 06-2026-27 Appointment of a service provider to supplydelivery and installation of Adobe Acrobat Pro Licenses_ 18-11-2026. final.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=650da068-b52a-4318-bef0-a8a6dd859e53.pdf&downloadedFileName=UMN%2006-2026-27%20Appointment%20of%20a%20service%20provider%20to%20supplydelivery%20and%20installation%20of%20Adobe%20Acrobat%20Pro%20Licenses_%2018-11-2026.%20final.pdf",
+     "format": "pdf",
+     "published": "2026-11-18T15:04:59Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-178724",
+   "reference": "UMN 03/2026-27",
+   "title": "Appointment of a Service Provider for the procurement, installation and commissioning of enterprise servers, disaster recovery infrastructure, cloud backup solution, active directory monitoring tool, server monitoring tool, and Veeam backup & replication services for uMngeni local municipality for a period of 36 Months",
+   "department": "Umngeni Municipality",
+   "category": "Network & Infrastructure",
+   "company": "rtc",
+   "matchedTerms": [
+    "backup",
+    "cloud",
+    "cloud backup",
+    "disaster recovery",
+    "server",
+    "veeam"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-18T00:00:00+00:00",
+   "closingDate": "2027-01-11T12:00:00+00:00",
+   "procurementMethod": "Request for Bid(Open-Tender)",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "UMN03-2026-2027 Appointment of a service provider to supply and delivery of servers and tool monitoring as at 18 November 2026. final.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=2d171ff8-9486-4118-9fdd-3759121ca836.pdf&downloadedFileName=UMN03-2026-2027%20Appointment%20of%20a%20service%20provider%20to%20supply%20and%20delivery%20of%20servers%20and%20tool%20monitoring%20as%20at%2018%20November%202026.%20final.pdf",
+     "format": "pdf",
+     "published": "2026-11-18T15:15:38Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
