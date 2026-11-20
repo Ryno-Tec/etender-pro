@@ -1,65 +1,24 @@
 {
  "source": "https://ocds-api.etenders.gov.za/api/OCDSReleases",
- "generatedAt": "2026-11-20T13:29:05.364787+00:00",
+ "generatedAt": "2026-11-20T15:10:44.063810+00:00",
  "lookbackDays": 60,
- "coveredFrom": "2026-11-04",
- "releasesScanned": 1721,
- "uniqueTenders": 1736,
- "count": 172,
+ "coveredFrom": "2026-10-21",
+ "releasesScanned": 2944,
+ "uniqueTenders": 2969,
+ "count": 171,
  "categories": {
-  "IT Services & Support": 15,
-  "Software & Systems": 78,
+  "Software & Systems": 75,
+  "IT Services & Support": 16,
   "Cybersecurity": 10,
-  "Network & Infrastructure": 27,
+  "Network & Infrastructure": 29,
   "End-User Computing": 21,
-  "Telecoms & Unified Comms": 13,
+  "Telecoms & Unified Comms": 12,
   "Cloud Services": 8
  },
  "onlineBriefings": 0,
- "carriedOver": 54,
+ "carriedOver": 13,
  "briefingFieldsSeen": {},
  "tenders": [
-  {
-   "id": "ocds-9t57fa-178198",
-   "reference": "SCM 13/2027",
-   "title": "SUPPLY AND DELIVERY OF ICT INFRASTRUCTURE NETWORK MATERIAL FOR THE RELOCATION TO LANDBANK",
-   "department": "Beaufort West Municipality",
-   "category": "IT Services & Support",
-   "company": "rtc",
-   "matchedTerms": [
-    "ict",
-    "network"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-13T00:00:00+00:00",
-   "closingDate": "2026-11-20T14:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "goods",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "SCM 13-2027 Advert.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=d1259a56-c92d-4dd2-903c-903ed0c3ed9f.pdf&downloadedFileName=SCM%2013-2027%20Advert.pdf",
-     "format": "pdf",
-     "published": "2026-11-13T15:53:23Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
   {
    "id": "ocds-9t57fa-171537",
    "reference": "E3571CXERE",
@@ -947,58 +906,6 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=2fa61ac6-726b-4362-aad0-6e515011df7f.pdf&downloadedFileName=Erratum%20SCMU5-26-27-0060-1.pdf",
      "format": "pdf",
      "published": "2026-11-11T16:28:28Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-178190",
-   "reference": "HO/INT/67/11/2026",
-   "title": "RE- ADVERTISEMENT OF REQUEST FOR QUOTATION (RFQ) FOR   SOURCING OF A PROFESSIONAL SERVICE PROVIDER TO UNDERTAKE A BASIC DESKTOP ASSESSMENT OF ITS PROPERTY AND PREPARE A HIGH-LEVEL PORTFOLIO MASTER PLAN FOR INTERSITE ASSET INVESTMENT.",
-   "department": "Passenger Rail Agency of South Africa",
-   "category": "End-User Computing",
-   "company": "rtc",
-   "matchedTerms": [
-    "desktop"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-13T00:00:00+00:00",
-   "closingDate": "2026-11-24T12:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "consultingServices",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "REVISED -SoW REAL ESTATE PORTFOLIO MASTER PLAN_.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=b4426750-53ed-40ab-94eb-2080bcbbca74.pdf&downloadedFileName=REVISED%20-SoW%20REAL%20ESTATE%20PORTFOLIO%20MASTER%20PLAN_.pdf",
-     "format": "pdf",
-     "published": "2026-11-13T15:27:11Z"
-    },
-    {
-     "title": "RFQ FOR BASIC DESKTOP ASSESSMENT OF ITS PROPERTY AND PREPARE A HIGH-LEVEL MASTER PLAN FOR INTERSITE ASSEST INVESTMENT.docx",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=5dd6664c-6fcf-48d6-a9c1-368ac45c42a8.docx&downloadedFileName=RFQ%20FOR%20BASIC%20DESKTOP%20ASSESSMENT%20OF%20ITS%20PROPERTY%20AND%20PREPARE%20A%20HIGH-LEVEL%20MASTER%20PLAN%20FOR%20INTERSITE%20ASSEST%20INVESTMENT.docx",
-     "format": "docx",
-     "published": "2026-11-19T09:17:43Z"
-    },
-    {
-     "title": "PRICING SCHEDULE MASTER PLANNING.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=13b77329-a0a4-4342-ab25-6fce825b5b2f.pdf&downloadedFileName=PRICING%20SCHEDULE%20MASTER%20PLANNING.pdf",
-     "format": "pdf",
-     "published": "2026-11-13T15:12:54Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -2263,46 +2170,6 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
-   "id": "ocds-9t57fa-178147",
-   "reference": "CCB2026/11/01",
-   "title": "ICT equipmet",
-   "department": "Castle Control Board",
-   "category": "IT Services & Support",
-   "company": "rtc",
-   "matchedTerms": [
-    "ict"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-13T00:00:00+00:00",
-   "closingDate": "2026-11-27T10:00:00+00:00",
-   "procurementMethod": "Transversal contract",
-   "procurementCategory": "goods",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "CCB2026-11-01 ICT equipment .pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=7a00cdcf-0716-418c-a23a-7c47e3b8e631.pdf&downloadedFileName=CCB2026-11-01%20ICT%20equipment%20.pdf",
-     "format": "pdf",
-     "published": "2026-11-13T11:45:29Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
    "id": "ocds-9t57fa-174550",
    "reference": "GICT 05 2026/27",
    "title": "Tender for appointment of a panel of service providers to support city of Tshwane business applications and to provide information technology services for 36 months.",
@@ -2735,7 +2602,7 @@
    "reference": "DHA20-2026",
    "title": "APPOINTMENT OF A SERVICE PROVIDER FROM SITA RFB1183 FOR THE ESTABLISHMENT OF AN ICT PORTFOLIO MANAGEMENT OFFICE (PMO) TO DELIVER THE DIGITAL TRANSFORMATION STRATEGY (MICROSOFT-BASED PORTFOLIO MANAGEMENT) FOR A PERIOD OF THIRTY-SIX (36) MONTHS, WITH A POSSIBILITY TO RENEW FOR TWENTY-FOUR (24) MONTHS, SUBJECT TO SATISFACTORY PERFORMANCE OF THE SERVICE PROVIDER AND THE AVAILABILITY OF FUNDS.",
    "department": "Home Affairs",
-   "category": "Software & Systems",
+   "category": "IT Services & Support",
    "company": "rtc",
    "matchedTerms": [
     "ict",
@@ -3946,7 +3813,7 @@
    "reference": "HO/PGC/ICT/522/09/2026",
    "title": "THE APPOINTMENT OF A CONTRACTOR FOR THE DESIGN, SUPPLY, INSTALLATION, AND MAINTENANCE OF THE INTELLIGENT OPERATION CENTER AND AI PLATFORM FOR PRASA, AS AND WHEN REQUIRED, FOR A PERIOD OF 36 MONTHS.",
    "department": "Passenger Rail Agency of South Africa",
-   "category": "Software & Systems",
+   "category": "IT Services & Support",
    "company": "rtc",
    "matchedTerms": [
     "ai",
@@ -4714,7 +4581,7 @@
    "reference": "CGE/T/11/2026/27",
    "title": "Provision of WAN and VOIP services for 36 months",
    "department": "Commission for Gender Equality",
-   "category": "Telecoms & Unified Comms",
+   "category": "Network & Infrastructure",
    "company": "rtc",
    "matchedTerms": [
     "voip",
@@ -5508,6 +5375,46 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
+   "id": "ocds-9t57fa-179195",
+   "reference": "WMM-LM 08/10/26/01 LTD",
+   "title": "Procurement of Laptops and Tracking Devices",
+   "department": "Winnie Madikizela-Mandela Local Municipality",
+   "category": "End-User Computing",
+   "company": "rtc",
+   "matchedTerms": [
+    "laptop"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-20T00:00:00+00:00",
+   "closingDate": "2026-12-04T11:00:00+00:00",
+   "procurementMethod": "Request for Bid(Open-Tender)",
+   "procurementCategory": "goods",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "BID DOCUMENT FOR LAPTOPS-UPDATED.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=f74d821b-4e12-4d97-ada8-4075fafaa5b3.pdf&downloadedFileName=BID%20DOCUMENT%20FOR%20LAPTOPS-UPDATED.pdf",
+     "format": "pdf",
+     "published": "2026-11-20T15:01:05Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
    "id": "ocds-9t57fa-178177",
    "reference": "(NRCS 011-2026/2027)",
    "title": "APPOINTMENT OF A SERVICE PROVIDER TO IMPLEMENT, OPERATE AND SUPPORT A MANAGED SECURITY OPERATIONS CENTRE (MSOC) FOR THE NATIONAL REGULATOR FOR COMPULSORY SPECIFICATIONS (NRCS) FOR A PERIOD OF 36 MONTHS\r\n(NRCS 011-2026/2027)",
@@ -5766,7 +5673,7 @@
    "reference": "5/2/2/1(013)2026-2027",
    "title": "APPOINTMENT OF A SERVICE PROVIDER TO SUPPLY AND ACTIVATE CISCO DNA CENTRE VIRTUAL APPLIANCE, CISCO IDENTITY SERVICES LICENCE RENEWALS, SMARTNET AND PROVIDE SUPPORT FOR THE PERIOD OF THREE YEARS (36 MONTHS) FOR THE DEPARTMENT OF AGRICULTURE.",
    "department": "National - Department of Agriculture",
-   "category": "Software & Systems",
+   "category": "Network & Infrastructure",
    "company": "rtc",
    "matchedTerms": [
     "cisco",
@@ -6833,7 +6740,7 @@
    "reference": "RFT111/11/2025/26",
    "title": "Appointment of a systems integrator and turnkey service provider for ICT Infrastructure modernization, managed ICT hardware, software consumable and peripherals on an outright purchase or as service basis.",
    "department": "Madibeng Local Municipality",
-   "category": "Software & Systems",
+   "category": "IT Services & Support",
    "company": "rtc",
    "matchedTerms": [
     "ict",
@@ -7784,10 +7691,10 @@
    },
    "documents": [
     {
-     "title": "ADVERT FOR APPOINTMENT OF SERVICE PROVIDER FOR THE SUPPLY,DELIVERY,INSTALLATION INTERGRATED FINANCIAL SYSTEM.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=e0315c41-a8b3-46e4-9ce0-6997ae7756ed.pdf&downloadedFileName=ADVERT%20FOR%20APPOINTMENT%20OF%20SERVICE%20PROVIDER%20FOR%20THE%20SUPPLY%2CDELIVERY%2CINSTALLATION%20INTERGRATED%20FINANCIAL%20SYSTEM.pdf",
+     "title": "TENDER DOCUMENT FOR APPOINTMENT OF A SUITABLY QUALIFIED SERVICE PROVIDER FOR THE SUPPLY AND DELIVERY,INSTALLATION,AND COMMISSIONING OF AN INTERGRATED MSCOA-COMPLIANT FINANCIAL MANAGEMENT SYSTEM.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=99cd4075-cfbe-4575-b860-39ade3668372.pdf&downloadedFileName=TENDER%20DOCUMENT%20FOR%20APPOINTMENT%20OF%20A%20SUITABLY%20QUALIFIED%20SERVICE%20PROVIDER%20FOR%20THE%20SUPPLY%20AND%20DELIVERY%2CINSTALLATION%2CAND%20COMMISSIONING%20OF%20AN%20INTERGRATED%20MSCOA-COMPLIANT%20FINANCIAL%20MANAGEMENT%20SYSTEM.pdf",
      "format": "pdf",
-     "published": "2026-11-13T15:53:52Z"
+     "published": "2026-11-20T15:46:42Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -8524,6 +8431,46 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=2d171ff8-9486-4118-9fdd-3759121ca836.pdf&downloadedFileName=UMN03-2026-2027%20Appointment%20of%20a%20service%20provider%20to%20supply%20and%20delivery%20of%20servers%20and%20tool%20monitoring%20as%20at%2018%20November%202026.%20final.pdf",
      "format": "pdf",
      "published": "2026-11-18T15:15:38Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-179236",
+   "reference": "GPL012/2027",
+   "title": "APPOINTMENT OF A SERVICE PROVIDER TO SUPPORT AND PERFORM MAINTENANCE OF SAP ECC 7.5, UPGRADE SAP ECC 7.5 TO SAP S4/ HANA BY 2028 AND SUPPORT SAP S4/HANA UNTIL 2030.",
+   "department": "Gauteng - Legislature",
+   "category": "Software & Systems",
+   "company": "rtc",
+   "matchedTerms": [
+    "sap"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-20T00:00:00+00:00",
+   "closingDate": "2027-01-15T11:00:00+00:00",
+   "procurementMethod": "Request for Bid(Open-Tender)",
+   "procurementCategory": "consultingServices",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "GPL012.2027 SAP 4HANA Bidding Document.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=f492751b-881d-47ea-bbcc-81790bb25ccf.pdf&downloadedFileName=GPL012.2027%20SAP%204HANA%20Bidding%20Document.pdf",
+     "format": "pdf",
+     "published": "2026-11-20T16:11:31Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
