@@ -1,0 +1,82 @@
+name: Check and publish
+
+# Every push and pull request: site checks. Pushes to main: publish to GitHub Pages, then check
+# the live site. Publishing from this workflow starts once the repository variable
+# PAGES_VIA_ACTIONS is 'true' and Settings → Pages → Source is "GitHub Actions" (see the
+# Ryno-Tec DevOps runbook). Until then GitHub keeps publishing straight from the branch.
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+  workflow_call:      # used by other workflows here that commit (their commits don't trigger pushes)
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Links, assets and JSON
+        run: python3 .github/scripts/site-check.py .
+      - name: JavaScript syntax
+        run: |
+          find . -name '*.js' -not -path '*/vendor/*' -not -path '*/node_modules/*' -not -name '*.min.js' -print0 \
+            | xargs -0 -r -n1 node --check
+      - name: Scraper, sync tool and API compile
+        run: |
+          python3 -m py_compile etender_scraper.py tools/*.py
+          node --check server.js
+      - name: Tender data has the expected shape
+        run: |
+          python3 - <<'PY'
+          import datetime as dt, json
+          for f in ('data/tenders.json', 'data/tenders-llp.json'):
+              d = json.load(open(f))
+              assert isinstance(d.get('tenders'), list), f + ': no tenders list'
+              assert d.get('count') == len(d['tenders']), f + ': count does not match the list'
+              age = dt.datetime.now(dt.timezone.utc) - dt.datetime.fromisoformat(d['generatedAt'])
+              if age > dt.timedelta(days=2): print(f'::warning::{f} is {age.days} days old; check the "Update tender data" workflow')
+              print(f, len(d['tenders']), 'tenders, generated', d['generatedAt'])
+          PY
+
+  publish:
+    needs: check
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main' && vars.PAGES_VIA_ACTIONS == 'true'
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main   # latest main, including data commits made just before (eTender)
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deploy
+        uses: actions/deploy-pages@v4
+
+  live:
+    needs: publish
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Live site answers with the new version
+        run: |
+          for i in 1 2 3 4 5 6 7 8; do
+            body="$(curl -sS --max-time 20 "https://tenders.ryno-tec.co.za/?v=$(date +%s)" || true)"
+            if echo "$body" | grep -q "eTender"; then echo "ok https://tenders.ryno-tec.co.za"; exit 0; fi
+            sleep 15
+          done
+          echo "::error::https://tenders.ryno-tec.co.za did not serve the expected page after publishing."; exit 1

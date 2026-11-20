@@ -50,3 +50,14 @@ jobs:
             git pull --rebase origin main
             git push
           fi
+
+  # The data commit above is made with the workflow token, which doesn't start other workflows,
+  # so publish from here once the site is published by GitHub Actions.
+  publish:
+    needs: update
+    if: vars.PAGES_VIA_ACTIONS == 'true'
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/pages.yml
