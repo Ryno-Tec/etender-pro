@@ -1,18 +1,18 @@
 {
  "source": "https://ocds-api.etenders.gov.za/api/OCDSReleases",
- "generatedAt": "2026-11-20T15:10:44.063810+00:00",
+ "generatedAt": "2026-11-20T23:15:51.865894+00:00",
  "lookbackDays": 60,
- "coveredFrom": "2026-10-21",
- "releasesScanned": 2944,
- "uniqueTenders": 2969,
- "count": 171,
+ "coveredFrom": "2026-10-22",
+ "releasesScanned": 2883,
+ "uniqueTenders": 2933,
+ "count": 175,
  "categories": {
-  "Software & Systems": 75,
-  "IT Services & Support": 16,
-  "Cybersecurity": 10,
+  "Software & Systems": 76,
+  "IT Services & Support": 19,
+  "Cybersecurity": 8,
   "Network & Infrastructure": 29,
-  "End-User Computing": 21,
-  "Telecoms & Unified Comms": 12,
+  "End-User Computing": 22,
+  "Telecoms & Unified Comms": 13,
   "Cloud Services": 8
  },
  "onlineBriefings": 0,
@@ -398,7 +398,7 @@
    "reference": "RFQ/ICT/26/27/241",
    "title": "PROVISION OF MIMECAST EMAIL CONTINUITY AND ARCHIVING SOLUTIONS FOR 12 MONTHS",
    "department": "Manufacturing, Engineering and Related Services SETA (merSETA)",
-   "category": "Cybersecurity",
+   "category": "IT Services & Support",
    "company": "rtc",
    "matchedTerms": [
     "ict",
@@ -906,6 +906,58 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=2fa61ac6-726b-4362-aad0-6e515011df7f.pdf&downloadedFileName=Erratum%20SCMU5-26-27-0060-1.pdf",
      "format": "pdf",
      "published": "2026-11-11T16:28:28Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-178190",
+   "reference": "HO/INT/67/11/2026",
+   "title": "RE- ADVERTISEMENT OF REQUEST FOR QUOTATION (RFQ) FOR   SOURCING OF A PROFESSIONAL SERVICE PROVIDER TO UNDERTAKE A BASIC DESKTOP ASSESSMENT OF ITS PROPERTY AND PREPARE A HIGH-LEVEL PORTFOLIO MASTER PLAN FOR INTERSITE ASSET INVESTMENT.",
+   "department": "Passenger Rail Agency of South Africa",
+   "category": "End-User Computing",
+   "company": "rtc",
+   "matchedTerms": [
+    "desktop"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-13T00:00:00+00:00",
+   "closingDate": "2026-11-24T12:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "consultingServices",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "REVISED -SoW REAL ESTATE PORTFOLIO MASTER PLAN_.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=b4426750-53ed-40ab-94eb-2080bcbbca74.pdf&downloadedFileName=REVISED%20-SoW%20REAL%20ESTATE%20PORTFOLIO%20MASTER%20PLAN_.pdf",
+     "format": "pdf",
+     "published": "2026-11-13T15:27:11Z"
+    },
+    {
+     "title": "RFQ FOR BASIC DESKTOP ASSESSMENT OF ITS PROPERTY AND PREPARE A HIGH-LEVEL MASTER PLAN FOR INTERSITE ASSEST INVESTMENT.docx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=5dd6664c-6fcf-48d6-a9c1-368ac45c42a8.docx&downloadedFileName=RFQ%20FOR%20BASIC%20DESKTOP%20ASSESSMENT%20OF%20ITS%20PROPERTY%20AND%20PREPARE%20A%20HIGH-LEVEL%20MASTER%20PLAN%20FOR%20INTERSITE%20ASSEST%20INVESTMENT.docx",
+     "format": "docx",
+     "published": "2026-11-19T09:17:43Z"
+    },
+    {
+     "title": "PRICING SCHEDULE MASTER PLANNING.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=13b77329-a0a4-4342-ab25-6fce825b5b2f.pdf&downloadedFileName=PRICING%20SCHEDULE%20MASTER%20PLANNING.pdf",
+     "format": "pdf",
+     "published": "2026-11-13T15:12:54Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -1463,6 +1515,48 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=adef1406-71af-4b11-8e46-b6a6eaac3bbc.pdf&downloadedFileName=RFQ-MICT-92-2026%20ETQA-REGISTERED%20OCCUPATIONAL%20PROGRAMMES%20WITHIN%20THE%20ICT%20SUB-SECTOR.pdf",
      "format": "pdf",
      "published": "2026-11-20T14:28:00Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-179267",
+   "reference": "RFQ 103 2026",
+   "title": "APPOINTMENT OF A SERVICE PROVIDER TO SUPPLY, RENEW AND FACILITATE THE ACTIVATION OF PERESOFT CASHBOOK SOFTWARE LICENSES AND ASSOCIATED SOFTWARE ASSURANCE FOR A PERIOD OF TWENTY-FOUR (24) MONTHS",
+   "department": "National Regulator for Compulsory Specifications",
+   "category": "Software & Systems",
+   "company": "rtc",
+   "matchedTerms": [
+    "license",
+    "software",
+    "software licens"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-20T00:00:00+00:00",
+   "closingDate": "2026-11-26T11:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "consultingServices",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "RFQ 103-26 CASHBOOK SOFTWARE LICENCES AND ASSOCIATED SOFTWARE ASSURANCE FOR TWENT-FOUR MONTHS.docx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=aa9d5b09-3b5a-47fd-a364-483b738ddb41.docx&downloadedFileName=RFQ%20103-26%20CASHBOOK%20SOFTWARE%20LICENCES%20AND%20ASSOCIATED%20SOFTWARE%20ASSURANCE%20FOR%20TWENT-FOUR%20MONTHS.docx",
+     "format": "docx",
+     "published": "2026-11-20T19:13:27Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -2165,6 +2259,46 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=b290011b-0d06-4c01-a30a-ce583a0696d2.pdf&downloadedFileName=Returnable%20Schedules......2.pdf",
      "format": "pdf",
      "published": "2026-11-19T10:50:35Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-178147",
+   "reference": "CCB2026/11/01",
+   "title": "ICT equipmet",
+   "department": "Castle Control Board",
+   "category": "IT Services & Support",
+   "company": "rtc",
+   "matchedTerms": [
+    "ict"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-13T00:00:00+00:00",
+   "closingDate": "2026-11-27T10:00:00+00:00",
+   "procurementMethod": "Transversal contract",
+   "procurementCategory": "goods",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "CCB2026-11-01 ICT equipment .pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=7a00cdcf-0716-418c-a23a-7c47e3b8e631.pdf&downloadedFileName=CCB2026-11-01%20ICT%20equipment%20.pdf",
+     "format": "pdf",
+     "published": "2026-11-13T11:45:29Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -7095,7 +7229,7 @@
    "reference": "5-2-2-1 DLRRD 0021 2026-2027",
    "title": "THE APPOINTMENT OF A SERVICE PROVIDER TO CONDUCT AN INFORMATION TECHNOLOGY (IT) AUDIT PROJECT OF CYBERSECURITY FOR THE DEPARTMENT OF LAND REFORM AND RURAL DEVELOPMENT (DLRRD),",
    "department": "Department of  Land Reform and Rural Development",
-   "category": "Cybersecurity",
+   "category": "IT Services & Support",
    "company": "rtc",
    "matchedTerms": [
     "cyber",
@@ -7545,7 +7679,7 @@
    "reference": "RFB 3301/ 2026 - (ERP No 530015)",
    "title": "Appointment of a Service Provider to Provide a New Integrated Video Conferencing and Audio-Visual Solution for SAPS UBUNYE Auditorium.The Closing Date Has Being Extended Till 14 December 2026",
    "department": "State Information Technology Agency",
-   "category": "Software & Systems",
+   "category": "Telecoms & Unified Comms",
    "company": "rtc",
    "matchedTerms": [
     "erp",
@@ -8263,6 +8397,60 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=303577c3-4eac-4aa3-ba2d-c40ce2625533.xlsx&downloadedFileName=PRICING%20SCHEDULE%20UGU-07-1735-2026.xlsx",
      "format": "xlsx",
      "published": "2026-11-18T05:35:09Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-179251",
+   "reference": "EHC/M356/12/2026",
+   "title": "Request to procure, supply and activate 45 Microsoft Business Premium Licenses for a period of 24 Months. EHC/M356/12/2026",
+   "department": "Ekurhuieni Housing Company",
+   "category": "Software & Systems",
+   "company": "rtc",
+   "matchedTerms": [
+    "license",
+    "microsoft",
+    "microsoft business premium licens"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-20T00:00:00+00:00",
+   "closingDate": "2026-12-21T11:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "consultingServices",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "MBDs1to9.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=23e43fc1-813e-452d-ac0b-3278b6cb4348.pdf&downloadedFileName=MBDs1to9.pdf",
+     "format": "pdf",
+     "published": "2026-11-20T17:21:45Z"
+    },
+    {
+     "title": "MBD 6.1 IN TERMS OF PPR2022 amended.docx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=09b0f10e-d587-4668-a5e3-6c28ffc60f6e.docx&downloadedFileName=MBD%206.1%20IN%20TERMS%20OF%20PPR2022%20amended.docx",
+     "format": "docx",
+     "published": "2026-11-20T17:22:44Z"
+    },
+    {
+     "title": "Microsoft advert .pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=e6b76afc-b36a-4d15-a379-a1e1a1b6dcea.pdf&downloadedFileName=Microsoft%20advert%20.pdf",
+     "format": "pdf",
+     "published": "2026-11-20T17:21:09Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"

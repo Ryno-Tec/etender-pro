@@ -1,74 +1,21 @@
 {
  "source": "https://ocds-api.etenders.gov.za/api/OCDSReleases",
- "generatedAt": "2026-11-20T15:10:44.063810+00:00",
+ "generatedAt": "2026-11-20T23:15:51.865894+00:00",
  "lookbackDays": 60,
- "coveredFrom": "2026-10-21",
- "releasesScanned": 2944,
- "uniqueTenders": 2969,
- "count": 310,
+ "coveredFrom": "2026-10-22",
+ "releasesScanned": 2883,
+ "uniqueTenders": 2933,
+ "count": 316,
  "categories": {
-  "Facilities Maintenance": 154,
+  "Facilities Maintenance": 180,
   "Grounds & Landscaping": 32,
-  "Supply & Consumables": 76,
-  "Agriculture": 48
+  "Supply & Consumables": 74,
+  "Agriculture": 30
  },
  "onlineBriefings": 0,
- "carriedOver": 25,
+ "carriedOver": 26,
  "briefingFieldsSeen": {},
  "tenders": [
-  {
-   "id": "ocds-9t57fa-175223",
-   "reference": "10417217 D",
-   "title": "Repair and refurbish portable sump pump for OPS and blower motor",
-   "department": "Rand Water",
-   "category": "Facilities Maintenance",
-   "company": "llp",
-   "matchedTerms": [
-    "refurbish",
-    "repair"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-10-22T00:00:00+00:00",
-   "closingDate": "2026-11-20T16:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "RFQ 10417217 D.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=c1fb4b5f-1cd1-4e32-85ba-5217147ad760.pdf&downloadedFileName=RFQ%2010417217%20D.pdf",
-     "format": "pdf",
-     "published": "2026-10-22T12:33:12Z"
-    },
-    {
-     "title": "BOQ.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=068efc81-4d8c-4ed8-9280-5c4a56e669e1.pdf&downloadedFileName=BOQ.pdf",
-     "format": "pdf",
-     "published": "2026-10-22T14:25:17Z"
-    },
-    {
-     "title": "Annexure C4 Site Information.docx",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=08eabaa8-3421-4225-92b8-fd08b43e6579.docx&downloadedFileName=Annexure%20C4%20Site%20Information.docx",
-     "format": "docx",
-     "published": "2026-10-22T12:34:19Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
   {
    "id": "ocds-9t57fa-177900",
    "reference": "Q57-2026-27",
@@ -331,6 +278,90 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=7c60def3-175d-4511-a411-68ef9685f31c.pdf&downloadedFileName=Document%20%20Design%2C%20Supply%2C%20Installation%2C%20Testing%2C%20Commissioning%20and%2010-Year%20Maintenance%20of%20LED%20Floodlighting%20Infrastructure%20at%20Border%20Cricket%20Grounds.pdf",
      "format": "pdf",
      "published": "2026-10-19T10:45:05Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-179125",
+   "reference": "SCMU3-P26/27-1045-LDH",
+   "title": "SERVICE: GROUNDS MAINTENANCE FOR A PERIOD OF 12 (TWELVE) MONTHS AT LIVINGSTONE TERTIARY HOSPITAL",
+   "department": "Eastern Cape - Health",
+   "category": "Facilities Maintenance",
+   "company": "llp",
+   "matchedTerms": [
+    "grounds",
+    "maintenance"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-20T00:00:00+00:00",
+   "closingDate": "2026-11-23T11:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "SCMU3-P26-27-1045-LDH-Ground Maintenance.PDF",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=35c0324d-4016-4bcc-b70b-2c168148f2c2.PDF&downloadedFileName=SCMU3-P26-27-1045-LDH-Ground%20Maintenance.PDF",
+     "format": "pdf",
+     "published": "2026-11-20T13:28:26Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-178168",
+   "reference": "5/2/1/1/2025-2026/287",
+   "title": "APPOINTMENT OF A SERVICE PROVIDER TO RENDER GENERAL CLEANING SERVICES FOR THE DEPARTMENT OF AGRICULTURE AT TRUST BANK BUILDING IN GAUTENG FOR THREE (3) MONTHS.",
+   "department": "National - Department of Agriculture",
+   "category": "Supply & Consumables",
+   "company": "llp",
+   "matchedTerms": [
+    "agricultur",
+    "building",
+    "cleaning",
+    "cleaning services"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-13T00:00:00+00:00",
+   "closingDate": "2026-11-23T11:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "5-2-1-1-2026-2027-287.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=a9e4da3b-112c-4548-b9fb-673d2e2d6a51.pdf&downloadedFileName=5-2-1-1-2026-2027-287.pdf",
+     "format": "pdf",
+     "published": "2026-11-13T13:11:25Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -2498,7 +2529,7 @@
    "reference": "MMB2627/037 GS",
    "title": "PREVENTATIVE MAINTENANCE(36 MONTHS) REPAIRS AND SERVICE OF FIRE FIGHTING EQUIPMENT : DR RSM DISTRICT MUNICIPALITY ( SAPS DOJ HOME AFFAIRS LABOUR STATS SA AGRICULTURE & DEEDS)\r\n\r\nCIDB GRADE  3F OR HIGHER",
    "department": "Public Works",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "agricultur",
@@ -2993,7 +3024,7 @@
    "reference": "RLM/DCD/0061/2026/27",
    "title": "Appointment of a service provider to render the cleaning and hygiene service at various municipal buildings for a period of 36 months as and when needed",
    "department": "Rustenburg Local Municipality",
-   "category": "Supply & Consumables",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "buildings",
@@ -3260,7 +3291,7 @@
    "reference": "E3615GXMPDUVp",
    "title": "Publication of bidders names - Service, Maintenance, Calibration, Supply of spares and consumables of Lab Instruments at Duvha Power Station on as and when required basis for a period of 60 Months.",
    "department": "ESKOM",
-   "category": "Supply & Consumables",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "consumables",
@@ -3662,6 +3693,12 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=9057b9e4-5bce-43e0-b8f0-53b83f0d844c.pdf&downloadedFileName=ERRATUM%20FOR%20THE%20PROVISION%20OF%20HYGIENE%20SERVICES%20FOR%20THE%20CCMA%20TSHWANE%20OFFICE%20FOR%20A%20PERIOD%20OF%2060%20MONTHS%20%28RE-ADVERTISEMENT%29.pdf",
      "format": "pdf",
      "published": "2026-11-12T15:09:00Z"
+    },
+    {
+     "title": "QUESTION AND ANSWERS BID NUMBER CCMA202602 TSH APPOINTMENT OF A SERVICE PROVIDER FOR THE PROVISION OF HYGIENE SERVICES AT THE CCMA TSHWANE OFFICE FOR A PERIOD OF 60 MONTHS.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=13e85cf4-ffc3-483a-8ff7-fdbcd8ae92f6.pdf&downloadedFileName=QUESTION%20AND%20ANSWERS%20BID%20NUMBER%20CCMA202602%20TSH%20APPOINTMENT%20OF%20A%20SERVICE%20PROVIDER%20FOR%20THE%20PROVISION%20OF%20HYGIENE%20SERVICES%20AT%20THE%20CCMA%20TSHWANE%20OFFICE%20FOR%20A%20PERIOD%20OF%2060%20MONTHS.pdf",
+     "format": "pdf",
+     "published": "2026-11-20T16:54:37Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -5644,7 +5681,7 @@
    "reference": "252/2026",
    "title": "APPOINTMENT OF CONTRACTOR FOR RESEALING AND MAINTENANCE OF ROADS AND STORMWATER IN THE KOUGA LOCAL MUNICIPAL AREA FOR A PERIOD OF THREE (3) YEARS",
    "department": "Kouga Municipality",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -5922,7 +5959,7 @@
    "reference": "E0226EOISDLERI",
    "title": "Identification and selection of new-entrant, 100% black-owned Exempted Micro\r\nEnterprises (EMEs) and Qualifying Small Enterprises (QSEs) to be assigned\r\nas Enterprise and Supplier Development (ESD) beneficiaries to the contracted\r\nOutage Service Contractor(s) for the Provision of Outage, Maintenance and\r\nWorks Services for various Eskom Power Stations for a period of five (5) years.\r\nSelected beneficiaries will receive a minimum of 30% of the contractor’s\r\ntechnical scope as subcontracted work, together with a structured development\r\nprogramme. Enterprises owned by black women, black youth and black people\r\nwith disabilities are strongly encouraged to respond.",
    "department": "ESKOM",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -6317,7 +6354,7 @@
    "reference": "ZNB 3001/2026-H",
    "title": "PROVISION OF CLEANING OF BUILDINGS AND OFFICES AT SELECTED FACILITIES AND WILL BE AWARDED AS A MULTI-AWARD BID THREE (03) YEARS CONTRACT.",
    "department": "Kwazulu Natal - Health",
-   "category": "Supply & Consumables",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "buildings",
@@ -6364,7 +6401,7 @@
    "reference": "ZNB 3001 2026-H",
    "title": "PROVISION OF CLEANING OF BUILDINGS AND OFFICES AT SELECTED FACILITIES AND WILL BE AWARDED AS A MULTI-AWARD BID THREE (03) YEARS CONTRACT.",
    "department": "Kwazulu Natal - Health",
-   "category": "Supply & Consumables",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "buildings",
@@ -7330,7 +7367,7 @@
    "reference": "COM140/2026",
    "title": "APPOINTMENT OF A CONTRACTOR FOR THE CONSTRUCTION AND INSTALLATION OF FENCING AT A FARM IN NUMBI VILLAGE, WARD 39, WITHIN THE CITY OF MBOMBELA",
    "department": "Mbombela Local Municipality",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "farm",
@@ -10107,7 +10144,7 @@
    "reference": "NRA  2026/0757",
    "title": "FOR THE OPERATIONS AND MAINTENANCE OF THE TOLL PLAZAS ON THE NATIONAL \r\nROUTE N2 NORTH (Retender) (Contractor)",
    "department": "South African National Roads Agency Soc Limited (SANRAL)",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -10151,6 +10188,47 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=136931b4-c8e4-4a92-b3d8-fdf61a8a240f.zip&downloadedFileName=N2.zip",
      "format": "zip",
      "published": "2026-11-06T19:13:24Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-176842",
+   "reference": "09/2027",
+   "title": "Bid No: SUPPLY, INSTALL SERVICE AND MAINTENANCE OF  FOUR(4) 12kv SUBMERSIBLE PUMPS FOR PUMPING SEAWATER INTO SCOTTBURGH SWIMMING POOL,INCLUDING POOL CLEANING FOR A PERIOD OF 36 MONTHS",
+   "department": "Umdoni Local Municipality",
+   "category": "Facilities Maintenance",
+   "company": "llp",
+   "matchedTerms": [
+    "cleaning",
+    "maintenance"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-04T00:00:00+00:00",
+   "closingDate": "2026-12-04T11:00:00+00:00",
+   "procurementMethod": "Request for Bid(Open-Tender)",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "SWIMMING POOL AND PUMPS.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=1cccbc2e-f860-4e2c-b537-c529261c4f84.pdf&downloadedFileName=SWIMMING%20POOL%20AND%20PUMPS.pdf",
+     "format": "pdf",
+     "published": "2026-11-03T14:40:24Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -11887,7 +11965,7 @@
    "reference": "NRA 2026/0755",
    "title": "FOR THE OPERATIONS AND MAINTENANCE OF MARIANNHILL TOLL \r\nPLAZA ON NATIONAL ROUTE 3 (Contractor)",
    "department": "South African National Roads Agency Soc Limited (SANRAL)",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -12634,7 +12712,7 @@
    "reference": "TNPA/2026/06/1286/7234/RFP",
    "title": "STANDING APPROVED LIST FOR THE SUPPLY AND DELIVERY OF CIVIL AND ELECTRICAL MAINTENANCE MATERIALS WITH SPARES AND CONSUMABLES ON AN AS AND WHEN REQUIRED BASIS FOR THE CENTRAL REGION (PORT OF EAST LONDON, PORT OF NGQURA & PORT OF PORT OF ELIZABETH) FOR PERIOD OF 5 YEARS",
    "department": "Transnet SOC Ltd",
-   "category": "Supply & Consumables",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "consumables",
@@ -13265,7 +13343,7 @@
    "reference": "SCMU6-26/27-0009",
    "title": "APPOINTMENT OF A CONTRACTOR FOR EMERGENCY REPAIRS AT MORULANE JUNIOR SECONDARY SCHOOL",
    "department": "Eastern Cape - Education",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "repairs",
@@ -13306,7 +13384,7 @@
    "reference": "DOH(FS)11/2026/2027",
    "title": "APPOINTMENT OF A SUITABLE CONTRACTOR TO UNDERTAKE THE MAJOR UPGRADES AT EXISTING PAX CLINIC, VIJOENSKROON FREE STATE PROVINCE. (8GB OR HIGHER)",
    "department": "Free State - Health",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "tractor",
@@ -14967,7 +15045,7 @@
    "reference": "8/2/RNM0653",
    "title": "PANEL OF ELECTRICAL CONTRACTOR FOR MAINTENANCE OF ELECTRICAL INFRASTRUCTURE TO RAY NKONYENI MUNICIPALITY FOR A PERIOD OF THREE YEARS",
    "department": "Ray Nkonyeni Local Municipality",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -15216,11 +15294,175 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
+   "id": "ocds-9t57fa-179265",
+   "reference": "DMPR/016/2026/27",
+   "title": "INVITATION OF BIDS FOR APPOINTMENT OF A SERVICE PROVIDER TO PROVIDE REPAIR, MAINTENANCE AND TECHNICAL SUPPORT FOR EXISTING CCTV AND ACCESS CONTROL SYSTEMS AT THE DEPARTMENT OF MINERAL AND PETROLEUM RESOURCES, HEAD OFFICE (PRETORIA) FOR A PERIOD OF THIRTY-SIX (36) MONTHS.",
+   "department": "National - Department of Mineral and Petroleum Resources",
+   "category": "Facilities Maintenance",
+   "company": "llp",
+   "matchedTerms": [
+    "maintenance",
+    "repair"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-20T00:00:00+00:00",
+   "closingDate": "2026-12-15T11:00:00+00:00",
+   "procurementMethod": "Request for Bid(Open-Tender)",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "BID DOCUMENT 016.zip",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=1857f4aa-b1d9-45c2-874d-db7196f40a4c.zip&downloadedFileName=BID%20DOCUMENT%20016.zip",
+     "format": "zip",
+     "published": "2026-11-20T18:36:19Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-179274",
+   "reference": "JSM/WB-O/M/26-29",
+   "title": "APPOINTMENT OF A PANEL OF SERVICE PROVIDERS FOR THE REPAIR, MAINTENANCE, REPLACEMENT AND EQUIPPING OF BOREHOLES AND ASSOCIATED WORKS AROUND DR JS MOROKA LOCAL MUNICIPALITY AS AND WHEN REQUIRED FOR A PERIOND OF 36 MONTHS (7ME OR 7CE)",
+   "department": "Dr JS Moroka Local Municipality",
+   "category": "Facilities Maintenance",
+   "company": "llp",
+   "matchedTerms": [
+    "maintenance",
+    "repair"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-20T00:00:00+00:00",
+   "closingDate": "2026-12-15T11:00:00+00:00",
+   "procurementMethod": "Request for Bid(Open-Tender)",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "Final Tender JSM Document - BOREHOLES 2026 (2) (003) (002).pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=47ab1fd9-5dfc-4207-8992-04a0f0725b29.pdf&downloadedFileName=Final%20Tender%20JSM%20Document%20-%20BOREHOLES%202026%20%282%29%20%28003%29%20%28002%29.pdf",
+     "format": "pdf",
+     "published": "2026-11-20T21:42:36Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-179276",
+   "reference": "JSM ADMIN-01/26-27",
+   "title": "APPOINTMENT OF PANEL OF SERVICE PROVIDERS FOR THE SUPPLY, DELIVERY AND OFFLOADING OF STATIONERY ON AN AS AND WHEN REQUIRED FOR THE PERIOD OF THIRTY-SIX [36] MONTHS.",
+   "department": "Dr JS Moroka Local Municipality",
+   "category": "Supply & Consumables",
+   "company": "llp",
+   "matchedTerms": [
+    "stationery"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-20T00:00:00+00:00",
+   "closingDate": "2026-12-15T11:00:00+00:00",
+   "procurementMethod": "Request for Bid(Open-Tender)",
+   "procurementCategory": "goods",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "SUPPLY AND DELIVERY OF STATIONERY.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=1dca8f7a-b90f-4e0f-8e59-379dceddaf07.pdf&downloadedFileName=SUPPLY%20AND%20DELIVERY%20OF%20STATIONERY.pdf",
+     "format": "pdf",
+     "published": "2026-11-20T21:54:49Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-179277",
+   "reference": "JSM PPC/PPE-03/26-27",
+   "title": "APPOINTMENT OF A PANEL OF SERVICE PROVIDERS FOR SUPPLY, DELIVERY AND OFF-LOADING OF PERSONAL PROTECTIVE EQUIPMENT (PPE) AND PERSONAL PROTECTIVE CLOTHING (PPC) ON AN AS AND WHEN REQUIRED TO DR JS MOROKA MUNICIPALITY FOR A PERIOD OF 36 MONTHS",
+   "department": "Dr JS Moroka Local Municipality",
+   "category": "Supply & Consumables",
+   "company": "llp",
+   "matchedTerms": [
+    "personal protective",
+    "ppe",
+    "protective clothing"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-20T00:00:00+00:00",
+   "closingDate": "2026-12-15T11:00:00+00:00",
+   "procurementMethod": "Request for Bid(Open-Tender)",
+   "procurementCategory": "",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "Tender document for PPE 2026 - 2029 (.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=02fb4192-d274-4e0a-8287-8fc8181c9e68.pdf&downloadedFileName=Tender%20document%20for%20PPE%202026%20-%202029%20%28.pdf",
+     "format": "pdf",
+     "published": "2026-11-20T22:01:45Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
    "id": "ocds-9t57fa-178464",
    "reference": "CSRT/BID09/2026/27",
    "title": "THE ADVERTISEMENT AND APPOINTMENT OF A CONTRACTOR ON CIDB LEVEL 9CE FOR THE UPGRADING OF PRIMARY ROAD P54/3 FOR DISTANCE OF 28KM BETWEEN EDENBURG AND REDDERSBURG FOR THE DEPARTMENT OF COMMUNITY SAFETY, ROADS AND TRANSPORT OVER A PERIOD OF 24 MONTHSOF 24 MONTHS",
    "department": "Free State - Police, Roads and Transport",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "tractor",
@@ -15261,7 +15503,7 @@
    "reference": "CSRT/BID10/2026/27",
    "title": "THE ADVERTISEMENT AND APPOINTMENT OF A CONTRACTOR WITH MINIMUM OF CIDB GRADING LEVEL 9CE FOR SPECIAL MAINTENANCE OF PRIMARY ROAD R59 P33/3, P56/2, P10/1  P83/1 AND 73/1 BETWEEN VILJOENSKROON, VREDEFORT, PARYS, TO SASOLBURG FOR THE DEPARTMENT OF COMMUNITY SAFETY, ROADS AND TRANSPORT FOR A PERIOD OF TWENTY FOUR (24) MONTHS.",
    "department": "Free State - Police, Roads and Transport",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -15897,7 +16139,7 @@
    "reference": "DWS08 1026 WTE",
    "title": "FRAMEWORK CONTRACTORS FOR CIVIL MAINTENANCE AND OTHER RELATED WORKS FOR NORTHERN OPERATIONS FOR A PERIOD OF FOUR (4) YEARS. ONLY RESPONDENTS WITH CIDB GRADING 7CE OR HIGHER ARE ELIGIBLE TO BID.",
    "department": "Water and Sanitation",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -15938,7 +16180,7 @@
    "reference": "DWS11 1026 WTE",
    "title": "FRAMEWORK CONTRACTORS FOR CIVIL MAINTENANCE AND OTHER RELATED WORKS FOR STRATEGIC INFRASTRUCTURE ASSET MANAGEMENT FOR A PERIOD OF FOUR (4) YEARS. ONLY RESPONDENTS WITH CIDB GRADING 9CE ARE ELIGIBLE TO BID",
    "department": "Water and Sanitation",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -15979,7 +16221,7 @@
    "reference": "DWS07-1026 WTE",
    "title": "FRAMEWORK CONTRACTORS FOR CIVIL MAINTENANCE AND OTHER RELATED WORKS FOR CENTRAL OPERATIONS FOR A PERIOD OF FOUR (4) YEARS.  ONLY RESPONDENTS WITH CIDB GRADING 8CE OR HIGHER ARE ELIGIBLE TO BID",
    "department": "Water and Sanitation",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -16026,7 +16268,7 @@
    "reference": "DWS09-0926WTE",
    "title": "FRAMEWORK CONTRACTORS FOR CIVIL MAINTENANCE AND OTHER RELATED WORKS FOR EASTERN OPERATIONS FOR A PERIOD OF FOUR (4) YEARS. ONLY RESPONDENTS WITH CIDB GRADING 9 CE OR HIGHER ARE ELIGIBLE TO BID",
    "department": "Water and Sanitation",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -16073,7 +16315,7 @@
    "reference": "DWS10-0926 WTE",
    "title": "FRAMEWORK CONTRACTORS FOR CIVIL MAINTENANCE AND OTHER RELATED WORKS FOR SOUTHERN OPERATIONS FOR A PERIOD OF FOUR (4) YEARS. ONLY RESPONDENTS WITH CIDB GRADING 9CE ARE ELIGIBLE TO BID.",
    "department": "Water and Sanitation",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -16260,7 +16502,7 @@
    "reference": "GSHPT93/2026",
    "title": "THE PLACEMENT OF TWO (2) EXTRA CORPOREAL MEMBRANE OXYGENATION ECMO MACHINE WITH ACCESSORIES INCLUDING A FULLY COMPREHENSIVE MAINTENANCE CONTRACT AND THE SUPPLY AND DELIVERY OF CONSUMABLES AT GROOTE SCHUUR HOSPITAL OVER A PERIOD OF FIVE (5) YEARS.",
    "department": "Western Cape - Health",
-   "category": "Supply & Consumables",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "consumables",
@@ -16390,7 +16632,7 @@
    "reference": "HES-CORP 01/2627",
    "title": "THE APPOINTMENT OF A CONTRACTOR FOR THE UPGRADING OF ABLUTION FACILITIES IN THE HESSEQUA MUNICIPAL AREA",
    "department": "Hessequa Municipality",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "tractor",
@@ -16973,7 +17215,7 @@
    "reference": "T05-2027",
    "title": "THE APPOINTMENT OF A PANEL OF SERVICE PROVIDERS FOR THE SUPPLY AND DELIVERY OF AGRICULTURAL INPUTS, TOOLS & EQUIPMENTS AND PROTECTIVE CLOTHING FOR PERIOD OF THREE YEARS",
    "department": "ILembe - Enterprise iLembe Economic Development Agency",
-   "category": "Agriculture",
+   "category": "Supply & Consumables",
    "company": "llp",
    "matchedTerms": [
     "agricultur",
