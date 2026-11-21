@@ -1,22 +1,22 @@
 {
  "source": "https://ocds-api.etenders.gov.za/api/OCDSReleases",
- "generatedAt": "2026-11-20T23:15:51.865894+00:00",
+ "generatedAt": "2026-11-21T13:14:47.074127+00:00",
  "lookbackDays": 60,
- "coveredFrom": "2026-10-22",
- "releasesScanned": 2883,
- "uniqueTenders": 2933,
- "count": 175,
+ "coveredFrom": "2026-10-04",
+ "releasesScanned": 3902,
+ "uniqueTenders": 3902,
+ "count": 172,
  "categories": {
-  "Software & Systems": 76,
-  "IT Services & Support": 19,
-  "Cybersecurity": 8,
-  "Network & Infrastructure": 29,
-  "End-User Computing": 22,
+  "Software & Systems": 80,
+  "IT Services & Support": 13,
+  "Cybersecurity": 10,
+  "Network & Infrastructure": 26,
+  "End-User Computing": 23,
   "Telecoms & Unified Comms": 13,
-  "Cloud Services": 8
+  "Cloud Services": 7
  },
  "onlineBriefings": 0,
- "carriedOver": 13,
+ "carriedOver": 4,
  "briefingFieldsSeen": {},
  "tenders": [
   {
@@ -398,7 +398,7 @@
    "reference": "RFQ/ICT/26/27/241",
    "title": "PROVISION OF MIMECAST EMAIL CONTINUITY AND ARCHIVING SOLUTIONS FOR 12 MONTHS",
    "department": "Manufacturing, Engineering and Related Services SETA (merSETA)",
-   "category": "IT Services & Support",
+   "category": "Cybersecurity",
    "company": "rtc",
    "matchedTerms": [
     "ict",
@@ -1013,7 +1013,7 @@
    "reference": "10418532 R",
    "title": "Installation of a Backup power supply system for Barnardsvlei online water quality Instruments, Hartebeesthoek Reservoir and Guard houses",
    "department": "Rand Water",
-   "category": "Network & Infrastructure",
+   "category": "Software & Systems",
    "company": "rtc",
    "matchedTerms": [
     "backup",
@@ -1150,46 +1150,6 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=9d88b1c6-9c86-4c15-acb6-d606582a060d.zip&downloadedFileName=E3792DXKZNOU.zip",
      "format": "zip",
      "published": "2026-11-05T15:12:17Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-179091",
-   "reference": "RFQ2216e",
-   "title": "APPOINTMENT OF A SERVICE PROVIDER TO PROVISION AN INFORMATION AND COMMUNICATIONS TECHNOLOGY DISASTER RECOVERY SOLUTION FOR THE MINE HEALTH AND SAFETY COUNCIL FOR A PERIOD OF 12 MONTHS",
-   "department": "Mine Health and Safety Council",
-   "category": "Network & Infrastructure",
-   "company": "rtc",
-   "matchedTerms": [
-    "disaster recovery"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-20T00:00:00+00:00",
-   "closingDate": "2026-11-25T11:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "RFQ 2216e - DISASTER RECOVERY SOLUTION -005.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=559a18e7-0802-4d03-b3d6-fb31eb7b8aa2.pdf&downloadedFileName=RFQ%202216e%20-%20DISASTER%20RECOVERY%20SOLUTION%20-005.pdf",
-     "format": "pdf",
-     "published": "2026-11-20T11:47:08Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -1480,88 +1440,6 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
-   "id": "ocds-9t57fa-179173",
-   "reference": "RFQ-MICT--2026",
-   "title": "RFQ-MICT-92-2026 -APPOINTMENT OF A SUBJECT MATTER EXPERT FACILITATOR TO DEVELOP A BANK OF EXTERNAL INTEGRATED SUMMATIVE ASSESSMENT INSTRUMENTS FOR THE REGISTERED OCCUPATIONAL PROGRAMMES WITHIN THE ICT SUB-SECTOR",
-   "department": "Media, Information and Communication Technologies Sector Education and training Authority (MICT SETA)",
-   "category": "IT Services & Support",
-   "company": "rtc",
-   "matchedTerms": [
-    "ict"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-20T00:00:00+00:00",
-   "closingDate": "2026-11-26T11:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "consultingServices",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "RFQ-MICT-92-2026 ETQA-REGISTERED OCCUPATIONAL PROGRAMMES WITHIN THE ICT SUB-SECTOR.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=adef1406-71af-4b11-8e46-b6a6eaac3bbc.pdf&downloadedFileName=RFQ-MICT-92-2026%20ETQA-REGISTERED%20OCCUPATIONAL%20PROGRAMMES%20WITHIN%20THE%20ICT%20SUB-SECTOR.pdf",
-     "format": "pdf",
-     "published": "2026-11-20T14:28:00Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-179267",
-   "reference": "RFQ 103 2026",
-   "title": "APPOINTMENT OF A SERVICE PROVIDER TO SUPPLY, RENEW AND FACILITATE THE ACTIVATION OF PERESOFT CASHBOOK SOFTWARE LICENSES AND ASSOCIATED SOFTWARE ASSURANCE FOR A PERIOD OF TWENTY-FOUR (24) MONTHS",
-   "department": "National Regulator for Compulsory Specifications",
-   "category": "Software & Systems",
-   "company": "rtc",
-   "matchedTerms": [
-    "license",
-    "software",
-    "software licens"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-20T00:00:00+00:00",
-   "closingDate": "2026-11-26T11:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "consultingServices",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "RFQ 103-26 CASHBOOK SOFTWARE LICENCES AND ASSOCIATED SOFTWARE ASSURANCE FOR TWENT-FOUR MONTHS.docx",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=aa9d5b09-3b5a-47fd-a364-483b738ddb41.docx&downloadedFileName=RFQ%20103-26%20CASHBOOK%20SOFTWARE%20LICENCES%20AND%20ASSOCIATED%20SOFTWARE%20ASSURANCE%20FOR%20TWENT-FOUR%20MONTHS.docx",
-     "format": "docx",
-     "published": "2026-11-20T19:13:27Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
    "id": "ocds-9t57fa-178595",
    "reference": "CGEQ28/2026/27",
    "title": "Provision of 10 laptops",
@@ -1782,7 +1660,7 @@
    "reference": "PSiRA/2026/27/RFB/08",
    "title": "APPOINTMENT OF A SERVICE PROVIDER FOR THE DESIGN, SUPPLY, IMPLEMENT AND MAINTENANCE OF A CLOUD-BASED MICROSOFT TEAMS TELEPHONY SYSTEM AND CALL CENTER SOLUTION FOR A PERIOD OF 36 MONTHS.",
    "department": "Private Security Industry Regulatory Authority",
-   "category": "Software & Systems",
+   "category": "Cloud Services",
    "company": "rtc",
    "matchedTerms": [
     "cloud",
@@ -2387,6 +2265,12 @@
      "published": "2026-11-03T17:22:41Z"
     },
     {
+     "title": "MS Teams Telephony Contract NEC3 TSC 14092026.docx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=ca1ed2ea-2a6f-4968-9ce4-15ad788fe870.docx&downloadedFileName=MS%20Teams%20Telephony%20Contract%20NEC3%20TSC%2014092026.docx",
+     "format": "docx",
+     "published": "2026-11-20T10:48:18Z"
+    },
+    {
      "title": "Eskom - Standard Conditions of Tender (August 2024) - Annexure Y.pdf",
      "url": "https://www.etenders.gov.za/home/Download?blobName=4083b53c-5271-4879-b57b-1baa9ed79010.pdf&downloadedFileName=Eskom%20-%20Standard%20Conditions%20of%20Tender%20%28August%202024%29%20-%20Annexure%20Y.pdf",
      "format": "pdf",
@@ -2459,6 +2343,12 @@
      "published": "2026-11-12T13:03:07Z"
     },
     {
+     "title": "Q&A6_20Nov2026.docx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=f99e52d6-7350-451c-b13f-95b5a548d9c9.docx&downloadedFileName=Q%26A6_20Nov2026.docx",
+     "format": "docx",
+     "published": "2026-11-20T15:10:09Z"
+    },
+    {
      "title": "SDL&I Template for Bidders - MS Team Telephony -Annexure P.docx",
      "url": "https://www.etenders.gov.za/home/Download?blobName=74a0fd9d-f8f0-4233-a31a-961c439e7868.docx&downloadedFileName=SDL%26I%20Template%20for%20Bidders%20-%20MS%20Team%20Telephony%20-Annexure%20P.docx",
      "format": "docx",
@@ -2477,6 +2367,12 @@
      "published": "2026-10-13T16:58:18Z"
     },
     {
+     "title": "559-1789391746 Third-Party Security Risk Assessment Questionnaire_Rev 7.docx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=b6384381-990e-4a4e-bc87-b9d8ea121ccf.docx&downloadedFileName=559-1789391746%20Third-Party%20Security%20Risk%20Assessment%20Questionnaire_Rev%207.docx",
+     "format": "docx",
+     "published": "2026-11-20T15:13:27Z"
+    },
+    {
      "title": "SLA -Annexure O.pdf",
      "url": "https://www.etenders.gov.za/home/Download?blobName=92266c6d-0539-4396-abd9-bfa6c1c96491.pdf&downloadedFileName=SLA%20-Annexure%20O.pdf",
      "format": "pdf",
@@ -2493,6 +2389,12 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=503758c2-1ef0-4bb2-a426-c680ddf9bc59.docx&downloadedFileName=240-109253698%20CQP%20Template%202021%20-%20Annexure%20W.docx",
      "format": "docx",
      "published": "2026-10-13T16:56:40Z"
+    },
+    {
+     "title": "Copy of VOIP Telephone Pricing Schedule v0.3 -Annexure G- UPDATED 20Nov2026.xlsx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=52bfa73b-6daa-480d-9009-d68d0e9e6fe7.xlsx&downloadedFileName=Copy%20of%20VOIP%20Telephone%20Pricing%20Schedule%20v0.3%20-Annexure%20G-%20UPDATED%2020Nov2026.xlsx",
+     "format": "xlsx",
+     "published": "2026-11-20T15:12:06Z"
     },
     {
      "title": "VOIP Telephone Pricing Schedule v0.2 -Annexure G.xlsx",
@@ -2736,7 +2638,7 @@
    "reference": "DHA20-2026",
    "title": "APPOINTMENT OF A SERVICE PROVIDER FROM SITA RFB1183 FOR THE ESTABLISHMENT OF AN ICT PORTFOLIO MANAGEMENT OFFICE (PMO) TO DELIVER THE DIGITAL TRANSFORMATION STRATEGY (MICROSOFT-BASED PORTFOLIO MANAGEMENT) FOR A PERIOD OF THIRTY-SIX (36) MONTHS, WITH A POSSIBILITY TO RENEW FOR TWENTY-FOUR (24) MONTHS, SUBJECT TO SATISFACTORY PERFORMANCE OF THE SERVICE PROVIDER AND THE AVAILABILITY OF FUNDS.",
    "department": "Home Affairs",
-   "category": "IT Services & Support",
+   "category": "Software & Systems",
    "company": "rtc",
    "matchedTerms": [
     "ict",
@@ -3947,7 +3849,7 @@
    "reference": "HO/PGC/ICT/522/09/2026",
    "title": "THE APPOINTMENT OF A CONTRACTOR FOR THE DESIGN, SUPPLY, INSTALLATION, AND MAINTENANCE OF THE INTELLIGENT OPERATION CENTER AND AI PLATFORM FOR PRASA, AS AND WHEN REQUIRED, FOR A PERIOD OF 36 MONTHS.",
    "department": "Passenger Rail Agency of South Africa",
-   "category": "IT Services & Support",
+   "category": "Software & Systems",
    "company": "rtc",
    "matchedTerms": [
     "ai",
@@ -4124,7 +4026,7 @@
    "reference": "57 OF 2026",
    "title": "Supply, delivery, installation and commissioning of server room environmental management system including quarterly support and maintenance plan for the period of three years",
    "department": "Makhado Local Municipality",
-   "category": "Network & Infrastructure",
+   "category": "Software & Systems",
    "company": "rtc",
    "matchedTerms": [
     "management system",
@@ -4438,7 +4340,7 @@
    "reference": "TMPD 02-2026/27",
    "title": "Tender for the supply and delivery of original equipment manufacturer (OEM) printer specific consumables for identity (id) card printers and as well as upgrading of the existing id card software packages to the Tshwane police department for a period of three (3) years on and when required basis.",
    "department": "City of Tshwane",
-   "category": "Software & Systems",
+   "category": "End-User Computing",
    "company": "rtc",
    "matchedTerms": [
     "printer",
@@ -4715,7 +4617,7 @@
    "reference": "CGE/T/11/2026/27",
    "title": "Provision of WAN and VOIP services for 36 months",
    "department": "Commission for Gender Equality",
-   "category": "Network & Infrastructure",
+   "category": "Telecoms & Unified Comms",
    "company": "rtc",
    "matchedTerms": [
     "voip",
@@ -5807,7 +5709,7 @@
    "reference": "5/2/2/1(013)2026-2027",
    "title": "APPOINTMENT OF A SERVICE PROVIDER TO SUPPLY AND ACTIVATE CISCO DNA CENTRE VIRTUAL APPLIANCE, CISCO IDENTITY SERVICES LICENCE RENEWALS, SMARTNET AND PROVIDE SUPPORT FOR THE PERIOD OF THREE YEARS (36 MONTHS) FOR THE DEPARTMENT OF AGRICULTURE.",
    "department": "National - Department of Agriculture",
-   "category": "Network & Infrastructure",
+   "category": "Software & Systems",
    "company": "rtc",
    "matchedTerms": [
     "cisco",
@@ -6874,7 +6776,7 @@
    "reference": "RFT111/11/2025/26",
    "title": "Appointment of a systems integrator and turnkey service provider for ICT Infrastructure modernization, managed ICT hardware, software consumable and peripherals on an outright purchase or as service basis.",
    "department": "Madibeng Local Municipality",
-   "category": "IT Services & Support",
+   "category": "Software & Systems",
    "company": "rtc",
    "matchedTerms": [
     "ict",
@@ -7229,7 +7131,7 @@
    "reference": "5-2-2-1 DLRRD 0021 2026-2027",
    "title": "THE APPOINTMENT OF A SERVICE PROVIDER TO CONDUCT AN INFORMATION TECHNOLOGY (IT) AUDIT PROJECT OF CYBERSECURITY FOR THE DEPARTMENT OF LAND REFORM AND RURAL DEVELOPMENT (DLRRD),",
    "department": "Department of  Land Reform and Rural Development",
-   "category": "IT Services & Support",
+   "category": "Cybersecurity",
    "company": "rtc",
    "matchedTerms": [
     "cyber",
@@ -7679,7 +7581,7 @@
    "reference": "RFB 3301/ 2026 - (ERP No 530015)",
    "title": "Appointment of a Service Provider to Provide a New Integrated Video Conferencing and Audio-Visual Solution for SAPS UBUNYE Auditorium.The Closing Date Has Being Extended Till 14 December 2026",
    "department": "State Information Technology Agency",
-   "category": "Telecoms & Unified Comms",
+   "category": "Software & Systems",
    "company": "rtc",
    "matchedTerms": [
     "erp",
@@ -8093,7 +7995,7 @@
    "reference": "EDUMT05/2026/27 - ReAdvertisement",
    "title": "RE-ADVERTISEMENT OF THE PROVISION, CONFIRGURATION,IMPLEMENTATION AND SUPPORT OF A DISASTER RECOVERY CLOUD BACKUP SOLUTION FOR A PERIOD OF THIRTY SIX (36) MONTHS",
    "department": "eDumbe Local Municipality",
-   "category": "Cloud Services",
+   "category": "Network & Infrastructure",
    "company": "rtc",
    "matchedTerms": [
     "backup",
@@ -8583,7 +8485,7 @@
    "reference": "UMN 03/2026-27",
    "title": "Appointment of a Service Provider for the procurement, installation and commissioning of enterprise servers, disaster recovery infrastructure, cloud backup solution, active directory monitoring tool, server monitoring tool, and Veeam backup & replication services for uMngeni local municipality for a period of 36 Months",
    "department": "Umngeni Municipality",
-   "category": "Cloud Services",
+   "category": "Network & Infrastructure",
    "company": "rtc",
    "matchedTerms": [
     "backup",
