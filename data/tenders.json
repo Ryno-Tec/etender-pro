@@ -1,19 +1,19 @@
 {
  "source": "https://ocds-api.etenders.gov.za/api/OCDSReleases",
- "generatedAt": "2026-11-21T13:14:47.074127+00:00",
+ "generatedAt": "2026-11-21T22:14:51.347390+00:00",
  "lookbackDays": 60,
- "coveredFrom": "2026-10-04",
- "releasesScanned": 3902,
- "uniqueTenders": 3902,
- "count": 172,
+ "coveredFrom": "2026-10-08",
+ "releasesScanned": 3732,
+ "uniqueTenders": 3797,
+ "count": 175,
  "categories": {
-  "Software & Systems": 80,
-  "IT Services & Support": 13,
-  "Cybersecurity": 10,
-  "Network & Infrastructure": 26,
+  "Software & Systems": 75,
+  "IT Services & Support": 19,
+  "Cybersecurity": 7,
+  "Network & Infrastructure": 32,
   "End-User Computing": 23,
   "Telecoms & Unified Comms": 13,
-  "Cloud Services": 7
+  "Cloud Services": 6
  },
  "onlineBriefings": 0,
  "carriedOver": 4,
@@ -398,7 +398,7 @@
    "reference": "RFQ/ICT/26/27/241",
    "title": "PROVISION OF MIMECAST EMAIL CONTINUITY AND ARCHIVING SOLUTIONS FOR 12 MONTHS",
    "department": "Manufacturing, Engineering and Related Services SETA (merSETA)",
-   "category": "Cybersecurity",
+   "category": "IT Services & Support",
    "company": "rtc",
    "matchedTerms": [
     "ict",
@@ -524,7 +524,7 @@
    "reference": "RY22962",
    "title": "PURCHASING OF CISCO ENDPOINT (ANTI-VIRUS) LICENSE RENEWAL",
    "department": "Port Elizabeth TVET College",
-   "category": "Cybersecurity",
+   "category": "Network & Infrastructure",
    "company": "rtc",
    "matchedTerms": [
     "anti-virus",
@@ -1013,7 +1013,7 @@
    "reference": "10418532 R",
    "title": "Installation of a Backup power supply system for Barnardsvlei online water quality Instruments, Hartebeesthoek Reservoir and Guard houses",
    "department": "Rand Water",
-   "category": "Software & Systems",
+   "category": "Network & Infrastructure",
    "company": "rtc",
    "matchedTerms": [
     "backup",
@@ -1150,6 +1150,46 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=9d88b1c6-9c86-4c15-acb6-d606582a060d.zip&downloadedFileName=E3792DXKZNOU.zip",
      "format": "zip",
      "published": "2026-11-05T15:12:17Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-179091",
+   "reference": "RFQ2216e",
+   "title": "APPOINTMENT OF A SERVICE PROVIDER TO PROVISION AN INFORMATION AND COMMUNICATIONS TECHNOLOGY DISASTER RECOVERY SOLUTION FOR THE MINE HEALTH AND SAFETY COUNCIL FOR A PERIOD OF 12 MONTHS",
+   "department": "Mine Health and Safety Council",
+   "category": "Network & Infrastructure",
+   "company": "rtc",
+   "matchedTerms": [
+    "disaster recovery"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-20T00:00:00+00:00",
+   "closingDate": "2026-11-25T11:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "RFQ 2216e - DISASTER RECOVERY SOLUTION -005.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=559a18e7-0802-4d03-b3d6-fb31eb7b8aa2.pdf&downloadedFileName=RFQ%202216e%20-%20DISASTER%20RECOVERY%20SOLUTION%20-005.pdf",
+     "format": "pdf",
+     "published": "2026-11-20T11:47:08Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -1440,6 +1480,88 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
+   "id": "ocds-9t57fa-179173",
+   "reference": "RFQ-MICT--2026",
+   "title": "RFQ-MICT-92-2026 -APPOINTMENT OF A SUBJECT MATTER EXPERT FACILITATOR TO DEVELOP A BANK OF EXTERNAL INTEGRATED SUMMATIVE ASSESSMENT INSTRUMENTS FOR THE REGISTERED OCCUPATIONAL PROGRAMMES WITHIN THE ICT SUB-SECTOR",
+   "department": "Media, Information and Communication Technologies Sector Education and training Authority (MICT SETA)",
+   "category": "IT Services & Support",
+   "company": "rtc",
+   "matchedTerms": [
+    "ict"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-20T00:00:00+00:00",
+   "closingDate": "2026-11-26T11:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "consultingServices",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "RFQ-MICT-92-2026 ETQA-REGISTERED OCCUPATIONAL PROGRAMMES WITHIN THE ICT SUB-SECTOR.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=adef1406-71af-4b11-8e46-b6a6eaac3bbc.pdf&downloadedFileName=RFQ-MICT-92-2026%20ETQA-REGISTERED%20OCCUPATIONAL%20PROGRAMMES%20WITHIN%20THE%20ICT%20SUB-SECTOR.pdf",
+     "format": "pdf",
+     "published": "2026-11-20T14:28:00Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-179267",
+   "reference": "RFQ 103 2026",
+   "title": "APPOINTMENT OF A SERVICE PROVIDER TO SUPPLY, RENEW AND FACILITATE THE ACTIVATION OF PERESOFT CASHBOOK SOFTWARE LICENSES AND ASSOCIATED SOFTWARE ASSURANCE FOR A PERIOD OF TWENTY-FOUR (24) MONTHS",
+   "department": "National Regulator for Compulsory Specifications",
+   "category": "Software & Systems",
+   "company": "rtc",
+   "matchedTerms": [
+    "license",
+    "software",
+    "software licens"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-20T00:00:00+00:00",
+   "closingDate": "2026-11-26T11:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "consultingServices",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "RFQ 103-26 CASHBOOK SOFTWARE LICENCES AND ASSOCIATED SOFTWARE ASSURANCE FOR TWENT-FOUR MONTHS.docx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=aa9d5b09-3b5a-47fd-a364-483b738ddb41.docx&downloadedFileName=RFQ%20103-26%20CASHBOOK%20SOFTWARE%20LICENCES%20AND%20ASSOCIATED%20SOFTWARE%20ASSURANCE%20FOR%20TWENT-FOUR%20MONTHS.docx",
+     "format": "docx",
+     "published": "2026-11-20T19:13:27Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
    "id": "ocds-9t57fa-178595",
    "reference": "CGEQ28/2026/27",
    "title": "Provision of 10 laptops",
@@ -1660,7 +1782,7 @@
    "reference": "PSiRA/2026/27/RFB/08",
    "title": "APPOINTMENT OF A SERVICE PROVIDER FOR THE DESIGN, SUPPLY, IMPLEMENT AND MAINTENANCE OF A CLOUD-BASED MICROSOFT TEAMS TELEPHONY SYSTEM AND CALL CENTER SOLUTION FOR A PERIOD OF 36 MONTHS.",
    "department": "Private Security Industry Regulatory Authority",
-   "category": "Cloud Services",
+   "category": "Software & Systems",
    "company": "rtc",
    "matchedTerms": [
     "cloud",
@@ -2638,7 +2760,7 @@
    "reference": "DHA20-2026",
    "title": "APPOINTMENT OF A SERVICE PROVIDER FROM SITA RFB1183 FOR THE ESTABLISHMENT OF AN ICT PORTFOLIO MANAGEMENT OFFICE (PMO) TO DELIVER THE DIGITAL TRANSFORMATION STRATEGY (MICROSOFT-BASED PORTFOLIO MANAGEMENT) FOR A PERIOD OF THIRTY-SIX (36) MONTHS, WITH A POSSIBILITY TO RENEW FOR TWENTY-FOUR (24) MONTHS, SUBJECT TO SATISFACTORY PERFORMANCE OF THE SERVICE PROVIDER AND THE AVAILABILITY OF FUNDS.",
    "department": "Home Affairs",
-   "category": "Software & Systems",
+   "category": "IT Services & Support",
    "company": "rtc",
    "matchedTerms": [
     "ict",
@@ -3849,7 +3971,7 @@
    "reference": "HO/PGC/ICT/522/09/2026",
    "title": "THE APPOINTMENT OF A CONTRACTOR FOR THE DESIGN, SUPPLY, INSTALLATION, AND MAINTENANCE OF THE INTELLIGENT OPERATION CENTER AND AI PLATFORM FOR PRASA, AS AND WHEN REQUIRED, FOR A PERIOD OF 36 MONTHS.",
    "department": "Passenger Rail Agency of South Africa",
-   "category": "Software & Systems",
+   "category": "IT Services & Support",
    "company": "rtc",
    "matchedTerms": [
     "ai",
@@ -4026,7 +4148,7 @@
    "reference": "57 OF 2026",
    "title": "Supply, delivery, installation and commissioning of server room environmental management system including quarterly support and maintenance plan for the period of three years",
    "department": "Makhado Local Municipality",
-   "category": "Software & Systems",
+   "category": "Network & Infrastructure",
    "company": "rtc",
    "matchedTerms": [
     "management system",
@@ -4617,7 +4739,7 @@
    "reference": "CGE/T/11/2026/27",
    "title": "Provision of WAN and VOIP services for 36 months",
    "department": "Commission for Gender Equality",
-   "category": "Telecoms & Unified Comms",
+   "category": "Network & Infrastructure",
    "company": "rtc",
    "matchedTerms": [
     "voip",
@@ -5709,7 +5831,7 @@
    "reference": "5/2/2/1(013)2026-2027",
    "title": "APPOINTMENT OF A SERVICE PROVIDER TO SUPPLY AND ACTIVATE CISCO DNA CENTRE VIRTUAL APPLIANCE, CISCO IDENTITY SERVICES LICENCE RENEWALS, SMARTNET AND PROVIDE SUPPORT FOR THE PERIOD OF THREE YEARS (36 MONTHS) FOR THE DEPARTMENT OF AGRICULTURE.",
    "department": "National - Department of Agriculture",
-   "category": "Software & Systems",
+   "category": "Network & Infrastructure",
    "company": "rtc",
    "matchedTerms": [
     "cisco",
@@ -6776,7 +6898,7 @@
    "reference": "RFT111/11/2025/26",
    "title": "Appointment of a systems integrator and turnkey service provider for ICT Infrastructure modernization, managed ICT hardware, software consumable and peripherals on an outright purchase or as service basis.",
    "department": "Madibeng Local Municipality",
-   "category": "Software & Systems",
+   "category": "IT Services & Support",
    "company": "rtc",
    "matchedTerms": [
     "ict",
@@ -7131,7 +7253,7 @@
    "reference": "5-2-2-1 DLRRD 0021 2026-2027",
    "title": "THE APPOINTMENT OF A SERVICE PROVIDER TO CONDUCT AN INFORMATION TECHNOLOGY (IT) AUDIT PROJECT OF CYBERSECURITY FOR THE DEPARTMENT OF LAND REFORM AND RURAL DEVELOPMENT (DLRRD),",
    "department": "Department of  Land Reform and Rural Development",
-   "category": "Cybersecurity",
+   "category": "IT Services & Support",
    "company": "rtc",
    "matchedTerms": [
     "cyber",
@@ -7581,7 +7703,7 @@
    "reference": "RFB 3301/ 2026 - (ERP No 530015)",
    "title": "Appointment of a Service Provider to Provide a New Integrated Video Conferencing and Audio-Visual Solution for SAPS UBUNYE Auditorium.The Closing Date Has Being Extended Till 14 December 2026",
    "department": "State Information Technology Agency",
-   "category": "Software & Systems",
+   "category": "Telecoms & Unified Comms",
    "company": "rtc",
    "matchedTerms": [
     "erp",
