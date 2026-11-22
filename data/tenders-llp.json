@@ -1,19 +1,19 @@
 {
  "source": "https://ocds-api.etenders.gov.za/api/OCDSReleases",
- "generatedAt": "2026-11-22T13:11:18.717360+00:00",
+ "generatedAt": "2026-11-22T22:21:24.906585+00:00",
  "lookbackDays": 60,
- "coveredFrom": "2026-10-23",
- "releasesScanned": 2783,
- "uniqueTenders": 2833,
+ "coveredFrom": "2026-11-06",
+ "releasesScanned": 1664,
+ "uniqueTenders": 1699,
  "count": 314,
  "categories": {
-  "Facilities Maintenance": 151,
+  "Facilities Maintenance": 165,
   "Grounds & Landscaping": 38,
-  "Supply & Consumables": 78,
-  "Agriculture": 47
+  "Supply & Consumables": 74,
+  "Agriculture": 37
  },
  "onlineBriefings": 0,
- "carriedOver": 26,
+ "carriedOver": 120,
  "briefingFieldsSeen": {},
  "tenders": [
   {
@@ -3492,46 +3492,6 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
-   "id": "ocds-9t57fa-178674",
-   "reference": "5-2-1-1-2026-2027-151",
-   "title": "APPOINTMENT OF A SERVICE PROVIDER TO DESIGN, LAYOUT AND PRINTING OF THE FIVE-YEAR REPORT (2019/20-2023/24) ON THE NATIONAL POLICY ON EXTENSION AND ADVISORY SERVICES AT THE DEPARTMENT OF AGRICULTURE: DIRECTORATE: NATIONAL EXTENSION REFORM.",
-   "department": "National - Department of Agriculture",
-   "category": "Agriculture",
-   "company": "llp",
-   "matchedTerms": [
-    "agricultur"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-18T00:00:00+00:00",
-   "closingDate": "2026-11-26T11:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "5-2-1-1-2026-2027-151.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=661256bb-17ee-420e-bf14-4a650911dce9.pdf&downloadedFileName=5-2-1-1-2026-2027-151.pdf",
-     "format": "pdf",
-     "published": "2026-11-18T13:31:29Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
    "id": "ocds-9t57fa-177742",
    "reference": "RFQ  4612/26",
    "title": "Appointment of a suitable qualified panel of plumbers to assist with plumbing repairs and maintenance services for all South African Weather Service (SAWS) regional offices and radar sites which are situated in all nine (9) provinces.",
@@ -4888,46 +4848,6 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
-   "id": "ocds-9t57fa-178748",
-   "reference": "RFQ0001323",
-   "title": "TO APPOINT A SERVICE PROVIDER (SP) TO PROVIDE THE DEPARTMENT OF FORESTRY, FISHERIES AND THE ENVIRONMENT (DFFE) / MARINE LIVING RESOURCES FUND (MLRF) TO SUPPLY AND DELIVER STATIONERY",
-   "department": "Marine Living Resources Fund",
-   "category": "Supply & Consumables",
-   "company": "llp",
-   "matchedTerms": [
-    "stationery"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-18T00:00:00+00:00",
-   "closingDate": "2026-11-27T11:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "goods",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "RFQ0001323.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=77f1d823-9491-4130-86c3-5895ba7d8ee3.pdf&downloadedFileName=RFQ0001323.pdf",
-     "format": "pdf",
-     "published": "2026-11-18T16:09:54Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
    "id": "ocds-9t57fa-178755",
    "reference": "5/2/1/1/2026/2027/209",
    "title": "THE APPOINTMENT OF SERVICE PROVIDER TO RENDER GENERAL CLKEANING SERVICES FOR THE DEPARTMENT OF AGRICULTURE’S PROVINCIAL OFFICE AT OLD MUTUAL BUILDING IN LIMPOPO FOR A PERIOD OF THREE (03) MONTHS.",
@@ -5836,6 +5756,47 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
+   "id": "ocds-9t57fa-179338",
+   "reference": "Bid No 43/2026",
+   "title": "Supply and delivery of PPE (personal protective equipment) for a period ending 30 June 2027",
+   "department": "NamaKwa District Municipality",
+   "category": "Supply & Consumables",
+   "company": "llp",
+   "matchedTerms": [
+    "personal protective",
+    "ppe"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-22T00:00:00+00:00",
+   "closingDate": "2026-11-30T10:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "BID NO 432026 SUPPLY AND DELIVERY OF PPE FOR A PERIOD ENDING 30 JUNE 2027.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=7da12be9-12a7-409d-917f-aecb54672569.pdf&downloadedFileName=BID%20NO%20432026%20SUPPLY%20AND%20DELIVERY%20OF%20PPE%20FOR%20A%20PERIOD%20ENDING%2030%20JUNE%202027.pdf",
+     "format": "pdf",
+     "published": "2026-11-22T23:22:24Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
    "id": "ocds-9t57fa-175861",
    "reference": "COM P4/2026",
    "title": "INVASIVE ALIEN VEGETATION CLEARING IN MUNICIPAL AREAS FOR A PERIOD UP TO 30 JUNE 2029",
@@ -6318,7 +6279,7 @@
    "reference": "ZNB 3001/2026-H",
    "title": "PROVISION OF CLEANING OF BUILDINGS AND OFFICES AT SELECTED FACILITIES AND WILL BE AWARDED AS A MULTI-AWARD BID THREE (03) YEARS CONTRACT.",
    "department": "Kwazulu Natal - Health",
-   "category": "Supply & Consumables",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "buildings",
@@ -6365,7 +6326,7 @@
    "reference": "ZNB 3001 2026-H",
    "title": "PROVISION OF CLEANING OF BUILDINGS AND OFFICES AT SELECTED FACILITIES AND WILL BE AWARDED AS A MULTI-AWARD BID THREE (03) YEARS CONTRACT.",
    "department": "Kwazulu Natal - Health",
-   "category": "Supply & Consumables",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "buildings",
@@ -7331,7 +7292,7 @@
    "reference": "COM140/2026",
    "title": "APPOINTMENT OF A CONTRACTOR FOR THE CONSTRUCTION AND INSTALLATION OF FENCING AT A FARM IN NUMBI VILLAGE, WARD 39, WITHIN THE CITY OF MBOMBELA",
    "department": "Mbombela Local Municipality",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "farm",
@@ -7753,6 +7714,47 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=f4c18d50-caa0-423c-8c02-083634962dca.pdf&downloadedFileName=Queenstown%20and%20Surrounding%20Areas%20hot%20water%20systems%20%28GQET-26.27-022%29%20RR.pdf",
      "format": "pdf",
      "published": "2026-11-09T07:42:38Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-177019",
+   "reference": "RR69088/26-27",
+   "title": "Appointment of a service provider to repair and carry out localized asbestos roof encapsulation of buildings",
+   "department": "ARMSCOR",
+   "category": "Facilities Maintenance",
+   "company": "llp",
+   "matchedTerms": [
+    "buildings",
+    "repair"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-05T00:00:00+00:00",
+   "closingDate": "2026-12-01T11:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "RR69088-26_27 (Asbestos roof repair).pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=063668c6-c315-4f6c-990c-7e8d9f460b5b.pdf&downloadedFileName=RR69088-26_27%20%28Asbestos%20roof%20repair%29.pdf",
+     "format": "pdf",
+     "published": "2026-11-05T14:18:19Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -10067,7 +10069,7 @@
    "reference": "NRA  2026/0757",
    "title": "FOR THE OPERATIONS AND MAINTENANCE OF THE TOLL PLAZAS ON THE NATIONAL \r\nROUTE N2 NORTH (Retender) (Contractor)",
    "department": "South African National Roads Agency Soc Limited (SANRAL)",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -11888,7 +11890,7 @@
    "reference": "NRA 2026/0755",
    "title": "FOR THE OPERATIONS AND MAINTENANCE OF MARIANNHILL TOLL \r\nPLAZA ON NATIONAL ROUTE 3 (Contractor)",
    "department": "South African National Roads Agency Soc Limited (SANRAL)",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -12635,7 +12637,7 @@
    "reference": "TNPA/2026/06/1286/7234/RFP",
    "title": "STANDING APPROVED LIST FOR THE SUPPLY AND DELIVERY OF CIVIL AND ELECTRICAL MAINTENANCE MATERIALS WITH SPARES AND CONSUMABLES ON AN AS AND WHEN REQUIRED BASIS FOR THE CENTRAL REGION (PORT OF EAST LONDON, PORT OF NGQURA & PORT OF PORT OF ELIZABETH) FOR PERIOD OF 5 YEARS",
    "department": "Transnet SOC Ltd",
-   "category": "Supply & Consumables",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "consumables",
@@ -13266,7 +13268,7 @@
    "reference": "SCMU6-26/27-0009",
    "title": "APPOINTMENT OF A CONTRACTOR FOR EMERGENCY REPAIRS AT MORULANE JUNIOR SECONDARY SCHOOL",
    "department": "Eastern Cape - Education",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "repairs",
@@ -13307,7 +13309,7 @@
    "reference": "DOH(FS)11/2026/2027",
    "title": "APPOINTMENT OF A SUITABLE CONTRACTOR TO UNDERTAKE THE MAJOR UPGRADES AT EXISTING PAX CLINIC, VIJOENSKROON FREE STATE PROVINCE. (8GB OR HIGHER)",
    "department": "Free State - Health",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "tractor",
@@ -14968,7 +14970,7 @@
    "reference": "8/2/RNM0653",
    "title": "PANEL OF ELECTRICAL CONTRACTOR FOR MAINTENANCE OF ELECTRICAL INFRASTRUCTURE TO RAY NKONYENI MUNICIPALITY FOR A PERIOD OF THREE YEARS",
    "department": "Ray Nkonyeni Local Municipality",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -15385,7 +15387,7 @@
    "reference": "CSRT/BID09/2026/27",
    "title": "THE ADVERTISEMENT AND APPOINTMENT OF A CONTRACTOR ON CIDB LEVEL 9CE FOR THE UPGRADING OF PRIMARY ROAD P54/3 FOR DISTANCE OF 28KM BETWEEN EDENBURG AND REDDERSBURG FOR THE DEPARTMENT OF COMMUNITY SAFETY, ROADS AND TRANSPORT OVER A PERIOD OF 24 MONTHSOF 24 MONTHS",
    "department": "Free State - Police, Roads and Transport",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "tractor",
@@ -15426,7 +15428,7 @@
    "reference": "CSRT/BID10/2026/27",
    "title": "THE ADVERTISEMENT AND APPOINTMENT OF A CONTRACTOR WITH MINIMUM OF CIDB GRADING LEVEL 9CE FOR SPECIAL MAINTENANCE OF PRIMARY ROAD R59 P33/3, P56/2, P10/1  P83/1 AND 73/1 BETWEEN VILJOENSKROON, VREDEFORT, PARYS, TO SASOLBURG FOR THE DEPARTMENT OF COMMUNITY SAFETY, ROADS AND TRANSPORT FOR A PERIOD OF TWENTY FOUR (24) MONTHS.",
    "department": "Free State - Police, Roads and Transport",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -16425,7 +16427,7 @@
    "reference": "GSHPT93/2026",
    "title": "THE PLACEMENT OF TWO (2) EXTRA CORPOREAL MEMBRANE OXYGENATION ECMO MACHINE WITH ACCESSORIES INCLUDING A FULLY COMPREHENSIVE MAINTENANCE CONTRACT AND THE SUPPLY AND DELIVERY OF CONSUMABLES AT GROOTE SCHUUR HOSPITAL OVER A PERIOD OF FIVE (5) YEARS.",
    "department": "Western Cape - Health",
-   "category": "Supply & Consumables",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "consumables",
@@ -16555,7 +16557,7 @@
    "reference": "HES-CORP 01/2627",
    "title": "THE APPOINTMENT OF A CONTRACTOR FOR THE UPGRADING OF ABLUTION FACILITIES IN THE HESSEQUA MUNICIPAL AREA",
    "department": "Hessequa Municipality",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "tractor",

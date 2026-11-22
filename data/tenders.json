@@ -1,22 +1,22 @@
 {
  "source": "https://ocds-api.etenders.gov.za/api/OCDSReleases",
- "generatedAt": "2026-11-22T13:11:18.717360+00:00",
+ "generatedAt": "2026-11-22T22:21:24.906585+00:00",
  "lookbackDays": 60,
- "coveredFrom": "2026-10-23",
- "releasesScanned": 2783,
- "uniqueTenders": 2833,
- "count": 175,
+ "coveredFrom": "2026-11-06",
+ "releasesScanned": 1664,
+ "uniqueTenders": 1699,
+ "count": 176,
  "categories": {
-  "Software & Systems": 78,
-  "IT Services & Support": 17,
-  "Cybersecurity": 10,
-  "Network & Infrastructure": 26,
+  "Software & Systems": 79,
+  "IT Services & Support": 19,
+  "Cybersecurity": 6,
+  "Network & Infrastructure": 31,
   "End-User Computing": 22,
-  "Telecoms & Unified Comms": 13,
-  "Cloud Services": 9
+  "Telecoms & Unified Comms": 12,
+  "Cloud Services": 7
  },
  "onlineBriefings": 0,
- "carriedOver": 21,
+ "carriedOver": 61,
  "briefingFieldsSeen": {},
  "tenders": [
   {
@@ -398,7 +398,7 @@
    "reference": "RFQ/ICT/26/27/241",
    "title": "PROVISION OF MIMECAST EMAIL CONTINUITY AND ARCHIVING SOLUTIONS FOR 12 MONTHS",
    "department": "Manufacturing, Engineering and Related Services SETA (merSETA)",
-   "category": "Cybersecurity",
+   "category": "IT Services & Support",
    "company": "rtc",
    "matchedTerms": [
     "ict",
@@ -524,7 +524,7 @@
    "reference": "RY22962",
    "title": "PURCHASING OF CISCO ENDPOINT (ANTI-VIRUS) LICENSE RENEWAL",
    "department": "Port Elizabeth TVET College",
-   "category": "Cybersecurity",
+   "category": "Network & Infrastructure",
    "company": "rtc",
    "matchedTerms": [
     "anti-virus",
@@ -4196,7 +4196,7 @@
    "reference": "TCC/2026/08/0103/9785/RFP",
    "title": "PROVISIONING AND INSTALLATION OF A WEB APPLICATION FIREWALL (WAF) SOLUTION\r\nWITH MAINTENANCE AND SUPPORT FOR FIVE (5) YEARS",
    "department": "Transnet SOC Ltd",
-   "category": "Cybersecurity",
+   "category": "Software & Systems",
    "company": "rtc",
    "matchedTerms": [
     "firewall",
@@ -4739,7 +4739,7 @@
    "reference": "CGE/T/11/2026/27",
    "title": "Provision of WAN and VOIP services for 36 months",
    "department": "Commission for Gender Equality",
-   "category": "Telecoms & Unified Comms",
+   "category": "Network & Infrastructure",
    "company": "rtc",
    "matchedTerms": [
     "voip",
@@ -5831,7 +5831,7 @@
    "reference": "5/2/2/1(013)2026-2027",
    "title": "APPOINTMENT OF A SERVICE PROVIDER TO SUPPLY AND ACTIVATE CISCO DNA CENTRE VIRTUAL APPLIANCE, CISCO IDENTITY SERVICES LICENCE RENEWALS, SMARTNET AND PROVIDE SUPPORT FOR THE PERIOD OF THREE YEARS (36 MONTHS) FOR THE DEPARTMENT OF AGRICULTURE.",
    "department": "National - Department of Agriculture",
-   "category": "Software & Systems",
+   "category": "Network & Infrastructure",
    "company": "rtc",
    "matchedTerms": [
     "cisco",
@@ -7253,7 +7253,7 @@
    "reference": "5-2-2-1 DLRRD 0021 2026-2027",
    "title": "THE APPOINTMENT OF A SERVICE PROVIDER TO CONDUCT AN INFORMATION TECHNOLOGY (IT) AUDIT PROJECT OF CYBERSECURITY FOR THE DEPARTMENT OF LAND REFORM AND RURAL DEVELOPMENT (DLRRD),",
    "department": "Department of  Land Reform and Rural Development",
-   "category": "Cybersecurity",
+   "category": "IT Services & Support",
    "company": "rtc",
    "matchedTerms": [
     "cyber",
@@ -8117,7 +8117,7 @@
    "reference": "EDUMT05/2026/27 - ReAdvertisement",
    "title": "RE-ADVERTISEMENT OF THE PROVISION, CONFIRGURATION,IMPLEMENTATION AND SUPPORT OF A DISASTER RECOVERY CLOUD BACKUP SOLUTION FOR A PERIOD OF THIRTY SIX (36) MONTHS",
    "department": "eDumbe Local Municipality",
-   "category": "Cloud Services",
+   "category": "Network & Infrastructure",
    "company": "rtc",
    "matchedTerms": [
     "backup",
@@ -8607,7 +8607,7 @@
    "reference": "UMN 03/2026-27",
    "title": "Appointment of a Service Provider for the procurement, installation and commissioning of enterprise servers, disaster recovery infrastructure, cloud backup solution, active directory monitoring tool, server monitoring tool, and Veeam backup & replication services for uMngeni local municipality for a period of 36 Months",
    "department": "Umngeni Municipality",
-   "category": "Cloud Services",
+   "category": "Network & Infrastructure",
    "company": "rtc",
    "matchedTerms": [
     "backup",
@@ -9316,6 +9316,238 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=3e043bdc-3da7-4917-a678-fd5b5a8c0eed.docx&downloadedFileName=C1%203%20ECC3%20Proforma%20Guarantees_29.09.2026.docx",
      "format": "docx",
      "published": "2026-11-19T10:56:41Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-178506",
+   "reference": "E3625GXMPKUS",
+   "title": "PROCUREMENT OF THE KUSILE SMART PLANT DIGITALISATION AND ARTIFICIAL INTELLIGENCE PROJECT",
+   "department": "ESKOM",
+   "category": "Software & Systems",
+   "company": "rtc",
+   "matchedTerms": [
+    "artificial intelligence"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-17T00:00:00+00:00",
+   "closingDate": "2027-01-29T10:00:00+00:00",
+   "procurementMethod": "Request for Bid(Open-Tender)",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "Standard Bidding Document (SDB) 4_Annexure A.doc",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=f26551fc-c532-4a10-b4b4-05f8fc8d9975.doc&downloadedFileName=Standard%20Bidding%20Document%20%28SDB%29%204_Annexure%20A.doc",
+     "format": "doc",
+     "published": "2026-11-17T13:35:12Z"
+    },
+    {
+     "title": "Annexure A - Technical Evaluation Criteria_Rev6.xlsx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=59c19634-b26e-4c69-9b1c-1055627fcc36.xlsx&downloadedFileName=Annexure%20A%20-%20Technical%20Evaluation%20Criteria_Rev6.xlsx",
+     "format": "xlsx",
+     "published": "2026-11-17T13:35:10Z"
+    },
+    {
+     "title": "C1 2b ECC3 Data by Contractor_SPP_29.09.2026.docx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=d5d26295-2169-4c3b-b707-168224f86a81.docx&downloadedFileName=C1%202b%20ECC3%20Data%20by%20Contractor_SPP_29.09.2026.docx",
+     "format": "docx",
+     "published": "2026-11-17T13:35:11Z"
+    },
+    {
+     "title": "Kusile Contractor Baseline Risk Assessment_ Tender PDF.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=3f1458e7-ecbb-47f4-9de8-1c1c7b87e0ee.pdf&downloadedFileName=Kusile%20Contractor%20Baseline%20Risk%20Assessment_%20Tender%20PDF.pdf",
+     "format": "pdf",
+     "published": "2026-11-17T13:35:12Z"
+    },
+    {
+     "title": "Supplier Evaluation Pack Template for 01 March 2025 to 29 February 2026.xls",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=20e34b1c-5cde-4c5f-9821-22aa3ef87089.xls&downloadedFileName=Supplier%20Evaluation%20Pack%20Template%20for%2001%20March%202025%20to%2029%20February%202026.xls",
+     "format": "xls",
+     "published": "2026-11-17T13:35:12Z"
+    },
+    {
+     "title": "Labour Taxation Questionnaire.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=58e46d3a-fe09-4ba5-aacc-27dd5eb725cb.pdf&downloadedFileName=Labour%20Taxation%20Questionnaire.pdf",
+     "format": "pdf",
+     "published": "2026-11-17T13:35:12Z"
+    },
+    {
+     "title": "240-77471651 Annexure C 1 (3) High risk tender 2026.docx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=c99ba639-58a0-4683-811c-4619ac348ce6.docx&downloadedFileName=240-77471651%20Annexure%20C%201%20%283%29%20High%20risk%20tender%202026.docx",
+     "format": "docx",
+     "published": "2026-11-17T13:35:10Z"
+    },
+    {
+     "title": "Authorisation Form.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=4d69a95e-a903-48d5-98a2-47825eeb8514.pdf&downloadedFileName=Authorisation%20Form.pdf",
+     "format": "pdf",
+     "published": "2026-11-17T13:35:10Z"
+    },
+    {
+     "title": "240-77471499 Annexure B 2026.docx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=889553b6-6819-4c8d-876c-56f8417609e2.docx&downloadedFileName=240-77471499%20Annexure%20B%202026.docx",
+     "format": "docx",
+     "published": "2026-11-17T13:35:09Z"
+    },
+    {
+     "title": "C1 3 ECC3 Proforma Guarantees_29.09.2026.docx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=72c7fcd9-77b3-4201-9cab-5a94d55f9e8f.docx&downloadedFileName=C1%203%20ECC3%20Proforma%20Guarantees_29.09.2026.docx",
+     "format": "docx",
+     "published": "2026-11-17T13:35:11Z"
+    },
+    {
+     "title": "SBD 1 - Converted.docx.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=a9e2686c-ce39-4af7-8525-61bad61fe12f.pdf&downloadedFileName=SBD%201%20-%20Converted.docx.pdf",
+     "format": "pdf",
+     "published": "2026-11-17T13:35:12Z"
+    },
+    {
+     "title": "E-Tenderers E-Tendering Training Acknowledgement Form.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=a5b3a001-5164-4c6e-87f8-64c71c8bfe63.pdf&downloadedFileName=E-Tenderers%20E-Tendering%20Training%20Acknowledgement%20Form.pdf",
+     "format": "pdf",
+     "published": "2026-11-17T13:35:11Z"
+    },
+    {
+     "title": "C1 2a ECC3 Data by Employer_SPP_29.09.2026.docx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=7845c425-b19e-4297-9c4d-68e39f554bfc.docx&downloadedFileName=C1%202a%20ECC3%20Data%20by%20Employer_SPP_29.09.2026.docx",
+     "format": "docx",
+     "published": "2026-11-17T13:35:11Z"
+    },
+    {
+     "title": "Supplier Evaluation Pack Template for 01 March 2025 to 28 February 2026.doc",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=e6d785b4-469a-44bd-a878-7019b87d940b.doc&downloadedFileName=Supplier%20Evaluation%20Pack%20Template%20for%2001%20March%202025%20to%2028%20February%202026.doc",
+     "format": "doc",
+     "published": "2026-11-17T13:35:12Z"
+    },
+    {
+     "title": "Supplier Declaration of Interest Template (1).docx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=3094e77d-06b3-4df2-b275-83de7863bd8d.docx&downloadedFileName=Supplier%20Declaration%20of%20Interest%20Template%20%281%29.docx",
+     "format": "docx",
+     "published": "2026-11-17T13:35:12Z"
+    },
+    {
+     "title": "SBD 6.2 Local Content in terms of PPR 2017.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=ef51e71b-ea79-4e06-8228-8a2bbc7cd0d3.pdf&downloadedFileName=SBD%206.2%20Local%20Content%20in%20terms%20of%20PPR%202017.pdf",
+     "format": "pdf",
+     "published": "2026-11-17T13:35:12Z"
+    },
+    {
+     "title": "Eskom Standard Conditions of Tender.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=384dc490-95b2-4a0b-b5b9-8c483b02b4c9.pdf&downloadedFileName=Eskom%20Standard%20Conditions%20of%20Tender.pdf",
+     "format": "pdf",
+     "published": "2026-11-17T13:35:11Z"
+    },
+    {
+     "title": "C0 ECC3 Contract cover page_SPP_29.09.2026.docx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=4134f120-21b6-4f03-b3bc-8ca1cdda361e.docx&downloadedFileName=C0%20ECC3%20Contract%20cover%20page_SPP_29.09.2026.docx",
+     "format": "docx",
+     "published": "2026-11-17T13:35:11Z"
+    },
+    {
+     "title": "C1 1 ECC3 Offer Acceptance_SPP_29.09.2026.docx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=eafd1c22-ebb4-4aa2-bc46-906e4b6632fa.docx&downloadedFileName=C1%201%20ECC3%20Offer%20Acceptance_SPP_29.09.2026.docx",
+     "format": "docx",
+     "published": "2026-11-17T13:35:11Z"
+    },
+    {
+     "title": "C3 1 ECC3 Employers Works Information_SPP_29.09.2026.docx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=3a79bd3c-5183-4a7b-bfe7-999719260f66.docx&downloadedFileName=C3%201%20ECC3%20Employers%20Works%20Information_SPP_29.09.2026.docx",
+     "format": "docx",
+     "published": "2026-11-17T13:35:11Z"
+    },
+    {
+     "title": "KUS-20260973 Kusile Power Station Tender Technical Evaluation Strategy for Kusile Smart Plant Digitalisation and AI FINAL.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=2f5739ab-31bc-49e2-8257-a08dbb748763.pdf&downloadedFileName=KUS-20260973%20Kusile%20Power%20Station%20Tender%20Technical%20Evaluation%20Strategy%20for%20Kusile%20Smart%20Plant%20Digitalisation%20and%20AI%20FINAL.pdf",
+     "format": "pdf",
+     "published": "2026-11-17T13:35:12Z"
+    },
+    {
+     "title": "240-77433139 Annexure A supplier risk category.docx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=fa79b0d2-200b-4735-954a-aaa69e49428e.docx&downloadedFileName=240-77433139%20Annexure%20A%20supplier%20risk%20category.docx",
+     "format": "docx",
+     "published": "2026-11-17T13:35:09Z"
+    },
+    {
+     "title": "240-68099512 Form A_Cat 2_ Rev 9.docx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=9eeef923-8633-45f2-a27e-add24578bc44.docx&downloadedFileName=240-68099512%20Form%20A_Cat%202_%20Rev%209.docx",
+     "format": "docx",
+     "published": "2026-11-17T13:35:09Z"
+    },
+    {
+     "title": "KUS-20251198 Kusile Smart Plant Digitalisation- Functional Specification_FINAL.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=aaf7de0b-893c-4a1d-aa2e-ae25b6d4b499.pdf&downloadedFileName=KUS-20251198%20Kusile%20Smart%20Plant%20Digitalisation-%20Functional%20Specification_FINAL.pdf",
+     "format": "pdf",
+     "published": "2026-11-17T13:35:11Z"
+    },
+    {
+     "title": "559-667439824 Generation Quality Control Plan Template 18Nov.docx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=45c93407-2962-4cd5-86c3-b94bc54c30d7.docx&downloadedFileName=559-667439824%20Generation%20Quality%20Control%20Plan%20Template%2018Nov.docx",
+     "format": "docx",
+     "published": "2026-11-17T13:35:10Z"
+    },
+    {
+     "title": "Integrity Pact Declaration Form_ANNEXURE A.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=fa1e2d6f-dee1-482c-870e-bcc862739df3.pdf&downloadedFileName=Integrity%20Pact%20Declaration%20Form_ANNEXURE%20A.pdf",
+     "format": "pdf",
+     "published": "2026-11-17T13:35:11Z"
+    },
+    {
+     "title": "240-109253698 CQP Template- Rev 3.docx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=fdcbe8bb-1250-46d7-bae1-be31ef084e87.docx&downloadedFileName=240-109253698%20CQP%20Template-%20Rev%203.docx",
+     "format": "docx",
+     "published": "2026-11-17T13:35:10Z"
+    },
+    {
+     "title": "240-105658000 Supplier QM Spec Rev 3-QM 58.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=5f861e9e-a613-4ae4-a02a-c13679919dbd.pdf&downloadedFileName=240-105658000%20Supplier%20QM%20Spec%20Rev%203-QM%2058.pdf",
+     "format": "pdf",
+     "published": "2026-11-17T13:35:10Z"
+    },
+    {
+     "title": "C2  ECC3 Pricing Data Option A_SPP_29.09.2026.docx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=998ec4f4-d6c1-4379-bbce-c344fc330b76.docx&downloadedFileName=C2%20%20ECC3%20Pricing%20Data%20Option%20A_SPP_29.09.2026.docx",
+     "format": "docx",
+     "published": "2026-11-17T13:35:11Z"
+    },
+    {
+     "title": "SBD 6.1.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=758e067a-ba19-444d-aa4f-d5e80c925fe6.pdf&downloadedFileName=SBD%206.1.pdf",
+     "format": "pdf",
+     "published": "2026-11-17T13:35:12Z"
+    },
+    {
+     "title": "240-12248652_Catergory 2 List of Tender Returnables Rev 7.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=a40564aa-e47a-4e63-bfc5-da9837cbce30.pdf&downloadedFileName=240-12248652_Catergory%202%20List%20of%20Tender%20Returnables%20Rev%207.pdf",
+     "format": "pdf",
+     "published": "2026-11-17T13:35:09Z"
+    },
+    {
+     "title": "C4  ECC3 Site Information SPP_29.09.2026.docx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=67ec2535-3032-4007-901c-dc7f81a61323.docx&downloadedFileName=C4%20%20ECC3%20Site%20Information%20SPP_29.09.2026.docx",
+     "format": "docx",
+     "published": "2026-11-17T13:35:11Z"
+    },
+    {
+     "title": "Smart Plant Digitilisation SHE Spec .pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=645f7ca8-95bf-4b57-978d-dd56060dac85.pdf&downloadedFileName=Smart%20Plant%20Digitilisation%20SHE%20Spec%20.pdf",
+     "format": "pdf",
+     "published": "2026-11-17T13:35:12Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
