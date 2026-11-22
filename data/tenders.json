@@ -1,22 +1,22 @@
 {
  "source": "https://ocds-api.etenders.gov.za/api/OCDSReleases",
- "generatedAt": "2026-11-21T22:14:51.347390+00:00",
+ "generatedAt": "2026-11-22T02:49:59.239207+00:00",
  "lookbackDays": 60,
- "coveredFrom": "2026-10-08",
- "releasesScanned": 3732,
- "uniqueTenders": 3797,
+ "coveredFrom": "2026-10-16",
+ "releasesScanned": 3263,
+ "uniqueTenders": 3338,
  "count": 175,
  "categories": {
-  "Software & Systems": 75,
+  "Software & Systems": 76,
   "IT Services & Support": 19,
   "Cybersecurity": 7,
   "Network & Infrastructure": 32,
-  "End-User Computing": 23,
+  "End-User Computing": 22,
   "Telecoms & Unified Comms": 13,
   "Cloud Services": 6
  },
  "onlineBriefings": 0,
- "carriedOver": 4,
+ "carriedOver": 8,
  "briefingFieldsSeen": {},
  "tenders": [
   {
@@ -4462,7 +4462,7 @@
    "reference": "TMPD 02-2026/27",
    "title": "Tender for the supply and delivery of original equipment manufacturer (OEM) printer specific consumables for identity (id) card printers and as well as upgrading of the existing id card software packages to the Tshwane police department for a period of three (3) years on and when required basis.",
    "department": "City of Tshwane",
-   "category": "End-User Computing",
+   "category": "Software & Systems",
    "company": "rtc",
    "matchedTerms": [
     "printer",

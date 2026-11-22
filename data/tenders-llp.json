@@ -1,19 +1,19 @@
 {
  "source": "https://ocds-api.etenders.gov.za/api/OCDSReleases",
- "generatedAt": "2026-11-21T22:14:51.347390+00:00",
+ "generatedAt": "2026-11-22T02:49:59.239207+00:00",
  "lookbackDays": 60,
- "coveredFrom": "2026-10-08",
- "releasesScanned": 3732,
- "uniqueTenders": 3797,
+ "coveredFrom": "2026-10-16",
+ "releasesScanned": 3263,
+ "uniqueTenders": 3338,
  "count": 315,
  "categories": {
-  "Facilities Maintenance": 182,
-  "Grounds & Landscaping": 32,
-  "Supply & Consumables": 70,
-  "Agriculture": 31
+  "Facilities Maintenance": 169,
+  "Grounds & Landscaping": 38,
+  "Supply & Consumables": 78,
+  "Agriculture": 30
  },
  "onlineBriefings": 0,
- "carriedOver": 13,
+ "carriedOver": 17,
  "briefingFieldsSeen": {},
  "tenders": [
   {
@@ -246,7 +246,7 @@
    "reference": "SCMU3-P26/27-1045-LDH",
    "title": "SERVICE: GROUNDS MAINTENANCE FOR A PERIOD OF 12 (TWELVE) MONTHS AT LIVINGSTONE TERTIARY HOSPITAL",
    "department": "Eastern Cape - Health",
-   "category": "Facilities Maintenance",
+   "category": "Grounds & Landscaping",
    "company": "llp",
    "matchedTerms": [
     "grounds",
@@ -372,7 +372,7 @@
    "reference": "35449/TNP/2026-27-R",
    "title": "APPOINTMENT OF A SERVICE PROVIDER FOR SERVICING AND MAINTENANCE OF LV AND MV AND ELECTRICAL COMPLIANCE WITHIN THE TSITSIKAMMA SECTION OF GARDEN ROUTE NATIONAL PARK FOR A PERIOD OF 60 MONTHS.",
    "department": "South African National Parks",
-   "category": "Facilities Maintenance",
+   "category": "Grounds & Landscaping",
    "company": "llp",
    "matchedTerms": [
     "garden",
@@ -2381,7 +2381,7 @@
    "reference": "SANBI G591/2026",
    "title": "APPOINTMENT OF A SERVICE PROVIDER FOR THE COMPLETION OF THE DRY ROOM AND MINOR REPAIR WORK TO THE SEEDBANK FACILITY AT THE KIRSTENBOSCH NATIONAL BOTANICAL GARDEN, CAPE TOWN",
    "department": "South African National Biodiversity Institute",
-   "category": "Facilities Maintenance",
+   "category": "Grounds & Landscaping",
    "company": "llp",
    "matchedTerms": [
     "garden",
@@ -2947,7 +2947,7 @@
    "reference": "RLM/DCD/0061/2026/27",
    "title": "Appointment of a service provider to render the cleaning and hygiene service at various municipal buildings for a period of 36 months as and when needed",
    "department": "Rustenburg Local Municipality",
-   "category": "Facilities Maintenance",
+   "category": "Supply & Consumables",
    "company": "llp",
    "matchedTerms": [
     "buildings",
@@ -3214,7 +3214,7 @@
    "reference": "E3615GXMPDUVp",
    "title": "Publication of bidders names - Service, Maintenance, Calibration, Supply of spares and consumables of Lab Instruments at Duvha Power Station on as and when required basis for a period of 60 Months.",
    "department": "ESKOM",
-   "category": "Facilities Maintenance",
+   "category": "Supply & Consumables",
    "company": "llp",
    "matchedTerms": [
     "consumables",
@@ -5056,7 +5056,7 @@
    "reference": "ATM 2026/2027-09",
    "title": "The Afrikaans Language Museum and Monument (ATM) hereby invites quotations for the provision of professional grass-cutting and grounds maintenance services. The purpose of this invitation is to appoint a suitably qualified and experienced service provider to provide regular grass-cutting and grounds maintenance services at the ATM for a period of two (2) years.",
    "department": "Die Afrikaanse Taal Museum",
-   "category": "Facilities Maintenance",
+   "category": "Grounds & Landscaping",
    "company": "llp",
    "matchedTerms": [
     "grounds",
@@ -5929,7 +5929,7 @@
    "reference": "CSA/06/2026-27",
    "title": "THE DESIGN, SUPPLY, INSTALLATION, TESTING, \r\nCOMMISSIONING AND VERIFICATION OF LED ARENA \r\nFLOODLIGHTING, NEW FLOODLIGHT MASTS AND ASSOCIATED \r\nELECTRICAL INFRASTRUCTURE, AND MAINTENANCE FOR TEN \r\n(10) YEARS, AT THE BORDER CRICKET GROUNDS (BUFFALO \r\nPARK STADIUM), KUGOMPO CITY",
    "department": "Buffalo City Metropolitan Municipality",
-   "category": "Facilities Maintenance",
+   "category": "Grounds & Landscaping",
    "company": "llp",
    "matchedTerms": [
     "grounds",
@@ -6189,7 +6189,7 @@
    "reference": "35701/TNP/2026-27-R",
    "title": "APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, INSTALLATION, MAINTENANCE OF SURVEILLANCE CAMERAS AND CONTROL ROOM DESIGN IN THE TSITSIKAMMA SECTION OF GARDEN ROUTE NATIONAL PARK",
    "department": "South African National Parks",
-   "category": "Facilities Maintenance",
+   "category": "Grounds & Landscaping",
    "company": "llp",
    "matchedTerms": [
     "garden",
@@ -6318,7 +6318,7 @@
    "reference": "ZNB 3001/2026-H",
    "title": "PROVISION OF CLEANING OF BUILDINGS AND OFFICES AT SELECTED FACILITIES AND WILL BE AWARDED AS A MULTI-AWARD BID THREE (03) YEARS CONTRACT.",
    "department": "Kwazulu Natal - Health",
-   "category": "Facilities Maintenance",
+   "category": "Supply & Consumables",
    "company": "llp",
    "matchedTerms": [
     "buildings",
@@ -6365,7 +6365,7 @@
    "reference": "ZNB 3001 2026-H",
    "title": "PROVISION OF CLEANING OF BUILDINGS AND OFFICES AT SELECTED FACILITIES AND WILL BE AWARDED AS A MULTI-AWARD BID THREE (03) YEARS CONTRACT.",
    "department": "Kwazulu Natal - Health",
-   "category": "Facilities Maintenance",
+   "category": "Supply & Consumables",
    "company": "llp",
    "matchedTerms": [
     "buildings",
@@ -10161,7 +10161,7 @@
    "reference": "09/2027",
    "title": "Bid No: SUPPLY, INSTALL SERVICE AND MAINTENANCE OF  FOUR(4) 12kv SUBMERSIBLE PUMPS FOR PUMPING SEAWATER INTO SCOTTBURGH SWIMMING POOL,INCLUDING POOL CLEANING FOR A PERIOD OF 36 MONTHS",
    "department": "Umdoni Local Municipality",
-   "category": "Facilities Maintenance",
+   "category": "Supply & Consumables",
    "company": "llp",
    "matchedTerms": [
     "cleaning",
@@ -12676,7 +12676,7 @@
    "reference": "TNPA/2026/06/1286/7234/RFP",
    "title": "STANDING APPROVED LIST FOR THE SUPPLY AND DELIVERY OF CIVIL AND ELECTRICAL MAINTENANCE MATERIALS WITH SPARES AND CONSUMABLES ON AN AS AND WHEN REQUIRED BASIS FOR THE CENTRAL REGION (PORT OF EAST LONDON, PORT OF NGQURA & PORT OF PORT OF ELIZABETH) FOR PERIOD OF 5 YEARS",
    "department": "Transnet SOC Ltd",
-   "category": "Facilities Maintenance",
+   "category": "Supply & Consumables",
    "company": "llp",
    "matchedTerms": [
     "consumables",
@@ -16466,7 +16466,7 @@
    "reference": "GSHPT93/2026",
    "title": "THE PLACEMENT OF TWO (2) EXTRA CORPOREAL MEMBRANE OXYGENATION ECMO MACHINE WITH ACCESSORIES INCLUDING A FULLY COMPREHENSIVE MAINTENANCE CONTRACT AND THE SUPPLY AND DELIVERY OF CONSUMABLES AT GROOTE SCHUUR HOSPITAL OVER A PERIOD OF FIVE (5) YEARS.",
    "department": "Western Cape - Health",
-   "category": "Facilities Maintenance",
+   "category": "Supply & Consumables",
    "company": "llp",
    "matchedTerms": [
     "consumables",
@@ -17179,7 +17179,7 @@
    "reference": "T05-2027",
    "title": "THE APPOINTMENT OF A PANEL OF SERVICE PROVIDERS FOR THE SUPPLY AND DELIVERY OF AGRICULTURAL INPUTS, TOOLS & EQUIPMENTS AND PROTECTIVE CLOTHING FOR PERIOD OF THREE YEARS",
    "department": "ILembe - Enterprise iLembe Economic Development Agency",
-   "category": "Agriculture",
+   "category": "Supply & Consumables",
    "company": "llp",
    "matchedTerms": [
     "agricultur",
