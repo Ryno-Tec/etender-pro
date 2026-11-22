@@ -1,22 +1,22 @@
 {
  "source": "https://ocds-api.etenders.gov.za/api/OCDSReleases",
- "generatedAt": "2026-11-22T02:49:59.239207+00:00",
+ "generatedAt": "2026-11-22T13:11:18.717360+00:00",
  "lookbackDays": 60,
- "coveredFrom": "2026-10-16",
- "releasesScanned": 3263,
- "uniqueTenders": 3338,
+ "coveredFrom": "2026-10-23",
+ "releasesScanned": 2783,
+ "uniqueTenders": 2833,
  "count": 175,
  "categories": {
-  "Software & Systems": 76,
-  "IT Services & Support": 19,
-  "Cybersecurity": 7,
-  "Network & Infrastructure": 32,
+  "Software & Systems": 78,
+  "IT Services & Support": 17,
+  "Cybersecurity": 10,
+  "Network & Infrastructure": 26,
   "End-User Computing": 22,
   "Telecoms & Unified Comms": 13,
-  "Cloud Services": 6
+  "Cloud Services": 9
  },
  "onlineBriefings": 0,
- "carriedOver": 8,
+ "carriedOver": 21,
  "briefingFieldsSeen": {},
  "tenders": [
   {
@@ -398,7 +398,7 @@
    "reference": "RFQ/ICT/26/27/241",
    "title": "PROVISION OF MIMECAST EMAIL CONTINUITY AND ARCHIVING SOLUTIONS FOR 12 MONTHS",
    "department": "Manufacturing, Engineering and Related Services SETA (merSETA)",
-   "category": "IT Services & Support",
+   "category": "Cybersecurity",
    "company": "rtc",
    "matchedTerms": [
     "ict",
@@ -524,7 +524,7 @@
    "reference": "RY22962",
    "title": "PURCHASING OF CISCO ENDPOINT (ANTI-VIRUS) LICENSE RENEWAL",
    "department": "Port Elizabeth TVET College",
-   "category": "Network & Infrastructure",
+   "category": "Cybersecurity",
    "company": "rtc",
    "matchedTerms": [
     "anti-virus",
@@ -1782,7 +1782,7 @@
    "reference": "PSiRA/2026/27/RFB/08",
    "title": "APPOINTMENT OF A SERVICE PROVIDER FOR THE DESIGN, SUPPLY, IMPLEMENT AND MAINTENANCE OF A CLOUD-BASED MICROSOFT TEAMS TELEPHONY SYSTEM AND CALL CENTER SOLUTION FOR A PERIOD OF 36 MONTHS.",
    "department": "Private Security Industry Regulatory Authority",
-   "category": "Software & Systems",
+   "category": "Cloud Services",
    "company": "rtc",
    "matchedTerms": [
     "cloud",
@@ -4148,7 +4148,7 @@
    "reference": "57 OF 2026",
    "title": "Supply, delivery, installation and commissioning of server room environmental management system including quarterly support and maintenance plan for the period of three years",
    "department": "Makhado Local Municipality",
-   "category": "Network & Infrastructure",
+   "category": "Software & Systems",
    "company": "rtc",
    "matchedTerms": [
     "management system",
@@ -4739,7 +4739,7 @@
    "reference": "CGE/T/11/2026/27",
    "title": "Provision of WAN and VOIP services for 36 months",
    "department": "Commission for Gender Equality",
-   "category": "Network & Infrastructure",
+   "category": "Telecoms & Unified Comms",
    "company": "rtc",
    "matchedTerms": [
     "voip",
@@ -5831,7 +5831,7 @@
    "reference": "5/2/2/1(013)2026-2027",
    "title": "APPOINTMENT OF A SERVICE PROVIDER TO SUPPLY AND ACTIVATE CISCO DNA CENTRE VIRTUAL APPLIANCE, CISCO IDENTITY SERVICES LICENCE RENEWALS, SMARTNET AND PROVIDE SUPPORT FOR THE PERIOD OF THREE YEARS (36 MONTHS) FOR THE DEPARTMENT OF AGRICULTURE.",
    "department": "National - Department of Agriculture",
-   "category": "Network & Infrastructure",
+   "category": "Software & Systems",
    "company": "rtc",
    "matchedTerms": [
     "cisco",
@@ -7253,7 +7253,7 @@
    "reference": "5-2-2-1 DLRRD 0021 2026-2027",
    "title": "THE APPOINTMENT OF A SERVICE PROVIDER TO CONDUCT AN INFORMATION TECHNOLOGY (IT) AUDIT PROJECT OF CYBERSECURITY FOR THE DEPARTMENT OF LAND REFORM AND RURAL DEVELOPMENT (DLRRD),",
    "department": "Department of  Land Reform and Rural Development",
-   "category": "IT Services & Support",
+   "category": "Cybersecurity",
    "company": "rtc",
    "matchedTerms": [
     "cyber",
@@ -7703,7 +7703,7 @@
    "reference": "RFB 3301/ 2026 - (ERP No 530015)",
    "title": "Appointment of a Service Provider to Provide a New Integrated Video Conferencing and Audio-Visual Solution for SAPS UBUNYE Auditorium.The Closing Date Has Being Extended Till 14 December 2026",
    "department": "State Information Technology Agency",
-   "category": "Telecoms & Unified Comms",
+   "category": "Software & Systems",
    "company": "rtc",
    "matchedTerms": [
     "erp",
@@ -8117,7 +8117,7 @@
    "reference": "EDUMT05/2026/27 - ReAdvertisement",
    "title": "RE-ADVERTISEMENT OF THE PROVISION, CONFIRGURATION,IMPLEMENTATION AND SUPPORT OF A DISASTER RECOVERY CLOUD BACKUP SOLUTION FOR A PERIOD OF THIRTY SIX (36) MONTHS",
    "department": "eDumbe Local Municipality",
-   "category": "Network & Infrastructure",
+   "category": "Cloud Services",
    "company": "rtc",
    "matchedTerms": [
     "backup",
@@ -8607,7 +8607,7 @@
    "reference": "UMN 03/2026-27",
    "title": "Appointment of a Service Provider for the procurement, installation and commissioning of enterprise servers, disaster recovery infrastructure, cloud backup solution, active directory monitoring tool, server monitoring tool, and Veeam backup & replication services for uMngeni local municipality for a period of 36 Months",
    "department": "Umngeni Municipality",
-   "category": "Network & Infrastructure",
+   "category": "Cloud Services",
    "company": "rtc",
    "matchedTerms": [
     "backup",
@@ -9106,6 +9106,12 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=6e4ee782-8ef3-4ca2-a9bb-115e92f7bc62.xlsx&downloadedFileName=Kusile%20Plant%20Smart%20Digitilization-Pricing%20Schedule%20rev%201.xlsx",
      "format": "xlsx",
      "published": "2026-11-19T10:56:42Z"
+    },
+    {
+     "title": "Invitation to Tender (ITT) digitalization..pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=8d5ebb1b-5431-4065-81b1-18d47cfc4775.pdf&downloadedFileName=Invitation%20to%20Tender%20%28ITT%29%20digitalization..pdf",
+     "format": "pdf",
+     "published": "2026-11-22T08:34:00Z"
     },
     {
      "title": "Meeting link .docx",

@@ -1,19 +1,19 @@
 {
  "source": "https://ocds-api.etenders.gov.za/api/OCDSReleases",
- "generatedAt": "2026-11-22T02:49:59.239207+00:00",
+ "generatedAt": "2026-11-22T13:11:18.717360+00:00",
  "lookbackDays": 60,
- "coveredFrom": "2026-10-16",
- "releasesScanned": 3263,
- "uniqueTenders": 3338,
- "count": 315,
+ "coveredFrom": "2026-10-23",
+ "releasesScanned": 2783,
+ "uniqueTenders": 2833,
+ "count": 314,
  "categories": {
-  "Facilities Maintenance": 169,
+  "Facilities Maintenance": 151,
   "Grounds & Landscaping": 38,
   "Supply & Consumables": 78,
-  "Agriculture": 30
+  "Agriculture": 47
  },
  "onlineBriefings": 0,
- "carriedOver": 17,
+ "carriedOver": 26,
  "briefingFieldsSeen": {},
  "tenders": [
   {
@@ -2452,7 +2452,7 @@
    "reference": "MMB2627/037 GS",
    "title": "PREVENTATIVE MAINTENANCE(36 MONTHS) REPAIRS AND SERVICE OF FIRE FIGHTING EQUIPMENT : DR RSM DISTRICT MUNICIPALITY ( SAPS DOJ HOME AFFAIRS LABOUR STATS SA AGRICULTURE & DEEDS)\r\n\r\nCIDB GRADE  3F OR HIGHER",
    "department": "Public Works",
-   "category": "Facilities Maintenance",
+   "category": "Agriculture",
    "company": "llp",
    "matchedTerms": [
     "agricultur",
@@ -5604,7 +5604,7 @@
    "reference": "252/2026",
    "title": "APPOINTMENT OF CONTRACTOR FOR RESEALING AND MAINTENANCE OF ROADS AND STORMWATER IN THE KOUGA LOCAL MUNICIPAL AREA FOR A PERIOD OF THREE (3) YEARS",
    "department": "Kouga Municipality",
-   "category": "Facilities Maintenance",
+   "category": "Agriculture",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -5882,7 +5882,7 @@
    "reference": "E0226EOISDLERI",
    "title": "Identification and selection of new-entrant, 100% black-owned Exempted Micro\r\nEnterprises (EMEs) and Qualifying Small Enterprises (QSEs) to be assigned\r\nas Enterprise and Supplier Development (ESD) beneficiaries to the contracted\r\nOutage Service Contractor(s) for the Provision of Outage, Maintenance and\r\nWorks Services for various Eskom Power Stations for a period of five (5) years.\r\nSelected beneficiaries will receive a minimum of 30% of the contractor’s\r\ntechnical scope as subcontracted work, together with a structured development\r\nprogramme. Enterprises owned by black women, black youth and black people\r\nwith disabilities are strongly encouraged to respond.",
    "department": "ESKOM",
-   "category": "Facilities Maintenance",
+   "category": "Agriculture",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -7331,7 +7331,7 @@
    "reference": "COM140/2026",
    "title": "APPOINTMENT OF A CONTRACTOR FOR THE CONSTRUCTION AND INSTALLATION OF FENCING AT A FARM IN NUMBI VILLAGE, WARD 39, WITHIN THE CITY OF MBOMBELA",
    "department": "Mbombela Local Municipality",
-   "category": "Facilities Maintenance",
+   "category": "Agriculture",
    "company": "llp",
    "matchedTerms": [
     "farm",
@@ -7753,47 +7753,6 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=f4c18d50-caa0-423c-8c02-083634962dca.pdf&downloadedFileName=Queenstown%20and%20Surrounding%20Areas%20hot%20water%20systems%20%28GQET-26.27-022%29%20RR.pdf",
      "format": "pdf",
      "published": "2026-11-09T07:42:38Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-177019",
-   "reference": "RR69088/26-27",
-   "title": "Appointment of a service provider to repair and carry out localized asbestos roof encapsulation of buildings",
-   "department": "ARMSCOR",
-   "category": "Facilities Maintenance",
-   "company": "llp",
-   "matchedTerms": [
-    "buildings",
-    "repair"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-05T00:00:00+00:00",
-   "closingDate": "2026-12-01T11:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "RR69088-26_27 (Asbestos roof repair).pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=063668c6-c315-4f6c-990c-7e8d9f460b5b.pdf&downloadedFileName=RR69088-26_27%20%28Asbestos%20roof%20repair%29.pdf",
-     "format": "pdf",
-     "published": "2026-11-05T14:18:19Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -9199,10 +9158,10 @@
    },
    "documents": [
     {
-     "title": "PR10069689 -BID DOCUMENT - REFURBISHMENT OF ABLUTION FACILITIES PHASE 2.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=1020b642-c8d5-47e3-b57a-a445ded8342f.pdf&downloadedFileName=PR10069689%20-BID%20DOCUMENT%20-%20REFURBISHMENT%20OF%20ABLUTION%20FACILITIES%20PHASE%202.pdf",
+     "title": "Addendum - PR10069689 -BID DOCUMENT - REFURBISHMENT OF ABLUTION FACILITIES PHASE 2.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=f9fb2d18-a102-44ad-ae33-a745faeee935.pdf&downloadedFileName=Addendum%20-%20PR10069689%20-BID%20DOCUMENT%20-%20REFURBISHMENT%20OF%20ABLUTION%20FACILITIES%20PHASE%202.pdf",
      "format": "pdf",
-     "published": "2026-11-17T17:44:00Z"
+     "published": "2026-11-22T10:29:06Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -10108,7 +10067,7 @@
    "reference": "NRA  2026/0757",
    "title": "FOR THE OPERATIONS AND MAINTENANCE OF THE TOLL PLAZAS ON THE NATIONAL \r\nROUTE N2 NORTH (Retender) (Contractor)",
    "department": "South African National Roads Agency Soc Limited (SANRAL)",
-   "category": "Facilities Maintenance",
+   "category": "Agriculture",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -11929,7 +11888,7 @@
    "reference": "NRA 2026/0755",
    "title": "FOR THE OPERATIONS AND MAINTENANCE OF MARIANNHILL TOLL \r\nPLAZA ON NATIONAL ROUTE 3 (Contractor)",
    "department": "South African National Roads Agency Soc Limited (SANRAL)",
-   "category": "Facilities Maintenance",
+   "category": "Agriculture",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -13307,7 +13266,7 @@
    "reference": "SCMU6-26/27-0009",
    "title": "APPOINTMENT OF A CONTRACTOR FOR EMERGENCY REPAIRS AT MORULANE JUNIOR SECONDARY SCHOOL",
    "department": "Eastern Cape - Education",
-   "category": "Facilities Maintenance",
+   "category": "Agriculture",
    "company": "llp",
    "matchedTerms": [
     "repairs",
@@ -13348,7 +13307,7 @@
    "reference": "DOH(FS)11/2026/2027",
    "title": "APPOINTMENT OF A SUITABLE CONTRACTOR TO UNDERTAKE THE MAJOR UPGRADES AT EXISTING PAX CLINIC, VIJOENSKROON FREE STATE PROVINCE. (8GB OR HIGHER)",
    "department": "Free State - Health",
-   "category": "Facilities Maintenance",
+   "category": "Agriculture",
    "company": "llp",
    "matchedTerms": [
     "tractor",
@@ -15009,7 +14968,7 @@
    "reference": "8/2/RNM0653",
    "title": "PANEL OF ELECTRICAL CONTRACTOR FOR MAINTENANCE OF ELECTRICAL INFRASTRUCTURE TO RAY NKONYENI MUNICIPALITY FOR A PERIOD OF THREE YEARS",
    "department": "Ray Nkonyeni Local Municipality",
-   "category": "Facilities Maintenance",
+   "category": "Agriculture",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -15426,7 +15385,7 @@
    "reference": "CSRT/BID09/2026/27",
    "title": "THE ADVERTISEMENT AND APPOINTMENT OF A CONTRACTOR ON CIDB LEVEL 9CE FOR THE UPGRADING OF PRIMARY ROAD P54/3 FOR DISTANCE OF 28KM BETWEEN EDENBURG AND REDDERSBURG FOR THE DEPARTMENT OF COMMUNITY SAFETY, ROADS AND TRANSPORT OVER A PERIOD OF 24 MONTHSOF 24 MONTHS",
    "department": "Free State - Police, Roads and Transport",
-   "category": "Facilities Maintenance",
+   "category": "Agriculture",
    "company": "llp",
    "matchedTerms": [
     "tractor",
@@ -15467,7 +15426,7 @@
    "reference": "CSRT/BID10/2026/27",
    "title": "THE ADVERTISEMENT AND APPOINTMENT OF A CONTRACTOR WITH MINIMUM OF CIDB GRADING LEVEL 9CE FOR SPECIAL MAINTENANCE OF PRIMARY ROAD R59 P33/3, P56/2, P10/1  P83/1 AND 73/1 BETWEEN VILJOENSKROON, VREDEFORT, PARYS, TO SASOLBURG FOR THE DEPARTMENT OF COMMUNITY SAFETY, ROADS AND TRANSPORT FOR A PERIOD OF TWENTY FOUR (24) MONTHS.",
    "department": "Free State - Police, Roads and Transport",
-   "category": "Facilities Maintenance",
+   "category": "Agriculture",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -16103,7 +16062,7 @@
    "reference": "DWS08 1026 WTE",
    "title": "FRAMEWORK CONTRACTORS FOR CIVIL MAINTENANCE AND OTHER RELATED WORKS FOR NORTHERN OPERATIONS FOR A PERIOD OF FOUR (4) YEARS. ONLY RESPONDENTS WITH CIDB GRADING 7CE OR HIGHER ARE ELIGIBLE TO BID.",
    "department": "Water and Sanitation",
-   "category": "Facilities Maintenance",
+   "category": "Agriculture",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -16144,7 +16103,7 @@
    "reference": "DWS11 1026 WTE",
    "title": "FRAMEWORK CONTRACTORS FOR CIVIL MAINTENANCE AND OTHER RELATED WORKS FOR STRATEGIC INFRASTRUCTURE ASSET MANAGEMENT FOR A PERIOD OF FOUR (4) YEARS. ONLY RESPONDENTS WITH CIDB GRADING 9CE ARE ELIGIBLE TO BID",
    "department": "Water and Sanitation",
-   "category": "Facilities Maintenance",
+   "category": "Agriculture",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -16185,7 +16144,7 @@
    "reference": "DWS07-1026 WTE",
    "title": "FRAMEWORK CONTRACTORS FOR CIVIL MAINTENANCE AND OTHER RELATED WORKS FOR CENTRAL OPERATIONS FOR A PERIOD OF FOUR (4) YEARS.  ONLY RESPONDENTS WITH CIDB GRADING 8CE OR HIGHER ARE ELIGIBLE TO BID",
    "department": "Water and Sanitation",
-   "category": "Facilities Maintenance",
+   "category": "Agriculture",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -16232,7 +16191,7 @@
    "reference": "DWS09-0926WTE",
    "title": "FRAMEWORK CONTRACTORS FOR CIVIL MAINTENANCE AND OTHER RELATED WORKS FOR EASTERN OPERATIONS FOR A PERIOD OF FOUR (4) YEARS. ONLY RESPONDENTS WITH CIDB GRADING 9 CE OR HIGHER ARE ELIGIBLE TO BID",
    "department": "Water and Sanitation",
-   "category": "Facilities Maintenance",
+   "category": "Agriculture",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -16279,7 +16238,7 @@
    "reference": "DWS10-0926 WTE",
    "title": "FRAMEWORK CONTRACTORS FOR CIVIL MAINTENANCE AND OTHER RELATED WORKS FOR SOUTHERN OPERATIONS FOR A PERIOD OF FOUR (4) YEARS. ONLY RESPONDENTS WITH CIDB GRADING 9CE ARE ELIGIBLE TO BID.",
    "department": "Water and Sanitation",
-   "category": "Facilities Maintenance",
+   "category": "Agriculture",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -16596,7 +16555,7 @@
    "reference": "HES-CORP 01/2627",
    "title": "THE APPOINTMENT OF A CONTRACTOR FOR THE UPGRADING OF ABLUTION FACILITIES IN THE HESSEQUA MUNICIPAL AREA",
    "department": "Hessequa Municipality",
-   "category": "Facilities Maintenance",
+   "category": "Agriculture",
    "company": "llp",
    "matchedTerms": [
     "tractor",
