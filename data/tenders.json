@@ -1,22 +1,22 @@
 {
  "source": "https://ocds-api.etenders.gov.za/api/OCDSReleases",
- "generatedAt": "2026-11-22T22:21:24.906585+00:00",
+ "generatedAt": "2026-11-23T03:21:14.994524+00:00",
  "lookbackDays": 60,
- "coveredFrom": "2026-11-06",
- "releasesScanned": 1664,
- "uniqueTenders": 1699,
- "count": 176,
+ "coveredFrom": "2026-11-17",
+ "releasesScanned": 593,
+ "uniqueTenders": 653,
+ "count": 171,
  "categories": {
-  "Software & Systems": 79,
-  "IT Services & Support": 19,
+  "Software & Systems": 77,
+  "IT Services & Support": 18,
   "Cybersecurity": 6,
   "Network & Infrastructure": 31,
-  "End-User Computing": 22,
-  "Telecoms & Unified Comms": 12,
+  "End-User Computing": 21,
+  "Telecoms & Unified Comms": 11,
   "Cloud Services": 7
  },
  "onlineBriefings": 0,
- "carriedOver": 61,
+ "carriedOver": 110,
  "briefingFieldsSeen": {},
  "tenders": [
   {
@@ -7938,46 +7938,6 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
-   "id": "ocds-9t57fa-178992",
-   "reference": "FSCOGTA (RFB) 004/2026-2027",
-   "title": "APPOINTMENT OF PANEL OF SERVICE PROVIDER/S WITH SUITABLE EXPERIENCE TO RENDER IT AUDIT SERVICES ON BEHALF OF THE DEPARTMENT  \"AS AND WHEN REQUIRED\" OVER A PERIOD OF THREE (3) YEARS.",
-   "department": "Free State - Corporate Governance Traditional Affairs",
-   "category": "IT Services & Support",
-   "company": "rtc",
-   "matchedTerms": [
-    "it audit"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-20T00:00:00+00:00",
-   "closingDate": "2026-12-15T11:00:00+00:00",
-   "procurementMethod": "Request for Bid(Open-Tender)",
-   "procurementCategory": "consultingServices",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "FSCOGTA (RFB) 004 2026-2027 Bid Document 20Nov2026.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=498ee84b-9af5-4c00-9a94-063615fa33ca.pdf&downloadedFileName=FSCOGTA%20%28RFB%29%20004%202026-2027%20Bid%20Document%2020Nov2026.pdf",
-     "format": "pdf",
-     "published": "2026-11-20T09:14:34Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
    "id": "ocds-9t57fa-178455",
    "reference": "BS/2026/RFB569",
    "title": "APPOINTMENT OF A SUITABLE SERVICE PROVIDER FOR IMPLEMENTATION OF IT SERVICE MANAGEMENT SOLUTION (ITSM) FOR (3) YEARS",
@@ -8426,60 +8386,6 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
-   "id": "ocds-9t57fa-179251",
-   "reference": "EHC/M356/12/2026",
-   "title": "Request to procure, supply and activate 45 Microsoft Business Premium Licenses for a period of 24 Months. EHC/M356/12/2026",
-   "department": "Ekurhuieni Housing Company",
-   "category": "Software & Systems",
-   "company": "rtc",
-   "matchedTerms": [
-    "license",
-    "microsoft",
-    "microsoft business premium licens"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-20T00:00:00+00:00",
-   "closingDate": "2026-12-21T11:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "consultingServices",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "MBDs1to9.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=23e43fc1-813e-452d-ac0b-3278b6cb4348.pdf&downloadedFileName=MBDs1to9.pdf",
-     "format": "pdf",
-     "published": "2026-11-20T17:21:45Z"
-    },
-    {
-     "title": "MBD 6.1 IN TERMS OF PPR2022 amended.docx",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=09b0f10e-d587-4668-a5e3-6c28ffc60f6e.docx&downloadedFileName=MBD%206.1%20IN%20TERMS%20OF%20PPR2022%20amended.docx",
-     "format": "docx",
-     "published": "2026-11-20T17:22:44Z"
-    },
-    {
-     "title": "Microsoft advert .pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=e6b76afc-b36a-4d15-a379-a1e1a1b6dcea.pdf&downloadedFileName=Microsoft%20advert%20.pdf",
-     "format": "pdf",
-     "published": "2026-11-20T17:21:09Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
    "id": "ocds-9t57fa-179063",
    "reference": "ICT06/PSETA/11/2026",
    "title": "THE APPOINTMENT OF A SERVICE PROVIDER TO CUSTOMIZE, SUPPORT, AND MAINTAIN THE MICROSOFT DYNAMICS 365 ENTERPRISE RESOURCE PLANNING FOR THE PERIOD ENDING 31 MARCH 2030, NOT EXCEEDING THIRTY-EIGHT (38) MONTHS",
@@ -8776,138 +8682,6 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=765c504e-20a3-4aa0-8371-565101516180.pdf&downloadedFileName=55-2026-2027%20ADVERT.pdf",
      "format": "pdf",
      "published": "2026-11-20T10:46:26Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-179057",
-   "reference": "TDR53/2026/2027",
-   "title": "APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, INSTALLATION AND MAINTENANCE OF AN ENTERPRISE IP-PBX / UNIFIED COMMUNICATIONS PLATFORM",
-   "department": "Mossel Bay Municipality",
-   "category": "Telecoms & Unified Comms",
-   "company": "rtc",
-   "matchedTerms": [
-    "unified communication"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-20T00:00:00+00:00",
-   "closingDate": "2027-01-15T12:00:00+00:00",
-   "procurementMethod": "Request for Bid(Open-Tender)",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "53-2026-2027 Tender Document.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=b815b9e7-19fe-4970-9625-00b892bfde3c.pdf&downloadedFileName=53-2026-2027%20Tender%20Document.pdf",
-     "format": "pdf",
-     "published": "2026-11-20T10:50:21Z"
-    },
-    {
-     "title": "53-2026-2027 ADVERT.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=1d6c163d-63f2-408b-a853-7f55ba9be95e.pdf&downloadedFileName=53-2026-2027%20ADVERT.pdf",
-     "format": "pdf",
-     "published": "2026-11-20T10:50:21Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-179089",
-   "reference": "CED 29/2026-2027",
-   "title": "SUPPLY, DELIVERY, INSTALLATION AND MAINTENANCE OF MULTI-FUNCTIONAL PRINTER DEVICES",
-   "department": "Cederberg Municipality",
-   "category": "End-User Computing",
-   "company": "rtc",
-   "matchedTerms": [
-    "printer"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-20T00:00:00+00:00",
-   "closingDate": "2027-01-18T12:00:00+00:00",
-   "procurementMethod": "Request for Bid(Open-Tender)",
-   "procurementCategory": "consultingServices",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "CED 29-2026-2027 ADVERT.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=8f2e25c0-6358-4924-869d-100431b1cd37.pdf&downloadedFileName=CED%2029-2026-2027%20ADVERT.pdf",
-     "format": "pdf",
-     "published": "2026-11-20T11:41:37Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-178983",
-   "reference": "56/2026",
-   "title": "PROVISION FOR VMWARE VSPHERE FOUNDATION AND VMWARE LIVE RECOVERY SUBSCRIPTION RENEWAL (36 MONTHS)",
-   "department": "Legal Aid South Africa",
-   "category": "Software & Systems",
-   "company": "rtc",
-   "matchedTerms": [
-    "vmware"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-20T00:00:00+00:00",
-   "closingDate": "2027-01-19T11:00:00+00:00",
-   "procurementMethod": "Request for Bid(Open-Tender)",
-   "procurementCategory": "consultingServices",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "VMWARE Specs 2026.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=b385d928-9271-4ad9-8ea4-9e9df331c814.pdf&downloadedFileName=VMWARE%20Specs%202026.pdf",
-     "format": "pdf",
-     "published": "2026-11-20T08:42:53Z"
-    },
-    {
-     "title": "Request for Proposals VMWARE.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=4350ccb6-b33b-4d02-8bd2-fe676604baa2.pdf&downloadedFileName=Request%20for%20Proposals%20VMWARE.pdf",
-     "format": "pdf",
-     "published": "2026-11-20T08:42:53Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"

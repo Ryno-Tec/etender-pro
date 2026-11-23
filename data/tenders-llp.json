@@ -1,19 +1,19 @@
 {
  "source": "https://ocds-api.etenders.gov.za/api/OCDSReleases",
- "generatedAt": "2026-11-22T22:21:24.906585+00:00",
+ "generatedAt": "2026-11-23T03:21:14.994524+00:00",
  "lookbackDays": 60,
- "coveredFrom": "2026-11-06",
- "releasesScanned": 1664,
- "uniqueTenders": 1699,
- "count": 314,
+ "coveredFrom": "2026-11-17",
+ "releasesScanned": 593,
+ "uniqueTenders": 653,
+ "count": 311,
  "categories": {
-  "Facilities Maintenance": 165,
+  "Facilities Maintenance": 155,
   "Grounds & Landscaping": 38,
   "Supply & Consumables": 74,
-  "Agriculture": 37
+  "Agriculture": 44
  },
  "onlineBriefings": 0,
- "carriedOver": 120,
+ "carriedOver": 228,
  "briefingFieldsSeen": {},
  "tenders": [
   {
@@ -3492,6 +3492,46 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
+   "id": "ocds-9t57fa-178674",
+   "reference": "5-2-1-1-2026-2027-151",
+   "title": "APPOINTMENT OF A SERVICE PROVIDER TO DESIGN, LAYOUT AND PRINTING OF THE FIVE-YEAR REPORT (2019/20-2023/24) ON THE NATIONAL POLICY ON EXTENSION AND ADVISORY SERVICES AT THE DEPARTMENT OF AGRICULTURE: DIRECTORATE: NATIONAL EXTENSION REFORM.",
+   "department": "National - Department of Agriculture",
+   "category": "Agriculture",
+   "company": "llp",
+   "matchedTerms": [
+    "agricultur"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-18T00:00:00+00:00",
+   "closingDate": "2026-11-26T11:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "5-2-1-1-2026-2027-151.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=661256bb-17ee-420e-bf14-4a650911dce9.pdf&downloadedFileName=5-2-1-1-2026-2027-151.pdf",
+     "format": "pdf",
+     "published": "2026-11-18T13:31:29Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
    "id": "ocds-9t57fa-177742",
    "reference": "RFQ  4612/26",
    "title": "Appointment of a suitable qualified panel of plumbers to assist with plumbing repairs and maintenance services for all South African Weather Service (SAWS) regional offices and radar sites which are situated in all nine (9) provinces.",
@@ -4843,6 +4883,46 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=2ddb066b-6f33-4877-a3bf-7637753e8c77.pdf&downloadedFileName=RFQ%20-%20Garden%20Services.pdf",
      "format": "pdf",
      "published": "2026-11-19T11:30:46Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-178748",
+   "reference": "RFQ0001323",
+   "title": "TO APPOINT A SERVICE PROVIDER (SP) TO PROVIDE THE DEPARTMENT OF FORESTRY, FISHERIES AND THE ENVIRONMENT (DFFE) / MARINE LIVING RESOURCES FUND (MLRF) TO SUPPLY AND DELIVER STATIONERY",
+   "department": "Marine Living Resources Fund",
+   "category": "Supply & Consumables",
+   "company": "llp",
+   "matchedTerms": [
+    "stationery"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-18T00:00:00+00:00",
+   "closingDate": "2026-11-27T11:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "goods",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "RFQ0001323.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=77f1d823-9491-4130-86c3-5895ba7d8ee3.pdf&downloadedFileName=RFQ0001323.pdf",
+     "format": "pdf",
+     "published": "2026-11-18T16:09:54Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -7292,7 +7372,7 @@
    "reference": "COM140/2026",
    "title": "APPOINTMENT OF A CONTRACTOR FOR THE CONSTRUCTION AND INSTALLATION OF FENCING AT A FARM IN NUMBI VILLAGE, WARD 39, WITHIN THE CITY OF MBOMBELA",
    "department": "Mbombela Local Municipality",
-   "category": "Facilities Maintenance",
+   "category": "Agriculture",
    "company": "llp",
    "matchedTerms": [
     "farm",
@@ -13268,7 +13348,7 @@
    "reference": "SCMU6-26/27-0009",
    "title": "APPOINTMENT OF A CONTRACTOR FOR EMERGENCY REPAIRS AT MORULANE JUNIOR SECONDARY SCHOOL",
    "department": "Eastern Cape - Education",
-   "category": "Facilities Maintenance",
+   "category": "Agriculture",
    "company": "llp",
    "matchedTerms": [
     "repairs",
@@ -13309,7 +13389,7 @@
    "reference": "DOH(FS)11/2026/2027",
    "title": "APPOINTMENT OF A SUITABLE CONTRACTOR TO UNDERTAKE THE MAJOR UPGRADES AT EXISTING PAX CLINIC, VIJOENSKROON FREE STATE PROVINCE. (8GB OR HIGHER)",
    "department": "Free State - Health",
-   "category": "Facilities Maintenance",
+   "category": "Agriculture",
    "company": "llp",
    "matchedTerms": [
     "tractor",
@@ -15178,216 +15258,11 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
-   "id": "ocds-9t57fa-179172",
-   "reference": "PLK26/18",
-   "title": "Civil Engineering Services: Dzanani Magistrate Office: Construction of additional accommodation, alterations, repairs and renovations",
-   "department": "Public Works",
-   "category": "Facilities Maintenance",
-   "company": "llp",
-   "matchedTerms": [
-    "renovat",
-    "repairs"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-20T00:00:00+00:00",
-   "closingDate": "2026-12-15T11:00:00+00:00",
-   "procurementMethod": "Request for Bid(Open-Tender)",
-   "procurementCategory": "consultingServices",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "Tender document for PLK26-18.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=b2afca00-da7b-4de0-af8a-496414888b78.pdf&downloadedFileName=Tender%20document%20for%20PLK26-18.pdf",
-     "format": "pdf",
-     "published": "2026-11-20T14:27:51Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-179265",
-   "reference": "DMPR/016/2026/27",
-   "title": "INVITATION OF BIDS FOR APPOINTMENT OF A SERVICE PROVIDER TO PROVIDE REPAIR, MAINTENANCE AND TECHNICAL SUPPORT FOR EXISTING CCTV AND ACCESS CONTROL SYSTEMS AT THE DEPARTMENT OF MINERAL AND PETROLEUM RESOURCES, HEAD OFFICE (PRETORIA) FOR A PERIOD OF THIRTY-SIX (36) MONTHS.",
-   "department": "National - Department of Mineral and Petroleum Resources",
-   "category": "Facilities Maintenance",
-   "company": "llp",
-   "matchedTerms": [
-    "maintenance",
-    "repair"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-20T00:00:00+00:00",
-   "closingDate": "2026-12-15T11:00:00+00:00",
-   "procurementMethod": "Request for Bid(Open-Tender)",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "BID DOCUMENT 016.zip",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=1857f4aa-b1d9-45c2-874d-db7196f40a4c.zip&downloadedFileName=BID%20DOCUMENT%20016.zip",
-     "format": "zip",
-     "published": "2026-11-20T18:36:19Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-179274",
-   "reference": "JSM/WB-O/M/26-29",
-   "title": "APPOINTMENT OF A PANEL OF SERVICE PROVIDERS FOR THE REPAIR, MAINTENANCE, REPLACEMENT AND EQUIPPING OF BOREHOLES AND ASSOCIATED WORKS AROUND DR JS MOROKA LOCAL MUNICIPALITY AS AND WHEN REQUIRED FOR A PERIOND OF 36 MONTHS (7ME OR 7CE)",
-   "department": "Dr JS Moroka Local Municipality",
-   "category": "Facilities Maintenance",
-   "company": "llp",
-   "matchedTerms": [
-    "maintenance",
-    "repair"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-20T00:00:00+00:00",
-   "closingDate": "2026-12-15T11:00:00+00:00",
-   "procurementMethod": "Request for Bid(Open-Tender)",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "Final Tender JSM Document - BOREHOLES 2026 (2) (003) (002).pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=47ab1fd9-5dfc-4207-8992-04a0f0725b29.pdf&downloadedFileName=Final%20Tender%20JSM%20Document%20-%20BOREHOLES%202026%20%282%29%20%28003%29%20%28002%29.pdf",
-     "format": "pdf",
-     "published": "2026-11-20T21:42:36Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-179276",
-   "reference": "JSM ADMIN-01/26-27",
-   "title": "APPOINTMENT OF PANEL OF SERVICE PROVIDERS FOR THE SUPPLY, DELIVERY AND OFFLOADING OF STATIONERY ON AN AS AND WHEN REQUIRED FOR THE PERIOD OF THIRTY-SIX [36] MONTHS.",
-   "department": "Dr JS Moroka Local Municipality",
-   "category": "Supply & Consumables",
-   "company": "llp",
-   "matchedTerms": [
-    "stationery"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-20T00:00:00+00:00",
-   "closingDate": "2026-12-15T11:00:00+00:00",
-   "procurementMethod": "Request for Bid(Open-Tender)",
-   "procurementCategory": "goods",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "SUPPLY AND DELIVERY OF STATIONERY.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=1dca8f7a-b90f-4e0f-8e59-379dceddaf07.pdf&downloadedFileName=SUPPLY%20AND%20DELIVERY%20OF%20STATIONERY.pdf",
-     "format": "pdf",
-     "published": "2026-11-20T21:54:49Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-179277",
-   "reference": "JSM PPC/PPE-03/26-27",
-   "title": "APPOINTMENT OF A PANEL OF SERVICE PROVIDERS FOR SUPPLY, DELIVERY AND OFF-LOADING OF PERSONAL PROTECTIVE EQUIPMENT (PPE) AND PERSONAL PROTECTIVE CLOTHING (PPC) ON AN AS AND WHEN REQUIRED TO DR JS MOROKA MUNICIPALITY FOR A PERIOD OF 36 MONTHS",
-   "department": "Dr JS Moroka Local Municipality",
-   "category": "Supply & Consumables",
-   "company": "llp",
-   "matchedTerms": [
-    "personal protective",
-    "ppe",
-    "protective clothing"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-20T00:00:00+00:00",
-   "closingDate": "2026-12-15T11:00:00+00:00",
-   "procurementMethod": "Request for Bid(Open-Tender)",
-   "procurementCategory": "",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "Tender document for PPE 2026 - 2029 (.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=02fb4192-d274-4e0a-8287-8fc8181c9e68.pdf&downloadedFileName=Tender%20document%20for%20PPE%202026%20-%202029%20%28.pdf",
-     "format": "pdf",
-     "published": "2026-11-20T22:01:45Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
    "id": "ocds-9t57fa-178464",
    "reference": "CSRT/BID09/2026/27",
    "title": "THE ADVERTISEMENT AND APPOINTMENT OF A CONTRACTOR ON CIDB LEVEL 9CE FOR THE UPGRADING OF PRIMARY ROAD P54/3 FOR DISTANCE OF 28KM BETWEEN EDENBURG AND REDDERSBURG FOR THE DEPARTMENT OF COMMUNITY SAFETY, ROADS AND TRANSPORT OVER A PERIOD OF 24 MONTHSOF 24 MONTHS",
    "department": "Free State - Police, Roads and Transport",
-   "category": "Facilities Maintenance",
+   "category": "Agriculture",
    "company": "llp",
    "matchedTerms": [
     "tractor",
@@ -15428,7 +15303,7 @@
    "reference": "CSRT/BID10/2026/27",
    "title": "THE ADVERTISEMENT AND APPOINTMENT OF A CONTRACTOR WITH MINIMUM OF CIDB GRADING LEVEL 9CE FOR SPECIAL MAINTENANCE OF PRIMARY ROAD R59 P33/3, P56/2, P10/1  P83/1 AND 73/1 BETWEEN VILJOENSKROON, VREDEFORT, PARYS, TO SASOLBURG FOR THE DEPARTMENT OF COMMUNITY SAFETY, ROADS AND TRANSPORT FOR A PERIOD OF TWENTY FOUR (24) MONTHS.",
    "department": "Free State - Police, Roads and Transport",
-   "category": "Facilities Maintenance",
+   "category": "Agriculture",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -16427,7 +16302,7 @@
    "reference": "GSHPT93/2026",
    "title": "THE PLACEMENT OF TWO (2) EXTRA CORPOREAL MEMBRANE OXYGENATION ECMO MACHINE WITH ACCESSORIES INCLUDING A FULLY COMPREHENSIVE MAINTENANCE CONTRACT AND THE SUPPLY AND DELIVERY OF CONSUMABLES AT GROOTE SCHUUR HOSPITAL OVER A PERIOD OF FIVE (5) YEARS.",
    "department": "Western Cape - Health",
-   "category": "Facilities Maintenance",
+   "category": "Supply & Consumables",
    "company": "llp",
    "matchedTerms": [
     "consumables",
@@ -16557,7 +16432,7 @@
    "reference": "HES-CORP 01/2627",
    "title": "THE APPOINTMENT OF A CONTRACTOR FOR THE UPGRADING OF ABLUTION FACILITIES IN THE HESSEQUA MUNICIPAL AREA",
    "department": "Hessequa Municipality",
-   "category": "Facilities Maintenance",
+   "category": "Agriculture",
    "company": "llp",
    "matchedTerms": [
     "tractor",
