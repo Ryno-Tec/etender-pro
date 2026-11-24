@@ -1,167 +1,24 @@
 {
  "source": "https://ocds-api.etenders.gov.za/api/OCDSReleases",
- "generatedAt": "2026-11-23T15:14:30.012035+00:00",
+ "generatedAt": "2026-11-24T03:29:30.291824+00:00",
  "lookbackDays": 60,
- "coveredFrom": "2026-10-17",
- "releasesScanned": 3203,
- "uniqueTenders": 3233,
- "count": 172,
+ "coveredFrom": "2026-10-04",
+ "releasesScanned": 3993,
+ "uniqueTenders": 3993,
+ "count": 171,
  "categories": {
-  "Network & Infrastructure": 27,
-  "Software & Systems": 75,
-  "End-User Computing": 22,
-  "Telecoms & Unified Comms": 14,
-  "Cloud Services": 9,
+  "Telecoms & Unified Comms": 13,
+  "Software & Systems": 74,
+  "Cloud Services": 8,
   "IT Services & Support": 18,
+  "End-User Computing": 24,
+  "Network & Infrastructure": 27,
   "Cybersecurity": 7
  },
  "onlineBriefings": 0,
- "carriedOver": 9,
+ "carriedOver": 3,
  "briefingFieldsSeen": {},
  "tenders": [
-  {
-   "id": "ocds-9t57fa-178860",
-   "reference": "RY22962",
-   "title": "PURCHASING OF CISCO ENDPOINT (ANTI-VIRUS) LICENSE RENEWAL",
-   "department": "Port Elizabeth TVET College",
-   "category": "Network & Infrastructure",
-   "company": "rtc",
-   "matchedTerms": [
-    "anti-virus",
-    "cisco",
-    "license",
-    "license renewal"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-19T00:00:00+00:00",
-   "closingDate": "2026-11-24T01:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "consultingServices",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "ADVERT FOR THE PURCHASE OF THE CISCO ENDPOINT ANTIVIRUS.docx",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=09452937-20ff-4956-be9e-81fe6639bf8c.docx&downloadedFileName=ADVERT%20FOR%20THE%20PURCHASE%20OF%20THE%20CISCO%20ENDPOINT%20ANTIVIRUS.docx",
-     "format": "docx",
-     "published": "2026-11-19T13:20:32Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-178918",
-   "reference": "IM2372026",
-   "title": "Request for quote of Media Intelligence Course (AI) IM2372026",
-   "department": "Tourism",
-   "category": "Software & Systems",
-   "company": "rtc",
-   "matchedTerms": [
-    "ai"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-19T00:00:00+00:00",
-   "closingDate": "2026-11-24T11:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "Request for quote of Media Intelligence Course (AI) IM2372026.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=1805984e-e622-4d75-a2a1-e0c096292c06.pdf&downloadedFileName=Request%20for%20quote%20of%20Media%20Intelligence%20Course%20%28AI%29%20IM2372026.pdf",
-     "format": "pdf",
-     "published": "2026-11-19T16:01:12Z"
-    },
-    {
-     "title": "New Annexure A -SBD 4 Treasury.docx",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=d84d42ab-981e-423e-960b-f94212282d9c.docx&downloadedFileName=New%20Annexure%20A%20-SBD%204%20Treasury.docx",
-     "format": "docx",
-     "published": "2026-11-19T16:01:13Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-178941",
-   "reference": "ATNS/RFQ09/11/2026/27/ICT/Desktops",
-   "title": "APPOINTMENT OF A SERVICE PROVIDER TO SUPPLY, DELIVERY, INSTALLATION, AND WARRANTY SUPPORT OF TEN (10) ALL-IN-ONE DESKTOP PCS (10 STATIONS)",
-   "department": "Air Traffic and Navigation Services Company Limited",
-   "category": "End-User Computing",
-   "company": "rtc",
-   "matchedTerms": [
-    "desktop",
-    "ict",
-    "pcs"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-19T00:00:00+00:00",
-   "closingDate": "2026-11-24T11:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "goods",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "Addendum No 1 - Correction of SBD 3.1.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=2841f7b0-e85e-4aa9-90c6-04e89d29d1ce.pdf&downloadedFileName=Addendum%20No%201%20-%20Correction%20of%20SBD%203.1.pdf",
-     "format": "pdf",
-     "published": "2026-11-23T14:50:11Z"
-    },
-    {
-     "title": "SBD 3.1 Addendum.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=b53d68ec-75f1-4617-9bdb-a95b5230ff83.pdf&downloadedFileName=SBD%203.1%20Addendum.pdf",
-     "format": "pdf",
-     "published": "2026-11-23T14:50:11Z"
-    },
-    {
-     "title": "RFQ - Desktops.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=9e8f36f5-91cf-4eb3-91ca-bc903ee9a2ec.pdf&downloadedFileName=RFQ%20-%20Desktops.pdf",
-     "format": "pdf",
-     "published": "2026-11-19T18:44:52Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
   {
    "id": "ocds-9t57fa-178698",
    "reference": "18220/TNP/2026-27-R",
@@ -1294,7 +1151,7 @@
    "reference": "PSiRA/2026/27/RFB/08",
    "title": "APPOINTMENT OF A SERVICE PROVIDER FOR THE DESIGN, SUPPLY, IMPLEMENT AND MAINTENANCE OF A CLOUD-BASED MICROSOFT TEAMS TELEPHONY SYSTEM AND CALL CENTER SOLUTION FOR A PERIOD OF 36 MONTHS.",
    "department": "Private Security Industry Regulatory Authority",
-   "category": "Cloud Services",
+   "category": "Software & Systems",
    "company": "rtc",
    "matchedTerms": [
     "cloud",
@@ -3192,6 +3049,122 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
+   "id": "ocds-9t57fa-179525",
+   "reference": "RFQ381 (26/27)",
+   "title": "Supply and delivery of Standard Laptop",
+   "department": "National - Environment, Forestry and Fisheries",
+   "category": "End-User Computing",
+   "company": "rtc",
+   "matchedTerms": [
+    "laptop"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-23T00:00:00+00:00",
+   "closingDate": "2026-11-30T11:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "consultingServices",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "Annexure  B - STD NOTEBOOK - Dell Pro 14 PC14250.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=49b27053-f93b-449c-b5f3-39b6fab9eb09.pdf&downloadedFileName=Annexure%20%20B%20-%20STD%20NOTEBOOK%20-%20Dell%20Pro%2014%20PC14250.pdf",
+     "format": "pdf",
+     "published": "2026-11-23T16:58:58Z"
+    },
+    {
+     "title": "Request for quotation- Standard Laptop.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=2bd9ff18-df81-42c4-9a3f-410aadca022d.pdf&downloadedFileName=Request%20for%20quotation-%20Standard%20Laptop.pdf",
+     "format": "pdf",
+     "published": "2026-11-23T16:58:58Z"
+    },
+    {
+     "title": "Annexure D - STD NOTEBOOK - Lenovo ThinkPad T14 Gen 5.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=6884e69e-ea66-4aad-9820-d24b2a210251.pdf&downloadedFileName=Annexure%20D%20-%20STD%20NOTEBOOK%20-%20Lenovo%20ThinkPad%20T14%20Gen%205.pdf",
+     "format": "pdf",
+     "published": "2026-11-23T16:58:58Z"
+    },
+    {
+     "title": "Annexure  C - HP Standard Laptop.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=48b82803-4e9c-4fe7-98ee-dea9c9faa8ce.pdf&downloadedFileName=Annexure%20%20C%20-%20HP%20Standard%20Laptop.pdf",
+     "format": "pdf",
+     "published": "2026-11-23T16:58:58Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-179526",
+   "reference": "RFQ378 (26/27)",
+   "title": "Supply and delivery of Standard Laptop",
+   "department": "National - Environment, Forestry and Fisheries",
+   "category": "End-User Computing",
+   "company": "rtc",
+   "matchedTerms": [
+    "laptop"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-23T00:00:00+00:00",
+   "closingDate": "2026-11-30T11:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "goods",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "Annexure  C - HP Standard Laptop.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=1765e97e-bd36-47eb-8fbb-3464eb8562be.pdf&downloadedFileName=Annexure%20%20C%20-%20HP%20Standard%20Laptop.pdf",
+     "format": "pdf",
+     "published": "2026-11-23T17:07:37Z"
+    },
+    {
+     "title": "Annexure  B - STD NOTEBOOK - Dell Pro 14 PC14250.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=e6527901-6c2c-4400-8bdf-91a1dd531824.pdf&downloadedFileName=Annexure%20%20B%20-%20STD%20NOTEBOOK%20-%20Dell%20Pro%2014%20PC14250.pdf",
+     "format": "pdf",
+     "published": "2026-11-23T17:07:37Z"
+    },
+    {
+     "title": "Annexure D - STD NOTEBOOK - Lenovo ThinkPad T14 Gen 5.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=11d21e0c-17b0-4381-a0d6-a3715a4dd394.pdf&downloadedFileName=Annexure%20D%20-%20STD%20NOTEBOOK%20-%20Lenovo%20ThinkPad%20T14%20Gen%205.pdf",
+     "format": "pdf",
+     "published": "2026-11-23T17:07:37Z"
+    },
+    {
+     "title": "LAPTOP RFQ TEMPLATE LATEST  Mr Mokwena.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=3d1f7581-9c25-4020-aa5a-f14de567b87a.pdf&downloadedFileName=LAPTOP%20RFQ%20TEMPLATE%20LATEST%20%20Mr%20Mokwena.pdf",
+     "format": "pdf",
+     "published": "2026-11-23T17:07:37Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
    "id": "ocds-9t57fa-178569",
    "reference": "RFQ-HO-1851",
    "title": "MICROSOFT ADVANCE SUPPORT SERVICES (ON AD HOC BASIS) FOR 36 MONTHS",
@@ -4026,7 +3999,7 @@
    "reference": "TMPD 02-2026/27",
    "title": "Tender for the supply and delivery of original equipment manufacturer (OEM) printer specific consumables for identity (id) card printers and as well as upgrading of the existing id card software packages to the Tshwane police department for a period of three (3) years on and when required basis.",
    "department": "City of Tshwane",
-   "category": "Software & Systems",
+   "category": "End-User Computing",
    "company": "rtc",
    "matchedTerms": [
     "printer",
@@ -4411,7 +4384,7 @@
    "reference": "CGE/T/11/2026/27",
    "title": "Provision of WAN and VOIP services for 36 months",
    "department": "Commission for Gender Equality",
-   "category": "Telecoms & Unified Comms",
+   "category": "Network & Infrastructure",
    "company": "rtc",
    "matchedTerms": [
     "voip",
