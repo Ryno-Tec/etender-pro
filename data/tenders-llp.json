@@ -1,62 +1,21 @@
 {
  "source": "https://ocds-api.etenders.gov.za/api/OCDSReleases",
- "generatedAt": "2026-11-24T15:28:52.922524+00:00",
+ "generatedAt": "2026-11-25T01:19:22.915637+00:00",
  "lookbackDays": 60,
- "coveredFrom": "2026-11-11",
- "releasesScanned": 1439,
- "uniqueTenders": 1489,
- "count": 312,
+ "coveredFrom": "2026-11-07",
+ "releasesScanned": 1776,
+ "uniqueTenders": 1826,
+ "count": 320,
  "categories": {
-  "Facilities Maintenance": 159,
+  "Facilities Maintenance": 163,
   "Agriculture": 40,
-  "Supply & Consumables": 76,
-  "Grounds & Landscaping": 37
+  "Supply & Consumables": 81,
+  "Grounds & Landscaping": 36
  },
  "onlineBriefings": 0,
- "carriedOver": 146,
+ "carriedOver": 122,
  "briefingFieldsSeen": {},
  "tenders": [
-  {
-   "id": "ocds-9t57fa-175192",
-   "reference": "10416233 -",
-   "title": "Repair and refurbish portable sump pump for OPS and blower motor",
-   "department": "Rand Water",
-   "category": "Facilities Maintenance",
-   "company": "llp",
-   "matchedTerms": [
-    "refurbish",
-    "repair"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-10-22T00:00:00+00:00",
-   "closingDate": "2026-11-24T16:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "goods",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "RFQ 10416233 BOQ.xlsx",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=b6594aae-ba1f-4598-8d44-970f4a3473c2.xlsx&downloadedFileName=RFQ%2010416233%20BOQ.xlsx",
-     "format": "xlsx",
-     "published": "2026-10-22T11:02:21Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
   {
    "id": "ocds-9t57fa-177569",
    "reference": "RFQ2026/065/6141/NYDA",
@@ -221,6 +180,47 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=63a4b7bf-f14d-43a6-be6c-f568364e59cb.pdf&downloadedFileName=Request%20to%20Extend%20Enquiry%20Closing%20Date%20Template-%202026%20pump.pdf",
      "format": "pdf",
      "published": "2026-10-08T10:21:02Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-179239",
+   "reference": "RFQ/NRF-SAASTA 150/2026/2027",
+   "title": "NRF-SAASTA wishes to appoint a suitable PSIRA registered service\r\nprovider for fault diagnosis, repair and restoration of communication\r\nbetween the access control controller and biometric readers at the\r\nDidacta building.",
+   "department": "National Research Foundation",
+   "category": "Facilities Maintenance",
+   "company": "llp",
+   "matchedTerms": [
+    "building",
+    "repair"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-20T00:00:00+00:00",
+   "closingDate": "2026-11-25T11:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "RFQ-NRF-SAASTA-150-2026-2027- SERVICE & REPAIR OF THE ACCESS CONTROL.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=a016dcbe-d08c-45e2-a88a-a730bdfb290f.pdf&downloadedFileName=RFQ-NRF-SAASTA-150-2026-2027-%20SERVICE%20%26%20REPAIR%20OF%20THE%20ACCESS%20CONTROL.pdf",
+     "format": "pdf",
+     "published": "2026-11-20T16:21:19Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -1069,6 +1069,166 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=429a8276-1e31-4e9c-9824-5082e11e9380.pdf&downloadedFileName=Publication%20of%20Names%20of%20Bidders%20-%20E3615GXMPDUV.pdf",
      "format": "pdf",
      "published": "2026-11-05T11:28:41Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-179020",
+   "reference": "COJ0015-26/27",
+   "title": "APPOINTMENT OF A SUITABLE\r\nSERVICE PROVIDER TO SUPPLY\r\nAND DELIVER PERSONAL\r\nPROTECTIVE EQUIPMENT (PPE) FOR\r\nDEVELOPMENT PLANNING",
+   "department": "City Council of Johannesburg",
+   "category": "Supply & Consumables",
+   "company": "llp",
+   "matchedTerms": [
+    "ppe"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-20T00:00:00+00:00",
+   "closingDate": "2026-11-26T10:30:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "COJ0015-26-27 DEV.PLAN PPE.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=031f0517-cf23-4148-8f5b-2612fa33a925.pdf&downloadedFileName=COJ0015-26-27%20DEV.PLAN%20PPE.pdf",
+     "format": "pdf",
+     "published": "2026-11-20T09:56:07Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-179006",
+   "reference": "MSD132A",
+   "title": "Supply and delivery of local content plumbing material at Mzimvubu Water Project in the Eastern Cape Province.",
+   "department": "Water and Sanitation",
+   "category": "Facilities Maintenance",
+   "company": "llp",
+   "matchedTerms": [
+    "plumbing"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-20T00:00:00+00:00",
+   "closingDate": "2026-11-26T11:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "works",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "MSD132A.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=5ad37a9d-935f-47b8-b06a-5665abb9f596.pdf&downloadedFileName=MSD132A.pdf",
+     "format": "pdf",
+     "published": "2026-11-20T09:37:30Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-179014",
+   "reference": "MSD127",
+   "title": "Supply and delivery of cartridges (Stationery) for Ntabelanga Dam near Maclear in the Eastern Cape Province.",
+   "department": "Water and Sanitation",
+   "category": "Supply & Consumables",
+   "company": "llp",
+   "matchedTerms": [
+    "stationery"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-20T00:00:00+00:00",
+   "closingDate": "2026-11-26T11:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "goods",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "MSD127.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=4457661a-1491-4af1-99ef-de235b1d11e3.pdf&downloadedFileName=MSD127.pdf",
+     "format": "pdf",
+     "published": "2026-11-20T09:44:24Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-179019",
+   "reference": "MBW15",
+   "title": "Supply and delivery of cartridges (Stationery) for Ntabelanga Dam near Maclear in the Eastern Cape Province.",
+   "department": "Water and Sanitation",
+   "category": "Supply & Consumables",
+   "company": "llp",
+   "matchedTerms": [
+    "stationery"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-20T00:00:00+00:00",
+   "closingDate": "2026-11-26T11:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "MBW15.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=5c9a4313-0163-4fdf-b4f4-3288f1753c79.pdf&downloadedFileName=MBW15.pdf",
+     "format": "pdf",
+     "published": "2026-11-20T09:53:10Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -2746,6 +2906,46 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=2ddb066b-6f33-4877-a3bf-7637753e8c77.pdf&downloadedFileName=RFQ%20-%20Garden%20Services.pdf",
      "format": "pdf",
      "published": "2026-11-19T11:30:46Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-178748",
+   "reference": "RFQ0001323",
+   "title": "TO APPOINT A SERVICE PROVIDER (SP) TO PROVIDE THE DEPARTMENT OF FORESTRY, FISHERIES AND THE ENVIRONMENT (DFFE) / MARINE LIVING RESOURCES FUND (MLRF) TO SUPPLY AND DELIVER STATIONERY",
+   "department": "Marine Living Resources Fund",
+   "category": "Supply & Consumables",
+   "company": "llp",
+   "matchedTerms": [
+    "stationery"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-18T00:00:00+00:00",
+   "closingDate": "2026-11-27T11:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "goods",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "RFQ0001323.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=77f1d823-9491-4130-86c3-5895ba7d8ee3.pdf&downloadedFileName=RFQ0001323.pdf",
+     "format": "pdf",
+     "published": "2026-11-18T16:09:54Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -13046,46 +13246,6 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
-   "id": "ocds-9t57fa-178384",
-   "reference": "TENDER 52/2026",
-   "title": "SUPPLY AND DELIVERY OF HORTICULTURE EQUIPMENT",
-   "department": "Langeberg Municipality",
-   "category": "Grounds & Landscaping",
-   "company": "llp",
-   "matchedTerms": [
-    "horticultur"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-16T00:00:00+00:00",
-   "closingDate": "2026-12-11T12:00:00+00:00",
-   "procurementMethod": "Request for Bid(Open-Tender)",
-   "procurementCategory": "goods",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "TENDER 52 2026.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=e139380f-1fb2-407c-9e26-4aa4320a795a.pdf&downloadedFileName=TENDER%2052%202026.pdf",
-     "format": "pdf",
-     "published": "2026-11-16T15:41:51Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
    "id": "ocds-9t57fa-177707",
    "reference": "RFQ 12100",
    "title": "REQUEST FOR QUOTES FOR THE APPOINTMENT OF A PROSPECTIVE BIDDER FOR PREVENTIVE MAINTENANCE OF THE STORMWATER DRAINAGE SYSTEM, PIPES, CHANNELS, CATCH PITS AND KERB INLETS FOR A PERIOD OF THREE (3) YEARS AT KING PHALO AIRPORT (KPA)",
@@ -13429,6 +13589,47 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=1409cada-c914-4093-b025-d3ae579cfbb3.pdf&downloadedFileName=APPENDIX%202B-%20LANDSIDE%20INSURANCE%20REQUIREMENTS.pdf",
      "format": "pdf",
      "published": "2026-09-22T15:09:34Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-179660",
+   "reference": "SE/010/11/2026",
+   "title": "Amplifier Room refurbishment at Houwteq AIT Facility (Vibration Test Facility Upgrade)",
+   "department": "South African National Space Agency",
+   "category": "Facilities Maintenance",
+   "company": "llp",
+   "matchedTerms": [
+    "refurbish",
+    "upgrad"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-25T00:00:00+00:00",
+   "closingDate": "2026-12-11T16:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "consultingServices",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "RFQ - Amplifier room Refurbishment.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=3211bc3e-79cd-4139-b857-0d18e972e2f5.pdf&downloadedFileName=RFQ%20-%20Amplifier%20room%20Refurbishment.pdf",
+     "format": "pdf",
+     "published": "2026-11-24T14:23:05Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -14361,6 +14562,46 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=7ef1941a-2b87-46c0-93e1-af779c5a5636.pdf&downloadedFileName=KIMPF72-2026%20Surtherland%20magistrate%20court%20Provisioning%20of%20cleaning%20services%20for%2036%20months.pdf",
      "format": "pdf",
      "published": "2026-11-24T15:29:21Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-179733",
+   "reference": "SASSA-03-26-GA-MP",
+   "title": "The South African Social Security Agency hereby invites service providers for the accreditation to supply and deliver school uniform in Mpumalanga Region for the period of thirty- six (36) months.",
+   "department": "South African Social Security Agency",
+   "category": "Supply & Consumables",
+   "company": "llp",
+   "matchedTerms": [
+    "uniform"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-24T00:00:00+00:00",
+   "closingDate": "2026-12-15T11:00:00+00:00",
+   "procurementMethod": "Request for Bid(Open-Tender)",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "SASSA-03-26-GA-MP.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=09cd1fc6-e83e-47a7-b090-b6d6f2b0a447.pdf&downloadedFileName=SASSA-03-26-GA-MP.pdf",
+     "format": "pdf",
+     "published": "2026-11-24T20:05:34Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -16248,6 +16489,96 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=c1577349-f719-4bd1-8a0a-ef2cd4df01c3.pdf&downloadedFileName=Volume%201A_FAEL%20and%20FAUT.pdf",
      "format": "pdf",
      "published": "2026-11-08T01:48:25Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-179716",
+   "reference": "MISA/RUB/ALM/KZN/029/2026/27",
+   "title": "APPOINTMENT OF A CONTRACTOR FOR THE REPAIRS AND UPGRADE OF THREE SOLAR-POWERED PRODUCTION BOREHOLES, EXTENSION OF RETICULATION SYSTEMS, STANDPIPE REHABILITATION WITHIN THE ABAQULUSI LOCAL MUNICIPALITY, KWAZULU-NATAL PROVINCE",
+   "department": "Municipal Infrastructure Support Agent",
+   "category": "Facilities Maintenance",
+   "company": "llp",
+   "matchedTerms": [
+    "repairs",
+    "tractor",
+    "upgrad"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-24T00:00:00+00:00",
+   "closingDate": "2027-01-25T11:00:00+00:00",
+   "procurementMethod": "Request for Bid(Open-Tender)",
+   "procurementCategory": "works",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "MISA.RUB.ALM.KZN.029.2026.27 Abaqulusi LM Boreholes rehabilitation.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=1dbfc856-55a5-4700-ad3e-8080edd2968b.pdf&downloadedFileName=MISA.RUB.ALM.KZN.029.2026.27%20Abaqulusi%20LM%20Boreholes%20rehabilitation.pdf",
+     "format": "pdf",
+     "published": "2026-11-24T18:04:41Z"
+    },
+    {
+     "title": "MISA.RUB.ALM.KZN.029.2026.27 Abaqulusi LM Boreholes rehabilitation.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=71a1f064-dc51-43ba-932b-c1ffb1977008.pdf&downloadedFileName=MISA.RUB.ALM.KZN.029.2026.27%20Abaqulusi%20LM%20Boreholes%20rehabilitation.pdf",
+     "format": "pdf",
+     "published": "2026-11-24T18:04:42Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-179717",
+   "reference": "MISA/RUB/ULM/KZN/030/2026/27",
+   "title": "APPOINTMENT OF A CONTRACTOR FOR THE REPAIRS AND UPGRADE OF TWO SOLAR-POWERED PRODUCTION BOREHOLES, RETICULATION SYSTEM REPAIRS, STANDPIPE REHABILITATION, SUPPLY AND INSTALL WATER PURIFICATION SYSTEM IN MANDLALATHI VILLAGE, UMDONI LOCAL MUNICIPALITY, KWAZULU-NATAL PROVINCE",
+   "department": "Municipal Infrastructure Support Agent",
+   "category": "Facilities Maintenance",
+   "company": "llp",
+   "matchedTerms": [
+    "repairs",
+    "tractor",
+    "upgrad"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-24T00:00:00+00:00",
+   "closingDate": "2027-01-25T11:00:00+00:00",
+   "procurementMethod": "Request for Bid(Open-Tender)",
+   "procurementCategory": "works",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "MISA.RUB.ULM.KZN.030.2026.27 Mandlalathi Upgrade and Repairs of Boreholes .pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=d8724462-e256-4fb3-90bd-bd3e328d9e58.pdf&downloadedFileName=MISA.RUB.ULM.KZN.030.2026.27%20Mandlalathi%20Upgrade%20and%20Repairs%20of%20Boreholes%20.pdf",
+     "format": "pdf",
+     "published": "2026-11-24T18:09:56Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"

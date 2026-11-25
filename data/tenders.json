@@ -1,112 +1,24 @@
 {
  "source": "https://ocds-api.etenders.gov.za/api/OCDSReleases",
- "generatedAt": "2026-11-24T15:28:52.922524+00:00",
+ "generatedAt": "2026-11-25T01:19:22.915637+00:00",
  "lookbackDays": 60,
- "coveredFrom": "2026-11-11",
- "releasesScanned": 1439,
- "uniqueTenders": 1489,
- "count": 168,
+ "coveredFrom": "2026-11-07",
+ "releasesScanned": 1776,
+ "uniqueTenders": 1826,
+ "count": 172,
  "categories": {
   "Network & Infrastructure": 28,
-  "Software & Systems": 75,
-  "IT Services & Support": 17,
-  "End-User Computing": 23,
+  "IT Services & Support": 18,
+  "End-User Computing": 24,
   "Cybersecurity": 9,
+  "Software & Systems": 77,
   "Telecoms & Unified Comms": 11,
   "Cloud Services": 5
  },
  "onlineBriefings": 0,
- "carriedOver": 57,
+ "carriedOver": 50,
  "briefingFieldsSeen": {},
  "tenders": [
-  {
-   "id": "ocds-9t57fa-175290",
-   "reference": "10418532 R",
-   "title": "Installation of a Backup power supply system for Barnardsvlei online water quality Instruments, Hartebeesthoek Reservoir and Guard houses",
-   "department": "Rand Water",
-   "category": "Network & Infrastructure",
-   "company": "rtc",
-   "matchedTerms": [
-    "backup",
-    "system"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-10-22T00:00:00+00:00",
-   "closingDate": "2026-11-24T16:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "10418532.zip",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=34054e16-b02d-4f7a-a5a3-c351860bb872.zip&downloadedFileName=10418532.zip",
-     "format": "zip",
-     "published": "2026-10-22T19:14:42Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-178565",
-   "reference": "PR BS 003189",
-   "title": "COMPREHENSIVE DATA CLEANSING AND VALIDATION OF THE FOODBEV SETA MANAGEMENT INFORMATION SYSTEM (MIS)",
-   "department": "Food and Beverages Manufacturing Industry",
-   "category": "Software & Systems",
-   "company": "rtc",
-   "matchedTerms": [
-    "information system",
-    "system"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-17T00:00:00+00:00",
-   "closingDate": "2026-11-24T16:30:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "RFQ for Data Cleansing - 17.11.2026.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=04a5b97b-6be4-420f-ba11-2bf19f0e7da8.pdf&downloadedFileName=RFQ%20for%20Data%20Cleansing%20-%2017.11.2026.pdf",
-     "format": "pdf",
-     "published": "2026-11-17T16:16:11Z"
-    },
-    {
-     "title": "SBD forms - 2026.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=e6489841-2e26-403b-9473-633e33dc6a4b.pdf&downloadedFileName=SBD%20forms%20-%202026.pdf",
-     "format": "pdf",
-     "published": "2026-11-17T16:16:11Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
   {
    "id": "ocds-9t57fa-177048",
    "reference": "E3792DXKZNOU",
@@ -161,6 +73,46 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=9d88b1c6-9c86-4c15-acb6-d606582a060d.zip&downloadedFileName=E3792DXKZNOU.zip",
      "format": "zip",
      "published": "2026-11-05T15:12:17Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-179091",
+   "reference": "RFQ2216e",
+   "title": "APPOINTMENT OF A SERVICE PROVIDER TO PROVISION AN INFORMATION AND COMMUNICATIONS TECHNOLOGY DISASTER RECOVERY SOLUTION FOR THE MINE HEALTH AND SAFETY COUNCIL FOR A PERIOD OF 12 MONTHS",
+   "department": "Mine Health and Safety Council",
+   "category": "Network & Infrastructure",
+   "company": "rtc",
+   "matchedTerms": [
+    "disaster recovery"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-20T00:00:00+00:00",
+   "closingDate": "2026-11-25T11:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "RFQ 2216e - DISASTER RECOVERY SOLUTION -005.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=559a18e7-0802-4d03-b3d6-fb31eb7b8aa2.pdf&downloadedFileName=RFQ%202216e%20-%20DISASTER%20RECOVERY%20SOLUTION%20-005.pdf",
+     "format": "pdf",
+     "published": "2026-11-20T11:47:08Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -953,6 +905,46 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=300ebfb6-3fcf-4f27-a5ab-d71502f6ed48.pdf&downloadedFileName=RFB%203294-2026%20-%20Notice%20to%20Bidders%20%20Fraud.pdf",
      "format": "pdf",
      "published": "2026-10-01T18:26:08Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-178784",
+   "reference": "10421145",
+   "title": "Request for Quotation for Professional Services to Rebuild and Reconfigure the Esri GIS Quality Assurance (QA) Environment.",
+   "department": "Rand Water",
+   "category": "Software & Systems",
+   "company": "rtc",
+   "matchedTerms": [
+    "gis"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-19T00:00:00+00:00",
+   "closingDate": "2026-11-26T23:30:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "consultingServices",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "10421145 Request for Quotation for Professional Services to Rebuild and Reconfigure the Esri GIS Quality Assurance (QA) Environment 10421145.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=d47d65ee-c1cf-4c80-9923-397fadc01dee.pdf&downloadedFileName=10421145%20Request%20for%20Quotation%20for%20Professional%20Services%20to%20Rebuild%20and%20Reconfigure%20the%20Esri%20GIS%20Quality%20Assurance%20%28QA%29%20Environment%2010421145.pdf",
+     "format": "pdf",
+     "published": "2026-11-19T01:37:22Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -3572,6 +3564,52 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=cd51b62e-dca8-4ba4-ad75-843e499ae9ab.pdf&downloadedFileName=Notice%206%20of%202026.27%20%28003%29.pdf",
      "format": "pdf",
      "published": "2026-10-16T22:41:11Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-179734",
+   "reference": "REQNHFC010638-2",
+   "title": "CONSOLIDATED CRM SUPPORT AND MAINTENANCE FOR TWELVE (12) MONTHS.",
+   "department": "National Housing Finance Corporation Limited",
+   "category": "Software & Systems",
+   "company": "rtc",
+   "matchedTerms": [
+    "crm"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-24T00:00:00+00:00",
+   "closingDate": "2026-12-01T11:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "RFQ_CRM SUPPORT AND MAINTENANCE FINAL.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=d512e88d-862a-4b93-8123-cc10bf5a7cd6.pdf&downloadedFileName=RFQ_CRM%20SUPPORT%20AND%20MAINTENANCE%20FINAL.pdf",
+     "format": "pdf",
+     "published": "2026-11-24T20:31:23Z"
+    },
+    {
+     "title": "Annexure 10- GCC.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=6cb7e8a5-da70-429b-b338-e025348e1777.pdf&downloadedFileName=Annexure%2010-%20GCC.pdf",
+     "format": "pdf",
+     "published": "2026-11-24T20:31:22Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -6990,6 +7028,47 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
+   "id": "ocds-9t57fa-179714",
+   "reference": "16-2026/27 Re-advertisement",
+   "title": "Provision of managed printing services:Supply,Installation,Configuration, Maintenance and support of multi-functional printers and photocopiers for a period of three years",
+   "department": "Musina Local Municipality",
+   "category": "End-User Computing",
+   "company": "rtc",
+   "matchedTerms": [
+    "managed print",
+    "printers"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-24T00:00:00+00:00",
+   "closingDate": "2026-12-14T11:00:00+00:00",
+   "procurementMethod": "Request for Bid(Open-Tender)",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "Notice to bidders.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=d671f545-0844-448d-b357-e2fdd933a02e.pdf&downloadedFileName=Notice%20to%20bidders.pdf",
+     "format": "pdf",
+     "published": "2026-11-24T17:09:50Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
    "id": "ocds-9t57fa-178942",
    "reference": "RE-ADVERT-JSM/ICT- 02/11W00-2026",
    "title": "RE-ADVERT-APPOINTMENT OF PANEL FOR IT SERVICE PROVIDERS FOR THE SUPPLY AND DELIVERY OF ICT EQUIPMENTS, SOFTWARES AND ICT RELATED ITEMS AS AND WHEN REQUIRED FOR THE PERIOD OF THIRTY-SIX [36] MONTHS (3 YEARS)",
@@ -8121,6 +8200,47 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
+   "id": "ocds-9t57fa-179728",
+   "reference": "RFP 04/09/26-27",
+   "title": "Provision of a Postbank Cloud-Ready Contact Centre Solution and Managed Services for a period of Five (5)-Years.",
+   "department": "Postbank SOC",
+   "category": "IT Services & Support",
+   "company": "rtc",
+   "matchedTerms": [
+    "cloud",
+    "managed services"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-24T00:00:00+00:00",
+   "closingDate": "2027-01-15T11:00:00+00:00",
+   "procurementMethod": "Request for Bid(Open-Tender)",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "RFP 04-09 26-27 Postbank Contact Centre Solution Specification  Five (5)-Year Term (Final draft).pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=272e8d91-b73a-4afe-a667-56fecd718a68.pdf&downloadedFileName=RFP%2004-09%2026-27%20Postbank%20Contact%20Centre%20Solution%20Specification%20%20Five%20%285%29-Year%20Term%20%28Final%20draft%29.pdf",
+     "format": "pdf",
+     "published": "2026-11-24T19:16:16Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
    "id": "ocds-9t57fa-179440",
    "reference": "NLSA 03/2026-2027",
    "title": "TERMS OF REFERENCE/ SPECIFICATIONS FOR PROCUREMENT OF AN INTEGRATED LIBRARY MANAGEMENT SYSTEM (LMS) FOR THE NATIONAL LIBRARY OF SOUTH AFRICA",
@@ -9239,6 +9359,65 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=645f7ca8-95bf-4b57-978d-dd56060dac85.pdf&downloadedFileName=Smart%20Plant%20Digitilisation%20SHE%20Spec%20.pdf",
      "format": "pdf",
      "published": "2026-11-17T13:35:12Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-179561",
+   "reference": "HES-FIN 03/2627",
+   "title": "THE PROVISION OF A METER READING MANAGEMENT SYSTEM FROM 01 JULY 2027 UP TO 30 JUNE 2030",
+   "department": "Hessequa Municipality",
+   "category": "Software & Systems",
+   "company": "rtc",
+   "matchedTerms": [
+    "management system",
+    "system"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-25T00:00:00+00:00",
+   "closingDate": "2027-01-29T12:00:00+00:00",
+   "procurementMethod": "Request for Bid(Open-Tender)",
+   "procurementCategory": "consultingServices",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "HES-FIN 03-2627 THE PROVISION OF A METER READING MANAGEMENT SYSTEM.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=b718f043-7188-42ce-9206-14f8a3bf0617.pdf&downloadedFileName=HES-FIN%2003-2627%20THE%20PROVISION%20OF%20A%20METER%20READING%20MANAGEMENT%20SYSTEM.pdf",
+     "format": "pdf",
+     "published": "2026-11-24T08:03:46Z"
+    },
+    {
+     "title": "FUNCTIONALITY.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=aa9d5ebe-1a42-43f4-aa46-68cf59f106aa.pdf&downloadedFileName=FUNCTIONALITY.pdf",
+     "format": "pdf",
+     "published": "2026-11-24T08:39:14Z"
+    },
+    {
+     "title": "SPECIFICATIONS.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=2233c230-c4e1-4220-90ac-8df5483402f7.pdf&downloadedFileName=SPECIFICATIONS.pdf",
+     "format": "pdf",
+     "published": "2026-11-24T08:37:24Z"
+    },
+    {
+     "title": "PRICING SCHEDULE.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=47ce87f6-c4fc-4393-9729-f05d7c4f2fe1.pdf&downloadedFileName=PRICING%20SCHEDULE.pdf",
+     "format": "pdf",
+     "published": "2026-11-24T08:39:48Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
