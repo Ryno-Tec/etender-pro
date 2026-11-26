@@ -1,884 +1,21 @@
 {
  "source": "https://ocds-api.etenders.gov.za/api/OCDSReleases",
- "generatedAt": "2026-11-26T00:56:13.612949+00:00",
+ "generatedAt": "2026-11-26T14:29:22.266077+00:00",
  "lookbackDays": 60,
- "coveredFrom": "2026-11-18",
- "releasesScanned": 850,
- "uniqueTenders": 860,
- "count": 310,
+ "coveredFrom": "2026-11-11",
+ "releasesScanned": 1641,
+ "uniqueTenders": 1641,
+ "count": 302,
  "categories": {
-  "Facilities Maintenance": 173,
-  "Supply & Consumables": 75,
-  "Agriculture": 29,
-  "Grounds & Landscaping": 33
+  "Facilities Maintenance": 172,
+  "Supply & Consumables": 71,
+  "Grounds & Landscaping": 32,
+  "Agriculture": 27
  },
  "onlineBriefings": 0,
- "carriedOver": 194,
+ "carriedOver": 121,
  "briefingFieldsSeen": {},
  "tenders": [
-  {
-   "id": "ocds-9t57fa-175354",
-   "reference": "RLM/DCD/0061/2026/27",
-   "title": "Appointment of a service provider to render the cleaning and hygiene service at various municipal buildings for a period of 36 months as and when needed",
-   "department": "Rustenburg Local Municipality",
-   "category": "Facilities Maintenance",
-   "company": "llp",
-   "matchedTerms": [
-    "buildings",
-    "cleaning"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-10-23T00:00:00+00:00",
-   "closingDate": "2026-11-26T09:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "Advert 23 October 2026.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=73e72989-ba69-4986-b586-1f7535e91662.pdf&downloadedFileName=Advert%2023%20October%202026.pdf",
-     "format": "pdf",
-     "published": "2026-10-23T10:33:31Z"
-    },
-    {
-     "title": "Tender Document Cleaning Material.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=630d2abe-7a9b-43e2-813e-b9506e177aad.pdf&downloadedFileName=Tender%20Document%20Cleaning%20Material.pdf",
-     "format": "pdf",
-     "published": "2026-10-23T11:15:20Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-179014",
-   "reference": "MSD127",
-   "title": "Supply and delivery of cartridges (Stationery) for Ntabelanga Dam near Maclear in the Eastern Cape Province.",
-   "department": "Water and Sanitation",
-   "category": "Supply & Consumables",
-   "company": "llp",
-   "matchedTerms": [
-    "stationery"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-20T00:00:00+00:00",
-   "closingDate": "2026-11-26T11:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "goods",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "MSD127.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=4457661a-1491-4af1-99ef-de235b1d11e3.pdf&downloadedFileName=MSD127.pdf",
-     "format": "pdf",
-     "published": "2026-11-20T09:44:24Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-179019",
-   "reference": "MBW15",
-   "title": "Supply and delivery of cartridges (Stationery) for Ntabelanga Dam near Maclear in the Eastern Cape Province.",
-   "department": "Water and Sanitation",
-   "category": "Supply & Consumables",
-   "company": "llp",
-   "matchedTerms": [
-    "stationery"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-20T00:00:00+00:00",
-   "closingDate": "2026-11-26T11:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "MBW15.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=5c9a4313-0163-4fdf-b4f4-3288f1753c79.pdf&downloadedFileName=MBW15.pdf",
-     "format": "pdf",
-     "published": "2026-11-20T09:53:10Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-179062",
-   "reference": "kok194/2026/27",
-   "title": "supply and delivery of stationery for offenders",
-   "department": "Correctional Services",
-   "category": "Supply & Consumables",
-   "company": "llp",
-   "matchedTerms": [
-    "stationery"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-20T00:00:00+00:00",
-   "closingDate": "2026-11-26T11:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "goods",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "kok194-2026-27.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=08b8fe89-56bb-47a2-b7e2-e95e43a277ae.pdf&downloadedFileName=kok194-2026-27.pdf",
-     "format": "pdf",
-     "published": "2026-11-20T11:00:35Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-179131",
-   "reference": "SCMU3-P26/27-1051-LDH",
-   "title": "PROVISIONING FOR SPECIALIZED DEEP CLEANING SERVICES FOR A PERIOD OF 12 (TWELVE) MONTHS AT LIVINGSTONE TERTIARY HOSPITAL INCLUDING PE PROVINCIAL HOSPITAL.",
-   "department": "Eastern Cape - Health",
-   "category": "Supply & Consumables",
-   "company": "llp",
-   "matchedTerms": [
-    "cleaning",
-    "cleaning services"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-20T00:00:00+00:00",
-   "closingDate": "2026-11-26T11:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "SCMU3-P26-27-1051-LDH-Deep Cleaning.PDF",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=896e2f78-ba60-497b-bea4-f4fc4ed0b007.PDF&downloadedFileName=SCMU3-P26-27-1051-LDH-Deep%20Cleaning.PDF",
-     "format": "pdf",
-     "published": "2026-11-20T13:33:00Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-178674",
-   "reference": "5-2-1-1-2026-2027-151",
-   "title": "APPOINTMENT OF A SERVICE PROVIDER TO DESIGN, LAYOUT AND PRINTING OF THE FIVE-YEAR REPORT (2019/20-2023/24) ON THE NATIONAL POLICY ON EXTENSION AND ADVISORY SERVICES AT THE DEPARTMENT OF AGRICULTURE: DIRECTORATE: NATIONAL EXTENSION REFORM.",
-   "department": "National - Department of Agriculture",
-   "category": "Agriculture",
-   "company": "llp",
-   "matchedTerms": [
-    "agricultur"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-18T00:00:00+00:00",
-   "closingDate": "2026-11-26T11:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "5-2-1-1-2026-2027-151.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=661256bb-17ee-420e-bf14-4a650911dce9.pdf&downloadedFileName=5-2-1-1-2026-2027-151.pdf",
-     "format": "pdf",
-     "published": "2026-11-18T13:31:29Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-177742",
-   "reference": "RFQ  4612/26",
-   "title": "Appointment of a suitable qualified panel of plumbers to assist with plumbing repairs and maintenance services for all South African Weather Service (SAWS) regional offices and radar sites which are situated in all nine (9) provinces.",
-   "department": "South African Weather Service",
-   "category": "Facilities Maintenance",
-   "company": "llp",
-   "matchedTerms": [
-    "maintenance",
-    "plumbing",
-    "repairs",
-    "repairs and maintenance"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-11T00:00:00+00:00",
-   "closingDate": "2026-11-26T11:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "RFQ-4612  Appointment of  a panel of plumbing service providers.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=4a8ed1ef-fec4-45cb-9124-bcced8e0e46a.pdf&downloadedFileName=RFQ-4612%20%20Appointment%20of%20%20a%20panel%20of%20plumbing%20service%20providers.pdf",
-     "format": "pdf",
-     "published": "2026-11-11T10:46:54Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-177088",
-   "reference": "CCMA/2026/02/TSH (A)",
-   "title": "PROVISION OF HYGIENE SERVICES FOR THE CCMA TSHWANE OFFICE FOR A PERIOD OF 60 MONTHS (RE-ADVERTISEMENT)",
-   "department": "Commission for Conciliation Mediation & Arbitration",
-   "category": "Supply & Consumables",
-   "company": "llp",
-   "matchedTerms": [
-    "hygiene services"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-05T00:00:00+00:00",
-   "closingDate": "2026-11-26T11:00:00+00:00",
-   "procurementMethod": "Request for Bid(Open-Tender)",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "PROVISION OF HYGIENE SERVICES FOR THE CCMA TSHWANE OFFICE FOR A PERIOD OF 60 MONTHS (RE-ADVERTISEMENT.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=74430e0e-5a7a-427f-9af5-1d2e02e51dfa.pdf&downloadedFileName=PROVISION%20OF%20HYGIENE%20SERVICES%20FOR%20THE%20CCMA%20TSHWANE%20OFFICE%20FOR%20A%20PERIOD%20OF%2060%20MONTHS%20%28RE-ADVERTISEMENT.pdf",
-     "format": "pdf",
-     "published": "2026-11-05T17:12:34Z"
-    },
-    {
-     "title": "ERRATUM FOR THE PROVISION OF HYGIENE SERVICES FOR THE CCMA TSHWANE OFFICE FOR A PERIOD OF 60 MONTHS (RE-ADVERTISEMENT).pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=9057b9e4-5bce-43e0-b8f0-53b83f0d844c.pdf&downloadedFileName=ERRATUM%20FOR%20THE%20PROVISION%20OF%20HYGIENE%20SERVICES%20FOR%20THE%20CCMA%20TSHWANE%20OFFICE%20FOR%20A%20PERIOD%20OF%2060%20MONTHS%20%28RE-ADVERTISEMENT%29.pdf",
-     "format": "pdf",
-     "published": "2026-11-12T15:09:00Z"
-    },
-    {
-     "title": "QUESTION AND ANSWERS BID NUMBER CCMA202602 TSH APPOINTMENT OF A SERVICE PROVIDER FOR THE PROVISION OF HYGIENE SERVICES AT THE CCMA TSHWANE OFFICE FOR A PERIOD OF 60 MONTHS.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=13e85cf4-ffc3-483a-8ff7-fdbcd8ae92f6.pdf&downloadedFileName=QUESTION%20AND%20ANSWERS%20BID%20NUMBER%20CCMA202602%20TSH%20APPOINTMENT%20OF%20A%20SERVICE%20PROVIDER%20FOR%20THE%20PROVISION%20OF%20HYGIENE%20SERVICES%20AT%20THE%20CCMA%20TSHWANE%20OFFICE%20FOR%20A%20PERIOD%20OF%2060%20MONTHS.pdf",
-     "format": "pdf",
-     "published": "2026-11-20T16:54:37Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-176743",
-   "reference": "CONMP0005(2026/2027)",
-   "title": "APPOINTMENT OF A CONTRACTOR FOR SUPPLY, DELIVERY, AND INSTALLATION OF 2 KM BARBED WIRE FENCE AT PORTION 189 OF THE FARM RONDEBOSCH 403 JS; 8 KM BARBED WIRE FENCE AT PORTION 4 REMAINING EXTENT OF FARM DRIEFONTEIN NO 377 JT AND 11 KM BARBED WIRE FENCE AT PALMIETFONTEIN NO 104 JT IN EMAKHAZENI LOCAL MUNICIPALITY IN THE MPUMALANGA PROVINCE.",
-   "department": "Department of  Land Reform and Rural Development",
-   "category": "Agriculture",
-   "company": "llp",
-   "matchedTerms": [
-    "farm",
-    "tractor"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-03T00:00:00+00:00",
-   "closingDate": "2026-11-26T11:00:00+00:00",
-   "procurementMethod": "Request for Proposal",
-   "procurementCategory": "works",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "CONMP0005 RONDEBOSCH DRIEFONTEIN PALMIETFONTEIN.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=47b35ba2-e8bb-4f1a-9ed0-3a1810405cc5.pdf&downloadedFileName=CONMP0005%20RONDEBOSCH%20DRIEFONTEIN%20PALMIETFONTEIN.pdf",
-     "format": "pdf",
-     "published": "2026-11-03T10:28:12Z"
-    },
-    {
-     "title": "ViewTenderNoticePdf (1).pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=63207e1b-6efe-4b47-85dc-a6fff73bb24f.pdf&downloadedFileName=ViewTenderNoticePdf%20%281%29.pdf",
-     "format": "pdf",
-     "published": "2026-11-03T10:34:07Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-176852",
-   "reference": "CONMP0006(2026/2027)",
-   "title": "APPOINTMENT OF A CONTRACTOR FOR SITING; DRILLING AND EQUIPPING OF BOREHOLES IN PALMIETFONTEIN 104 JT (2), BLOEMFONTEIN 399 JT, RONDEBOSCH 403 JS (2) AND DRIEFONTEIN FARMS IN EMAKHAZENI LOCAL MUNICIPALITY IN NKANGALA DISTRICT IN THE MPUMALANGA PROVINCE.",
-   "department": "Department of  Land Reform and Rural Development",
-   "category": "Agriculture",
-   "company": "llp",
-   "matchedTerms": [
-    "farms",
-    "tractor"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-03T00:00:00+00:00",
-   "closingDate": "2026-11-26T11:00:00+00:00",
-   "procurementMethod": "Request for Proposal",
-   "procurementCategory": "works",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "ViewTenderNoticePdf.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=0eeeef81-ce8b-4d7e-8e99-8236add6394a.pdf&downloadedFileName=ViewTenderNoticePdf.pdf",
-     "format": "pdf",
-     "published": "2026-11-03T15:27:35Z"
-    },
-    {
-     "title": "CONMP0006 (2026_2027) Bid document.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=e36993de-fd62-4e6e-bccd-a46d007afee3.pdf&downloadedFileName=CONMP0006%20%282026_2027%29%20Bid%20document.pdf",
-     "format": "pdf",
-     "published": "2026-11-03T15:21:02Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-178002",
-   "reference": "SGR/CLEANING-WEST-AREA-CORRIDOR-4/11/26",
-   "title": "THE APPOINTMENT OF A SERVICE PROVIDER TO PROVIDE CLEANING AND HORTICULTURE SERVICES AT VARIOUS STATIONS IN THE WEST AREA – CORRIDOR 4 SOUTH GAUTENG REGION FOR A PERIOD OF SIX (6) MONTHS.",
-   "department": "Passenger Rail Agency of South Africa",
-   "category": "Grounds & Landscaping",
-   "company": "llp",
-   "matchedTerms": [
-    "cleaning",
-    "horticultur"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-12T00:00:00+00:00",
-   "closingDate": "2026-11-26T12:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "36.2. Master RFQ West Area 4 V1.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=f9879f83-61ae-4c06-ba34-439c5108afcb.pdf&downloadedFileName=36.2.%20Master%20RFQ%20West%20Area%204%20V1.pdf",
-     "format": "pdf",
-     "published": "2026-11-12T13:47:38Z"
-    },
-    {
-     "title": "West_Area_Corridors_4_for_6_Months_Specification_ 2026 v2.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=009e0446-aa2b-4dfa-9372-cd064fb34b6e.pdf&downloadedFileName=West_Area_Corridors_4_for_6_Months_Specification_%202026%20v2.pdf",
-     "format": "pdf",
-     "published": "2026-11-13T11:12:16Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-177775",
-   "reference": "SGR/AS-AND-WHEN-PLUMBING-MAINT/01/06/2026- RE-ADVE",
-   "title": "THE APPOINTMENT OF TWO (2) CONTRACTORS FOR PLUMBING MAINTENANCE AT RAILWAY STATION PLATFORMS, BUILDINGS, OFFICES, RENTAL PROPERTIES AND WORKSHOPS ON AS AND WHEN REQUIRED BASIS IN SOUTH GAUTENG REGION FOR A PERIOD OF 24 MONTHS - RE-ADVERT",
-   "department": "Passenger Rail Agency of South Africa",
-   "category": "Facilities Maintenance",
-   "company": "llp",
-   "matchedTerms": [
-    "buildings",
-    "maintenance",
-    "plumbing",
-    "tractors"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-11T00:00:00+00:00",
-   "closingDate": "2026-11-26T12:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "RFQ DOCUMENT.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=e1e765ee-2239-4e8c-a41c-345f80fd7c6f.pdf&downloadedFileName=RFQ%20DOCUMENT.pdf",
-     "format": "pdf",
-     "published": "2026-11-12T10:36:36Z"
-    },
-    {
-     "title": "ANNEXURE A - BOQ ,Specification_As and When Plumbing repair  Maintenance..pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=3f1e9e13-2484-4aea-a524-4a110f476275.pdf&downloadedFileName=ANNEXURE%20A%20-%20BOQ%20%2CSpecification_As%20and%20When%20Plumbing%20repair%20%20Maintenance..pdf",
-     "format": "pdf",
-     "published": "2026-11-11T12:42:11Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-176723",
-   "reference": "RFX6000003660zz",
-   "title": "APPOINTMENT OF A SERVICE PROVIDER TO SUPPLY, DELIVERY AND INSTALLATION OF HIGH-SECURITY PERIMETER FENCING AT SENTECH FRANSCHOEK SITE UNDER SOUTHERN RE",
-   "department": "Sentech Limited",
-   "category": "Facilities Maintenance",
-   "company": "llp",
-   "matchedTerms": [
-    "fencing"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-03T00:00:00+00:00",
-   "closingDate": "2026-11-26T12:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "works",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "Revised Standard Bidding Document (SDB) 4_Annexure A (3) ZZZZZZ (3).pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=a1892ce0-3cec-42dc-8423-5984fc598834.pdf&downloadedFileName=Revised%20Standard%20Bidding%20Document%20%28SDB%29%204_Annexure%20A%20%283%29%20ZZZZZZ%20%283%29.pdf",
-     "format": "pdf",
-     "published": "2026-11-03T08:30:48Z"
-    },
-    {
-     "title": "Fraschoek Fence RFQ (002) (2)zzzzzz (002) zzzzzzzzz.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=6c8f4b05-eb69-410c-9223-ed46a1cfffdc.pdf&downloadedFileName=Fraschoek%20Fence%20RFQ%20%28002%29%20%282%29zzzzzz%20%28002%29%20zzzzzzzzz.pdf",
-     "format": "pdf",
-     "published": "2026-11-03T08:29:56Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-176216",
-   "reference": "RFX6000003660/1",
-   "title": "APPOINTMENT OF A SERVICE PROVIDER TO SUPPLY, DELIVERY AND INSTALLATION OF HIGH-SECURITY PERIMETER FENCING AT SENTECH FRANSCHOEK SITE UNDER SOUTHERN REGION",
-   "department": "Sentech Limited",
-   "category": "Facilities Maintenance",
-   "company": "llp",
-   "matchedTerms": [
-    "fencing"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-10-29T00:00:00+00:00",
-   "closingDate": "2026-11-26T12:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "works",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "Revised Standard Bidding Document (SDB) 4_Annexure A (3) ZZZZZZ.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=7e8c2f92-1428-4b97-90f2-2727a82de06e.pdf&downloadedFileName=Revised%20Standard%20Bidding%20Document%20%28SDB%29%204_Annexure%20A%20%283%29%20ZZZZZZ.pdf",
-     "format": "pdf",
-     "published": "2026-10-29T09:46:43Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-175637",
-   "reference": "IHLM-67/2026-27/ADMIN",
-   "title": "Provision of Hygiene services for a period of 36 months",
-   "department": "Ingquza Hill Local Municipality",
-   "category": "Supply & Consumables",
-   "company": "llp",
-   "matchedTerms": [
-    "hygiene services"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-10-26T00:00:00+00:00",
-   "closingDate": "2026-11-26T12:00:00+00:00",
-   "procurementMethod": "Request for Bid(Open-Tender)",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "TENDER DOCUMENT PROVISION OF HYGIENE SERVICES FOR A PERIOD OF 36 MONTHS.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=b2430559-32e3-4acb-b42d-82d98a0256c7.pdf&downloadedFileName=TENDER%20DOCUMENT%20PROVISION%20OF%20HYGIENE%20SERVICES%20FOR%20A%20PERIOD%20OF%2036%20MONTHS.pdf",
-     "format": "pdf",
-     "published": "2026-10-26T09:37:53Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-175430",
-   "reference": "ELM/5/10/2026T",
-   "title": "PANEL OF THREE SERVICE PROVIDERS TO SERVICING, REPAIRS AND MAINTENANCE OF\r\nEMALAHLENI VEHICLES FOR A PERIOD OF 36 MONTHS (AS AN AND WHEN REQUIRED).",
-   "department": "Emalahleni Local Municipality",
-   "category": "Facilities Maintenance",
-   "company": "llp",
-   "matchedTerms": [
-    "maintenance",
-    "repairs",
-    "repairs and maintenance"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-10-23T00:00:00+00:00",
-   "closingDate": "2026-11-26T12:00:00+00:00",
-   "procurementMethod": "Request for Proposal",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "ADVERT FOR PANEL OF THREE SERVICE PROVIDERS TO SERVICING,REPAIRS AND MAINTENANCE.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=9e836b63-6679-4607-b953-4c0ed1ffef67.pdf&downloadedFileName=ADVERT%20FOR%20PANEL%20OF%20THREE%20SERVICE%20PROVIDERS%20TO%20SERVICING%2CREPAIRS%20AND%20MAINTENANCE.pdf",
-     "format": "pdf",
-     "published": "2026-10-23T13:11:05Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-176159",
-   "reference": "TP/2026/09/0181/12247/RFP",
-   "title": "FOR THE PROVISION OF PEST CONTROL AND GROUNDS MAINTENANCE (VEGETATION CONTROL) ON A ‘AS AND WHEN” REQUIRED BASIS IN NORTHERN KZN VRYHEID (VRYHEID, VRYHEID EAST & ULUNDI) AND SURROUNDING AREAS FOR A PERIOD OF 60 MONTHS",
-   "department": "Transnet SOC Ltd",
-   "category": "Grounds & Landscaping",
-   "company": "llp",
-   "matchedTerms": [
-    "grounds",
-    "maintenance",
-    "vegetation control"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-10-28T00:00:00+00:00",
-   "closingDate": "2026-11-26T14:00:00+00:00",
-   "procurementMethod": "Request for Proposal",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "FIRST ADDENDUM- Pest  Vegetation Control VryheidTP202609018112247RFP.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=ab1a65b3-2f80-4093-bbb7-09ff1299f699.pdf&downloadedFileName=FIRST%20ADDENDUM-%20Pest%20%20Vegetation%20Control%20VryheidTP202609018112247RFP.pdf",
-     "format": "pdf",
-     "published": "2026-10-30T09:32:32Z"
-    },
-    {
-     "title": "Annexure B - Scope of Work.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=71958b27-816f-4a65-8e19-1933d10c0e3c.pdf&downloadedFileName=Annexure%20B%20-%20Scope%20of%20Work.pdf",
-     "format": "pdf",
-     "published": "2026-10-28T16:01:56Z"
-    },
-    {
-     "title": "RFP-TP202609018112247RFP.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=e0ec2c23-ccb3-442b-9c82-29a95ca928b5.pdf&downloadedFileName=RFP-TP202609018112247RFP.pdf",
-     "format": "pdf",
-     "published": "2026-10-28T16:01:57Z"
-    },
-    {
-     "title": "Annexure F-  Non-Disclosure Agreement.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=882d01c5-a05f-4067-b3ce-3fe5d5db7098.pdf&downloadedFileName=Annexure%20F-%20%20Non-Disclosure%20Agreement.pdf",
-     "format": "pdf",
-     "published": "2026-10-28T16:01:57Z"
-    },
-    {
-     "title": "Annexure H - Bidders Final Checklist.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=10f45a85-ae19-41bf-810a-50bd0c619233.pdf&downloadedFileName=Annexure%20H%20-%20Bidders%20Final%20Checklist.pdf",
-     "format": "pdf",
-     "published": "2026-10-28T16:01:57Z"
-    },
-    {
-     "title": "Annexure C - Master Agreement Pest & Vegetation Control Vryheid.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=48e549d7-ab56-432e-b041-6a8f182929d7.pdf&downloadedFileName=Annexure%20C%20-%20Master%20Agreement%20Pest%20%26%20Vegetation%20Control%20Vryheid.pdf",
-     "format": "pdf",
-     "published": "2026-10-28T16:01:56Z"
-    },
-    {
-     "title": "Affected Sites - Vryheid.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=5019d22c-a61a-4580-9e14-93e491138300.pdf&downloadedFileName=Affected%20Sites%20-%20Vryheid.pdf",
-     "format": "pdf",
-     "published": "2026-10-28T16:01:56Z"
-    },
-    {
-     "title": "Annexure D - General_Bid_Conditions.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=51878889-94f8-4528-8997-98fbf1311814.pdf&downloadedFileName=Annexure%20D%20-%20General_Bid_Conditions.pdf",
-     "format": "pdf",
-     "published": "2026-10-28T16:01:56Z"
-    },
-    {
-     "title": "Annexure E -  Transnet_Supplier_Integrity_Pack.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=99e27070-753f-48d8-bcc2-aaba2e9c41a8.pdf&downloadedFileName=Annexure%20E%20-%20%20Transnet_Supplier_Integrity_Pack.pdf",
-     "format": "pdf",
-     "published": "2026-10-28T16:01:57Z"
-    },
-    {
-     "title": "RFP-TP202609018112247RFP ADDENDUM.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=603c8f5a-f7e7-45c2-a11a-b3a5249c9795.pdf&downloadedFileName=RFP-TP202609018112247RFP%20ADDENDUM.pdf",
-     "format": "pdf",
-     "published": "2026-11-12T16:01:12Z"
-    },
-    {
-     "title": "SECOND ADDENDUM- Pest  Vegetation Control Vryheid TP202609018112247RFP.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=73d56653-1f1b-49d5-a285-c63924497b8f.pdf&downloadedFileName=SECOND%20ADDENDUM-%20Pest%20%20Vegetation%20Control%20Vryheid%20TP202609018112247RFP.pdf",
-     "format": "pdf",
-     "published": "2026-11-12T16:01:12Z"
-    },
-    {
-     "title": "Annexure G - Schedule 1_Schedule of Requirements Vryheid.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=3285505e-097d-47fb-9959-e6a64c58665b.pdf&downloadedFileName=Annexure%20G%20-%20Schedule%201_Schedule%20of%20Requirements%20Vryheid.pdf",
-     "format": "pdf",
-     "published": "2026-10-28T16:01:57Z"
-    },
-    {
-     "title": "Annexure A - Technical Questionaire.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=f9c7127d-9d00-46f0-9d57-f1c24f5aadfd.pdf&downloadedFileName=Annexure%20A%20-%20Technical%20Questionaire.pdf",
-     "format": "pdf",
-     "published": "2026-10-28T16:01:56Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-179502",
-   "reference": "RFQ-FAC-26-27-246(01)",
-   "title": "Cleaning of Carpets, repair of dry walls, and painting in Western Cape",
-   "department": "Manufacturing, Engineering and Related Services SETA (merSETA)",
-   "category": "Facilities Maintenance",
-   "company": "llp",
-   "matchedTerms": [
-    "cleaning",
-    "painting",
-    "repair"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-23T00:00:00+00:00",
-   "closingDate": "2026-11-26T16:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "Request for Quotation..pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=ba823a06-0795-4582-94d6-1091ce172954.pdf&downloadedFileName=Request%20for%20Quotation..pdf",
-     "format": "pdf",
-     "published": "2026-11-23T15:50:31Z"
-    },
-    {
-     "title": "Annexture A.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=dc945fc3-e7e1-420f-a6c7-b7f2f142ea98.pdf&downloadedFileName=Annexture%20A.pdf",
-     "format": "pdf",
-     "published": "2026-11-23T15:50:31Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
   {
    "id": "ocds-9t57fa-177196",
    "reference": "E3712GXMPDUV",
@@ -2815,6 +1952,47 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
+   "id": "ocds-9t57fa-179338",
+   "reference": "Bid No 43/2026",
+   "title": "Supply and delivery of PPE (personal protective equipment) for a period ending 30 June 2027",
+   "department": "NamaKwa District Municipality",
+   "category": "Supply & Consumables",
+   "company": "llp",
+   "matchedTerms": [
+    "personal protective",
+    "ppe"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-22T00:00:00+00:00",
+   "closingDate": "2026-11-30T10:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "BID NO 432026 SUPPLY AND DELIVERY OF PPE FOR A PERIOD ENDING 30 JUNE 2027.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=7da12be9-12a7-409d-917f-aecb54672569.pdf&downloadedFileName=BID%20NO%20432026%20SUPPLY%20AND%20DELIVERY%20OF%20PPE%20FOR%20A%20PERIOD%20ENDING%2030%20JUNE%202027.pdf",
+     "format": "pdf",
+     "published": "2026-11-22T23:22:24Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
    "id": "ocds-9t57fa-175861",
    "reference": "COM P4/2026",
    "title": "INVASIVE ALIEN VEGETATION CLEARING IN MUNICIPAL AREAS FOR A PERIOD UP TO 30 JUNE 2029",
@@ -3159,6 +2337,88 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=9c394447-5e5f-4412-aed9-ef1a98b0201a.pdf&downloadedFileName=NEC%20-%20%28TSC3%29%20-%20LV%20switch%20gear.pdf",
      "format": "pdf",
      "published": "2026-10-12T10:54:03Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-179640",
+   "reference": "SCMU3-P26 / 27-1087-EMS",
+   "title": "SCMU3-P26 / 27-1087-EMS- CLEANING SERVICES FOR CHRIS HANI EMS BASES; MIDDELBURG, TARKASTAD, CALA, ELLIOT, COFIMVABA AND LADY FRERE ( 6 BASES) FOR THE PERIOD OF THIRTY SIX ( 36) MONTHS",
+   "department": "Eastern Cape - Health",
+   "category": "Supply & Consumables",
+   "company": "llp",
+   "matchedTerms": [
+    "cleaning",
+    "cleaning services"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-24T00:00:00+00:00",
+   "closingDate": "2026-11-30T11:00:00+00:00",
+   "procurementMethod": "Request for Bid(Open-Tender)",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "BID DOCUMENT FOR CLEANING SERVICES FACILITIES BASE EMS eTenders.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=dc6bf0b6-52ef-4176-96ba-0efbfd7b5c3a.pdf&downloadedFileName=BID%20DOCUMENT%20FOR%20CLEANING%20SERVICES%20FACILITIES%20BASE%20EMS%20eTenders.pdf",
+     "format": "pdf",
+     "published": "2026-11-24T16:20:01Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-179709",
+   "reference": "INFQ012/26AI",
+   "title": "FLORISBAD RESEARCH STATION: REPAIRS AND RENOVATIONS: APPOINTMENT OF ENVIRONMENTAL CONTROL OFFICER",
+   "department": "Public Works",
+   "category": "Facilities Maintenance",
+   "company": "llp",
+   "matchedTerms": [
+    "renovat",
+    "repairs"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-24T00:00:00+00:00",
+   "closingDate": "2026-11-30T11:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "consultingServices",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "Quotation Document Florisbad INFQ012-26 AI.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=819ba335-144a-417f-8ee5-2ecb5612eeac.pdf&downloadedFileName=Quotation%20Document%20Florisbad%20INFQ012-26%20AI.pdf",
+     "format": "pdf",
+     "published": "2026-11-24T16:50:20Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -4060,6 +3320,54 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
+   "id": "ocds-9t57fa-179502",
+   "reference": "RFQ-FAC-26-27-246(01)",
+   "title": "Cleaning of Carpets, repair of dry walls, and painting in Western Cape",
+   "department": "Manufacturing, Engineering and Related Services SETA (merSETA)",
+   "category": "Facilities Maintenance",
+   "company": "llp",
+   "matchedTerms": [
+    "cleaning",
+    "painting",
+    "repair"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-23T00:00:00+00:00",
+   "closingDate": "2026-11-30T16:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "Request for Quotation.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=fce74fdf-e213-442f-af8d-781c13b799dd.pdf&downloadedFileName=Request%20for%20Quotation.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T09:24:06Z"
+    },
+    {
+     "title": "Annexture A.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=dc945fc3-e7e1-420f-a6c7-b7f2f142ea98.pdf&downloadedFileName=Annexture%20A.pdf",
+     "format": "pdf",
+     "published": "2026-11-23T15:50:31Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
    "id": "ocds-9t57fa-178079",
    "reference": "10414239 R",
    "title": "Refurbish, install, align and commissioning pump set 1 for Trichardt pump station pump ETA 150-50",
@@ -4097,10 +3405,10 @@
      "published": "2026-11-12T21:17:56Z"
     },
     {
-     "title": "BOQ-10417514 Annexure C2.2 Pricing Schedule (002).pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=ac2afb4e-a775-4aae-9c94-68c29821bc99.pdf&downloadedFileName=BOQ-10417514%20Annexure%20C2.2%20Pricing%20Schedule%20%28002%29.pdf",
+     "title": "BOQ-10414239 Annexure C2.2 Pricing Schedule.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=0b1e298c-abad-4e2c-8f40-72e4bd4a2b49.pdf&downloadedFileName=BOQ-10414239%20Annexure%20C2.2%20Pricing%20Schedule.pdf",
      "format": "pdf",
-     "published": "2026-11-12T21:16:17Z"
+     "published": "2026-11-26T13:42:07Z"
     },
     {
      "title": "RFQ 10414239(R).pdf",
@@ -4393,87 +3701,6 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=3275e9f9-9850-4910-aac3-efedc707942e.pdf&downloadedFileName=TPD-003-CABLESPEC.pdf",
      "format": "pdf",
      "published": "2026-11-06T17:20:11Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-179576",
-   "reference": "E2428GXMPMAT001",
-   "title": "Cancellation - Refurbishment of coal Plant chutes, rotary feeders, and tripper cars at Matla\r\nPower Station for a period of five (05) years.",
-   "department": "ESKOM",
-   "category": "Facilities Maintenance",
-   "company": "llp",
-   "matchedTerms": [
-    "refurbish"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-24T00:00:00+00:00",
-   "closingDate": "2026-12-01T10:00:00+00:00",
-   "procurementMethod": "Request for Bid(Open-Tender)",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "Gx Tender Cancellation Report - Coal plant chutes.final.fin.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=a2d008b4-a2b5-4432-a95b-cf172e33a39b.pdf&downloadedFileName=Gx%20Tender%20Cancellation%20Report%20-%20Coal%20plant%20chutes.final.fin.pdf",
-     "format": "pdf",
-     "published": "2026-11-24T09:28:34Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-179641",
-   "reference": "36141A/GRNP/2026-27",
-   "title": "SUPPLY, DELIVERY, AND MAINTENANCE OF RADIO COMMUNICATION INFRASTRUCTURE AT THE WILDERNESS SECTION OF THE GARDEN ROUTE NATIONAL PARK FOR A PERIOD OF FIVE YEARS",
-   "department": "South African National Parks",
-   "category": "Facilities Maintenance",
-   "company": "llp",
-   "matchedTerms": [
-    "garden",
-    "maintenance"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-24T00:00:00+00:00",
-   "closingDate": "2026-12-01T11:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "consultingServices",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "RFQ document - radio communication.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=c1af0b3b-9ecd-4359-88cb-f9c38c8d2ae9.pdf&downloadedFileName=RFQ%20document%20-%20radio%20communication.pdf",
-     "format": "pdf",
-     "published": "2026-11-24T13:09:50Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -6607,6 +5834,87 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
+   "id": "ocds-9t57fa-180075",
+   "reference": "CSPN03/NC061/11/2026",
+   "title": "CLEANING SERVICES FROM 14 DECEMBER 2026 TILL 04 JANUARY 2027 IN PORT NOLLOTH BEACH AREAS WALK WAYS AND ABLUTION FACILITIES",
+   "department": "Richtersveld Municipality",
+   "category": "Supply & Consumables",
+   "company": "llp",
+   "matchedTerms": [
+    "cleaning",
+    "cleaning services"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-26T00:00:00+00:00",
+   "closingDate": "2026-12-03T12:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "CLEANING SERVICES NOVEMBER 2026 RFQ COMPLETE.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=5f648122-12d2-4d4e-82ac-add9e0623911.pdf&downloadedFileName=CLEANING%20SERVICES%20NOVEMBER%202026%20RFQ%20COMPLETE.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T15:40:50Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-180076",
+   "reference": "6000080693",
+   "title": "Supply and delivery of electrical PPE",
+   "department": "Johannesburg Water",
+   "category": "Supply & Consumables",
+   "company": "llp",
+   "matchedTerms": [
+    "ppe"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-26T00:00:00+00:00",
+   "closingDate": "2026-12-03T12:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "goods",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "RFQ 6000080693 Electrical PPE.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=d943045f-acf6-4979-b0dc-808c60a095c6.pdf&downloadedFileName=RFQ%206000080693%20Electrical%20PPE.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T15:41:54Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
    "id": "ocds-9t57fa-177982",
    "reference": "EPMLM/8/3/554",
    "title": "APPOINTMENT OF A SERVICE PROVIDER TO SUPPLY AND DELIVER FENCING MATERIAL",
@@ -6689,150 +5997,6 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=144d0e1f-6d10-4fc7-9deb-5e21af6c86bd.pdf&downloadedFileName=114Q-2026-27%20Tender%20Advert%20PG1-7.pdf",
      "format": "pdf",
      "published": "2026-10-30T07:28:02Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-178974",
-   "reference": "WTE-0613 CS",
-   "title": "SUPPLY AND DELIVERY SAFETY PROTECTIVE CLOTHING FOR NCORA IRRIGATION SCHEME: CANAL REHABILITATION AT NCORA IN THE EASTERN CAPE FOR DWS CONSTRUCTION SOUTH.",
-   "department": "Water and Sanitation",
-   "category": "Supply & Consumables",
-   "company": "llp",
-   "matchedTerms": [
-    "irrigation",
-    "protective clothing"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-20T00:00:00+00:00",
-   "closingDate": "2026-12-04T11:00:00+00:00",
-   "procurementMethod": "Request for Bid(Open-Tender)",
-   "procurementCategory": "works",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "WTE-0613 CS - PPE for Ncora Canal.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=5b9fc09f-9b3e-45aa-b19f-c1dc45c7642b.pdf&downloadedFileName=WTE-0613%20CS%20-%20PPE%20for%20Ncora%20Canal.pdf",
-     "format": "pdf",
-     "published": "2026-11-20T13:31:13Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-179003",
-   "reference": "RFQ/PNT01/2026",
-   "title": "The Playhouse Company invites tenders for paintwork, crack filling and structural defect repairs at the Durban Playhouse Theatre and Admin buildings.\r\n\r\nIt is estimated that tenderers should have a cidb contractor grading of 2GB or higher.\r\n\r\nServices to be done include repair of cracks, damaged plaster, honeycombed concrete and water-damaged finishes, and the \r\nrepainting of affected areas, at 29 Acutt Street and 231 Anton Lembede Street, Durban.",
-   "department": "The Playhouse Company",
-   "category": "Facilities Maintenance",
-   "company": "llp",
-   "matchedTerms": [
-    "buildings",
-    "painting",
-    "repairs",
-    "tractor"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-20T00:00:00+00:00",
-   "closingDate": "2026-12-04T11:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "ViewTenderNoticePdf (2).pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=205756a6-244b-4438-9502-4e87a6ffb059.pdf&downloadedFileName=ViewTenderNoticePdf%20%282%29.pdf",
-     "format": "pdf",
-     "published": "2026-11-20T09:34:18Z"
-    },
-    {
-     "title": "Annexure A - Painting Scope and BOQ.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=499681ff-5220-4352-922b-6b66d4a86ffa.pdf&downloadedFileName=Annexure%20A%20-%20Painting%20Scope%20and%20BOQ.pdf",
-     "format": "pdf",
-     "published": "2026-11-20T09:34:18Z"
-    },
-    {
-     "title": "RFQ Document - PNT01-2026.docx",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=e2cedecf-460d-47a6-8efb-c097459cfede.docx&downloadedFileName=RFQ%20Document%20-%20PNT01-2026.docx",
-     "format": "docx",
-     "published": "2026-11-20T09:34:18Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-179010",
-   "reference": "RFQ/19/11/2026/DRYWALL",
-   "title": "The Playhouse Company invites bids  for the supply, install and paint one standard drywall partition, 8.0 m long × 2.5 m high, with one double wooden door, at the Sound Department, The Playhouse Company, Durban. \r\n\r\nThe works include: \r\n• Setting out, lightweight steel stud framing, fixing to floor, soffit and abutting walls \r\n• Flexible sealing at all perimeters \r\n• Gypsum plasterboard to both faces, taped, jointed and finished ready for paint \r\n• Framed opening, hardwood door frame, pair of solid-core wooden doors and ironmongery \r\n• Priming and painting both wall faces; sealing and varnishing the doors, frame and architraves \r\n• Protection of the existing building, daily clean-up, removal of waste, and handover\r\n\r\nAll work must comply with SANS 10400 (National Building Regulations), the board and framing manufacturer's installation guide, and the Employer's site rules. Noisy work is to be scheduled around rehearsals and performances as agreed with the venue.",
-   "department": "The Playhouse Company",
-   "category": "Facilities Maintenance",
-   "company": "llp",
-   "matchedTerms": [
-    "building",
-    "paint",
-    "painting"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-20T00:00:00+00:00",
-   "closingDate": "2026-12-04T11:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "RFQ Document - DRYWALL PARTITION WITH DOUBLE DOOR – SOUND DEPARTMENT - THE PLAYHOUSE COMPANY.docx",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=b285b129-3216-4d89-8978-0fe3ad0fcf7a.docx&downloadedFileName=RFQ%20Document%20-%20DRYWALL%20PARTITION%20WITH%20DOUBLE%20DOOR%20%E2%80%93%20SOUND%20DEPARTMENT%20-%20THE%20PLAYHOUSE%20COMPANY.docx",
-     "format": "docx",
-     "published": "2026-11-20T09:41:45Z"
-    },
-    {
-     "title": "Annexure A - Spec for the Drywall Partition with Double Door Standard - The Playhouse Company.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=b01d713d-aeee-4fb6-b33f-739043c435c3.pdf&downloadedFileName=Annexure%20A%20-%20Spec%20for%20the%20Drywall%20Partition%20with%20Double%20Door%20Standard%20-%20The%20Playhouse%20Company.pdf",
-     "format": "pdf",
-     "published": "2026-11-20T09:41:45Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -7317,46 +6481,6 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
-   "id": "ocds-9t57fa-179039",
-   "reference": "SCMU 25/2026 Re Advert",
-   "title": "REFURBISHMENT AND RE-INSTALLATION OF ZIPPEL CABINETS AT GREATER TZANEEN MUNICIPALITY",
-   "department": "Greater Tzaneen Municipality",
-   "category": "Facilities Maintenance",
-   "company": "llp",
-   "matchedTerms": [
-    "refurbish"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-20T00:00:00+00:00",
-   "closingDate": "2026-12-04T12:00:00+00:00",
-   "procurementMethod": "Request for Bid(Open-Tender)",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "COMBINED NOVEMBER ADVERT 03.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=67ca05d9-0ea9-4cab-81d7-7d1a5c55550f.pdf&downloadedFileName=COMBINED%20NOVEMBER%20ADVERT%2003.pdf",
-     "format": "pdf",
-     "published": "2026-11-20T10:25:23Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
    "id": "ocds-9t57fa-178316",
    "reference": "FWQ30/2026",
    "title": "SUPPLY, DELIVER ,INSTALLATION AND PLUMBING INTEGRATION OF SIX (6)  STORAGE TANKS FOR LIBRARIES",
@@ -7627,6 +6751,48 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=7432e9ca-07cb-4e8a-934d-686a9f350c1f.pdf&downloadedFileName=49-2026-2027%20ADVERT.pdf",
      "format": "pdf",
      "published": "2026-10-23T08:15:39Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-180008",
+   "reference": "CDC/813/26",
+   "title": "Appointment for the Scheduled Repair and Maintenance of a CVS Ferrari Reach – Stacker",
+   "department": "Eastern Cape - Coega Development Cooperation",
+   "category": "Facilities Maintenance",
+   "company": "llp",
+   "matchedTerms": [
+    "maintenance",
+    "repair",
+    "repair and maintenance"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-26T00:00:00+00:00",
+   "closingDate": "2026-12-04T14:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "RFQ - Reach stacker Repair and Maintenance.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=07de06cc-aa39-4f65-b028-5dcdd8648eb9.pdf&downloadedFileName=RFQ%20-%20Reach%20stacker%20Repair%20and%20Maintenance.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T11:50:36Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -8391,6 +7557,46 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=3810deab-219f-4669-b391-53af5002482f.pdf&downloadedFileName=TRANSFORMERS%20MKHO24.2026.27%20DOC.pdf",
      "format": "pdf",
      "published": "2026-11-23T16:41:29Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-179169",
+   "reference": "IYM SCMU 02-2026/2027",
+   "title": "SUPPLY AND DELIVERY OF AGRICULTURAL INPUTS.",
+   "department": "Intsika Yethu Local Municipality",
+   "category": "Agriculture",
+   "company": "llp",
+   "matchedTerms": [
+    "agricultur"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-20T00:00:00+00:00",
+   "closingDate": "2026-12-07T12:00:00+00:00",
+   "procurementMethod": "Request for Bid(Open-Tender)",
+   "procurementCategory": "",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "Advert Agri inputs.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=4846234e-4819-463a-8623-ffd75e1067be.pdf&downloadedFileName=Advert%20Agri%20inputs.pdf",
+     "format": "pdf",
+     "published": "2026-11-20T14:24:08Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -10844,6 +10050,47 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
+   "id": "ocds-9t57fa-180033",
+   "reference": "PSB26/035",
+   "title": "ZASTRON MAGISTRATE OFFICE: REPAIRS AND REFURBISHMENT: STRUCTURAL ENGINEERING SERVICES",
+   "department": "Public Works",
+   "category": "Facilities Maintenance",
+   "company": "llp",
+   "matchedTerms": [
+    "refurbish",
+    "repairs"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-26T00:00:00+00:00",
+   "closingDate": "2026-12-10T11:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "works",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "PSB26-035 Zastron Office Repairs and refurbishment Structural Engineering Services.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=e59d524f-ea21-41e0-afe9-d9685a8ac5ad.pdf&downloadedFileName=PSB26-035%20Zastron%20Office%20Repairs%20and%20refurbishment%20Structural%20Engineering%20Services.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T13:06:03Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
    "id": "ocds-9t57fa-178641",
    "reference": "CONMP0013(2026/2027)",
    "title": "APPOINTMENT OF A CONTRACTOR FOR THE CONSTRUCTION OF 64M2 FARMHOUSE AT PORTION 4 OF THE FARM GEVONDEN NO 398 JT IN EMAKHAZENI LOCAL MUNICIPALITY UNDER NKANGALA DISCTRICT MUNICIPALITY IN MPUMALANGA PROVINCE.",
@@ -12215,6 +11462,47 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
+   "id": "ocds-9t57fa-180041",
+   "reference": "RFT NO 08-11-2026",
+   "title": "REFURBISHMENT AND UPGRADING OF THEUNISSEN\r\nSPORTS FACILITY",
+   "department": "Lejweleputswa District Municipality",
+   "category": "Facilities Maintenance",
+   "company": "llp",
+   "matchedTerms": [
+    "refurbish",
+    "upgrad"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-26T00:00:00+00:00",
+   "closingDate": "2026-12-11T12:00:00+00:00",
+   "procurementMethod": "Request for Bid(Open-Tender)",
+   "procurementCategory": "works",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "RFT NO. 08 -11- 2026 REFURBISHMENT AND UPGRADING OF THEUNISSEN SPORTS FACILITY.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=9a161729-bcd8-409e-ac38-a8bcb5d1bc3b.pdf&downloadedFileName=RFT%20NO.%2008%20-11-%202026%20REFURBISHMENT%20AND%20UPGRADING%20OF%20THEUNISSEN%20SPORTS%20FACILITY.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T13:46:06Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
    "id": "ocds-9t57fa-179949",
    "reference": "8/3-73/2024 RE-ADVERT",
    "title": "APPOINTMENT OF A SERVICE PROVIDER TO DO SPECIALIST STUDIES AT DAVEL CEMETERY.",
@@ -12246,10 +11534,10 @@
    },
    "documents": [
     {
-     "title": "25 NOVEMBER 2026 TENDER ADVERT FOR PET STREET, SPECIALIST STUDIES FOR DAVEL CEMETERY AND PORTION 55 SPITSKOP.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=7a43c280-4654-47d5-b3bf-76ddb92709ea.pdf&downloadedFileName=25%20NOVEMBER%202026%20TENDER%20ADVERT%20FOR%20PET%20STREET%2C%20SPECIALIST%20STUDIES%20FOR%20DAVEL%20CEMETERY%20AND%20PORTION%2055%20SPITSKOP.pdf",
+     "title": "25 NOVEMBER 2026 TENDER ADVERT FOR PET STREET, SPECIALIST STUDIES AT DAVEL AND PORTION 55 SPITSKOP.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=600677b7-6362-43fb-a763-bbd741e46a54.pdf&downloadedFileName=25%20NOVEMBER%202026%20TENDER%20ADVERT%20FOR%20PET%20STREET%2C%20SPECIALIST%20STUDIES%20AT%20DAVEL%20AND%20PORTION%2055%20SPITSKOP.pdf",
      "format": "pdf",
-     "published": "2026-11-25T22:20:26Z"
+     "published": "2026-11-26T09:04:23Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -12766,6 +12054,46 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=94aaecef-931f-4ceb-baac-64c81ada08ca.pdf&downloadedFileName=MOWING%20VERGES%20GINGINDLOVU%20CLUSTER%202.pdf",
      "format": "pdf",
      "published": "2026-11-16T11:20:15Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-180063",
+   "reference": "ATNS/RFQ/11/2026/24-CSI-RE-ADVERT",
+   "title": "APPOINTMENT OF A SUITABLY QUALIFIED AND  EXPERIENCED EXTERNAL SERVICE PROVIDER FOR THE REFURBISHMENT OF THE SCIENCE LABORATORY AT DELFT HIGH SCHOOL, WESTERN CAPE",
+   "department": "Air Traffic and Navigation Services Company Limited",
+   "category": "Facilities Maintenance",
+   "company": "llp",
+   "matchedTerms": [
+    "refurbish"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-26T00:00:00+00:00",
+   "closingDate": "2026-12-14T11:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "works",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "RFQ Document - Refurbishment of Science Delft Science Lab.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=d91b69df-66cf-4daf-9748-eba85aa8072f.pdf&downloadedFileName=RFQ%20Document%20-%20Refurbishment%20of%20Science%20Delft%20Science%20Lab.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T14:53:22Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -13498,6 +12826,107 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
+   "id": "ocds-9t57fa-179901",
+   "reference": "SANBI G595/2026",
+   "title": "THE APPOINTMENT OF A CONTRACTOR FOR THE CONSTRUCTION OF THE VARIOUS INFRASTRUCTURE WORKS AT THE THOHOYANDOU NATIONAL BOTANICAL GARDEN",
+   "department": "South African National Biodiversity Institute",
+   "category": "Agriculture",
+   "company": "llp",
+   "matchedTerms": [
+    "garden",
+    "tractor"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-25T00:00:00+00:00",
+   "closingDate": "2026-12-15T11:00:00+00:00",
+   "procurementMethod": "Request for Bid(Open-Tender)",
+   "procurementCategory": "works",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "TPM006-2026-SW01- STORMWATER TYPICAL DETAILS.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=535c66d1-93a6-4aff-904c-17fe907959b2.pdf&downloadedFileName=TPM006-2026-SW01-%20STORMWATER%20TYPICAL%20DETAILS.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T11:54:57Z"
+    },
+    {
+     "title": "TPM006-2026-SW01- STORMWATER LONGITUDINAL SECTIONS SHT 1.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=e3888e1b-8c20-4f0d-bb11-41c43fd73db6.pdf&downloadedFileName=TPM006-2026-SW01-%20STORMWATER%20LONGITUDINAL%20SECTIONS%20SHT%201.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T11:54:57Z"
+    },
+    {
+     "title": "TPM006-2026-SW01-STORMWATER LONGITUDINAL SECTIONS SHT 2.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=f0de703c-aef5-4879-80fc-43ac6e8f64a5.pdf&downloadedFileName=TPM006-2026-SW01-STORMWATER%20LONGITUDINAL%20SECTIONS%20SHT%202.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T11:54:58Z"
+    },
+    {
+     "title": "TPM006-2026-SW01- SUBSOIL TYPICAL DETAILS.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=1afcd0bd-8a8f-4bb1-a7db-5ae7ced6ae8b.pdf&downloadedFileName=TPM006-2026-SW01-%20SUBSOIL%20TYPICAL%20DETAILS.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T11:54:57Z"
+    },
+    {
+     "title": "TPM006-2026-SW01-DETENTION PONDS SECTIONS.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=02b628a5-dbea-43e0-be97-5b525668bb0d.pdf&downloadedFileName=TPM006-2026-SW01-DETENTION%20PONDS%20SECTIONS.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T11:54:57Z"
+    },
+    {
+     "title": "TPM006-2026-SUBSOIL LONGITUDINAL SECTIONS.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=a6bb3016-d663-4870-bf84-7b40f2e889b6.pdf&downloadedFileName=TPM006-2026-SUBSOIL%20LONGITUDINAL%20SECTIONS.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T11:54:57Z"
+    },
+    {
+     "title": "TPM006-2026-RD01-PROPOSED ROAD LAYOUT AND DETAILS.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=919f703a-d962-4d51-9073-85f3e8122e9e.pdf&downloadedFileName=TPM006-2026-RD01-PROPOSED%20ROAD%20LAYOUT%20AND%20DETAILS.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T11:54:56Z"
+    },
+    {
+     "title": "TPM006-2026-STORMWATER LAYOUT AND DETAILS.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=b6d9494f-8460-4cc9-9533-cae4aed5149f.pdf&downloadedFileName=TPM006-2026-STORMWATER%20LAYOUT%20AND%20DETAILS.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T11:54:56Z"
+    },
+    {
+     "title": "TNBG Tender Document - Flood Mitigation Project_02.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=e1577572-7afd-4499-8540-d602b16f0ab0.pdf&downloadedFileName=TNBG%20Tender%20Document%20-%20Flood%20Mitigation%20Project_02.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T14:21:20Z"
+    },
+    {
+     "title": "Unpriced BoQ Rev 1.xlsx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=965c3f96-5da1-4d12-9a83-d816e15bb096.xlsx&downloadedFileName=Unpriced%20BoQ%20Rev%201.xlsx",
+     "format": "xlsx",
+     "published": "2026-11-26T14:21:21Z"
+    },
+    {
+     "title": "TPM00-2026- SANBI DRAWINGS PACK-COMBINED.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=94af5852-daa4-4dd0-aaeb-f47dfab8c05a.pdf&downloadedFileName=TPM00-2026-%20SANBI%20DRAWINGS%20PACK-COMBINED.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T11:54:55Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
    "id": "ocds-9t57fa-179680",
    "reference": "KIMPF68-2026",
    "title": "Williston magistrate court Provisioning of cleaning services for 36 months",
@@ -13692,6 +13121,12 @@
     "note": ""
    },
    "documents": [
+    {
+     "title": "Erratum Bid SASSA 03 26 GA MP.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=260b4c35-7412-4f93-83f2-1d8ccc3ac952.pdf&downloadedFileName=Erratum%20Bid%20SASSA%2003%2026%20GA%20MP.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T11:49:11Z"
+    },
     {
      "title": "SASSA-03-26-GA-MP.pdf",
      "url": "https://www.etenders.gov.za/home/Download?blobName=09cd1fc6-e83e-47a7-b090-b6d6f2b0a447.pdf&downloadedFileName=SASSA-03-26-GA-MP.pdf",
@@ -14327,107 +13762,6 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
-   "id": "ocds-9t57fa-179901",
-   "reference": "SANBI G595/2026",
-   "title": "THE APPOINTMENT OF A CONTRACTOR FOR THE CONSTRUCTION OF THE VARIOUS INFRASTRUCTURE WORKS AT THE THOHOYANDOU NATIONAL BOTANICAL GARDEN",
-   "department": "South African National Biodiversity Institute",
-   "category": "Agriculture",
-   "company": "llp",
-   "matchedTerms": [
-    "garden",
-    "tractor"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-25T00:00:00+00:00",
-   "closingDate": "2026-12-17T11:00:00+00:00",
-   "procurementMethod": "Request for Bid(Open-Tender)",
-   "procurementCategory": "works",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "Unpriced BoQ.xlsx",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=647a2d19-0bf7-4b1a-80da-07469e0feb8e.xlsx&downloadedFileName=Unpriced%20BoQ.xlsx",
-     "format": "xlsx",
-     "published": "2026-11-25T15:26:43Z"
-    },
-    {
-     "title": "TPM006-2026-SW01-STORMWATER LONGITUDINAL SECTIONS SHT 2.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=846b5b9e-c8b0-4ac8-94f5-361d92973ffe.pdf&downloadedFileName=TPM006-2026-SW01-STORMWATER%20LONGITUDINAL%20SECTIONS%20SHT%202.pdf",
-     "format": "pdf",
-     "published": "2026-11-25T15:26:43Z"
-    },
-    {
-     "title": "TPM006-2026-SUBSOIL LONGITUDINAL SECTIONS.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=ffeb0855-0d39-45cd-8251-60b4145a0281.pdf&downloadedFileName=TPM006-2026-SUBSOIL%20LONGITUDINAL%20SECTIONS.pdf",
-     "format": "pdf",
-     "published": "2026-11-25T15:26:41Z"
-    },
-    {
-     "title": "TPM006-2026-SW01- SUBSOIL TYPICAL DETAILS.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=a047ff2e-ed91-4b73-adaf-6e8e5c156f3d.pdf&downloadedFileName=TPM006-2026-SW01-%20SUBSOIL%20TYPICAL%20DETAILS.pdf",
-     "format": "pdf",
-     "published": "2026-11-25T15:26:42Z"
-    },
-    {
-     "title": "TNBG Tender Document - Flood Mitigation Project_.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=6f4e9287-9f06-4bef-9eb8-7cd90cdd40dc.pdf&downloadedFileName=TNBG%20Tender%20Document%20-%20Flood%20Mitigation%20Project_.pdf",
-     "format": "pdf",
-     "published": "2026-11-25T15:26:39Z"
-    },
-    {
-     "title": "TPM006-2026-SW01- STORMWATER TYPICAL DETAILS.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=598b61b6-48f4-497b-975b-8b3f95d30dd4.pdf&downloadedFileName=TPM006-2026-SW01-%20STORMWATER%20TYPICAL%20DETAILS.pdf",
-     "format": "pdf",
-     "published": "2026-11-25T15:26:42Z"
-    },
-    {
-     "title": "TPM006-2026-RD01-PROPOSED ROAD LAYOUT AND DETAILS.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=e9f81b7b-b8d5-4375-867d-93bfdbb2a860.pdf&downloadedFileName=TPM006-2026-RD01-PROPOSED%20ROAD%20LAYOUT%20AND%20DETAILS.pdf",
-     "format": "pdf",
-     "published": "2026-11-25T15:26:40Z"
-    },
-    {
-     "title": "TPM006-2026-SW01-DETENTION PONDS SECTIONS.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=ec973a03-162d-4812-b954-a64ef11c356a.pdf&downloadedFileName=TPM006-2026-SW01-DETENTION%20PONDS%20SECTIONS.pdf",
-     "format": "pdf",
-     "published": "2026-11-25T15:26:42Z"
-    },
-    {
-     "title": "TPM006-2026-SW01- STORMWATER LONGITUDINAL SECTIONS SHT 1.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=a6c2ab69-14bd-4d16-ab24-ba855857930d.pdf&downloadedFileName=TPM006-2026-SW01-%20STORMWATER%20LONGITUDINAL%20SECTIONS%20SHT%201.pdf",
-     "format": "pdf",
-     "published": "2026-11-25T15:26:42Z"
-    },
-    {
-     "title": "TPM006-2026-STORMWATER LAYOUT AND DETAILS.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=b79785f8-b8f6-4fdc-b8f4-c967af65e865.pdf&downloadedFileName=TPM006-2026-STORMWATER%20LAYOUT%20AND%20DETAILS.pdf",
-     "format": "pdf",
-     "published": "2026-11-25T15:26:40Z"
-    },
-    {
-     "title": "TPM00-2026- SANBI DRAWINGS PACK-COMBINED.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=e8c2fee0-adbe-42f9-b8f0-e0f3bef5980e.pdf&downloadedFileName=TPM00-2026-%20SANBI%20DRAWINGS%20PACK-COMBINED.pdf",
-     "format": "pdf",
-     "published": "2026-11-25T15:26:39Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
    "id": "ocds-9t57fa-179930",
    "reference": "CPSC/B/461/2026",
    "title": "CPSC/B/461/2026 OUTSOURCING A SERVICE PROVIDER FOR SUPPLY AND DELIVERY OF MEDICAL STATIONERY AT MILITARY HEALTH BASE DEPOT, PRETORIA DOD PROC PLAN 26-27/SAMHS/1109",
@@ -14688,6 +14022,47 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
+   "id": "ocds-9t57fa-180037",
+   "reference": "PANEL/IDTKN/FENCI/2027-2030",
+   "title": "PANEL OF SERVICE PROVIDERS FOR THE SUPPLY AND INSTALLATION OF FENCING MAINTENANCE FOR THE PERIOD OF 3 YEARS (36 MONTHS) IN KWA-ZULU NATAL PROVINCE IN VARIOUS SCHOOL DISTRICTS",
+   "department": "Independent Development Trust",
+   "category": "Facilities Maintenance",
+   "company": "llp",
+   "matchedTerms": [
+    "fencing",
+    "maintenance"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-26T00:00:00+00:00",
+   "closingDate": "2026-12-17T12:00:00+00:00",
+   "procurementMethod": "Request for Bid(Open-Tender)",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "CIDB ADVERT FOR FENCING.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=95fffb99-864a-40b5-b0fb-c1b111b90764.pdf&downloadedFileName=CIDB%20ADVERT%20FOR%20FENCING.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T13:22:29Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
    "id": "ocds-9t57fa-178436",
    "reference": "MKHO23/2026/27",
    "title": "SUPPLY AND DELIVERY OF PERSONAL PROTECTIVE EQUIPMENT AND CLOTHING (PPE) AS AND WHEN REQUIRED FOR A FIXED PERIOD OF THIRTY-SIX (36) MONTHS",
@@ -14858,6 +14233,453 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
+   "id": "ocds-9t57fa-179997",
+   "reference": "E2729GXMPMATR",
+   "title": "Building facilities repairs at Matla Power station for a period\r\nof 12 Months",
+   "department": "ESKOM",
+   "category": "Facilities Maintenance",
+   "company": "llp",
+   "matchedTerms": [
+    "building",
+    "repairs"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-26T00:00:00+00:00",
+   "closingDate": "2027-01-11T10:00:00+00:00",
+   "procurementMethod": "Request for Quotation",
+   "procurementCategory": "works",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "SDL&I Bidders Template for Building Facilities Repairs.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=95561ef0-4162-4368-8f50-08afc719999e.pdf&downloadedFileName=SDL%26I%20Bidders%20Template%20for%20Building%20Facilities%20Repairs.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T11:24:47Z"
+    },
+    {
+     "title": "Environmental Requirements.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=6cb551c5-acd6-4b8a-abbc-219bebcfb60f.pdf&downloadedFileName=Environmental%20Requirements.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T11:24:45Z"
+    },
+    {
+     "title": "Copy of BOQ  Renovation for Ablusion and kitchens scope for Matla PS Rev 02.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=c75d6dde-0252-48d0-90e4-2689b4610425.pdf&downloadedFileName=Copy%20of%20BOQ%20%20Renovation%20for%20Ablusion%20and%20kitchens%20scope%20for%20Matla%20PS%20Rev%2002.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T11:24:45Z"
+    },
+    {
+     "title": "TECHNICAL EVALUATION BUILDING FACILITIES REFUBISHMENT2.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=ad4b6930-779a-4b88-80e4-2947ce271b1c.pdf&downloadedFileName=TECHNICAL%20EVALUATION%20BUILDING%20FACILITIES%20REFUBISHMENT2.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T11:24:47Z"
+    },
+    {
+     "title": "Building facilities repairs clarification - Agenda.ppt",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=80f9281e-979d-45b5-b0d8-385da004c9b7.ppt&downloadedFileName=Building%20facilities%20repairs%20clarification%20-%20Agenda.ppt",
+     "format": "ppt",
+     "published": "2026-11-26T11:24:45Z"
+    },
+    {
+     "title": "BOQ  Renovation for Ablusion and kitchens scope for Matla PS Rev 02.xlsx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=5d1f76d5-7344-44ef-9556-4fddfd729f33.xlsx&downloadedFileName=BOQ%20%20Renovation%20for%20Ablusion%20and%20kitchens%20scope%20for%20Matla%20PS%20Rev%2002.xlsx",
+     "format": "xlsx",
+     "published": "2026-11-26T11:24:45Z"
+    },
+    {
+     "title": "List of Tender Returnables-Building Facilities.xlsx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=5601cab1-8f72-4643-a90f-7fd9f8eeaf25.xlsx&downloadedFileName=List%20of%20Tender%20Returnables-Building%20Facilities.xlsx",
+     "format": "xlsx",
+     "published": "2026-11-26T11:24:46Z"
+    },
+    {
+     "title": "Form A Tender & Contract Quality Requirements Building Facilities.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=d17acf27-2961-48b6-9aeb-8154949d11e5.pdf&downloadedFileName=Form%20A%20Tender%20%26%20Contract%20Quality%20Requirements%20Building%20Facilities.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T11:24:45Z"
+    },
+    {
+     "title": "Building Facilities refurbishment NEC.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=3e8823c1-a049-4af1-ae78-879f4fb7eb0c.pdf&downloadedFileName=Building%20Facilities%20refurbishment%20NEC.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T11:24:45Z"
+    },
+    {
+     "title": "Supplier Evaluation Pack for 01 March 2026 to 28 February 2027.docx.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=2e56380f-585c-402c-8ecb-89d6c606fe8a.pdf&downloadedFileName=Supplier%20Evaluation%20Pack%20for%2001%20March%202026%20to%2028%20February%202027.docx.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T11:24:47Z"
+    },
+    {
+     "title": "CONTRACTORS COMMITMENT AND INDEMNITY LETTER.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=4d745a10-56c0-4791-bcdc-a2daed3d4641.pdf&downloadedFileName=CONTRACTORS%20COMMITMENT%20AND%20INDEMNITY%20LETTER.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T11:24:45Z"
+    },
+    {
+     "title": "HEALTH AND SAFETY REQUIREMENTS.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=b59e3d1f-e9b4-409b-ad80-c3e761a42dc2.pdf&downloadedFileName=HEALTH%20AND%20SAFETY%20REQUIREMENTS.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T11:24:45Z"
+    },
+    {
+     "title": "Invitation to Tender (ITT) or Request for Proposal (RFP) - Matla Building Facilities Refurbishment signed.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=161bf75f-c413-44bd-8a40-d8f2e4bdf532.pdf&downloadedFileName=Invitation%20to%20Tender%20%28ITT%29%20or%20Request%20for%20Proposal%20%28RFP%29%20-%20Matla%20Building%20Facilities%20Refurbishment%20signed.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T11:24:45Z"
+    },
+    {
+     "title": "MEA -07008 Station Facilities Refurbishment.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=33e62256-bd8c-4d28-8c35-dc764862d121.pdf&downloadedFileName=MEA%20-07008%20Station%20Facilities%20Refurbishment.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T11:24:46Z"
+    },
+    {
+     "title": "Environmental Contractors Assessment Form (002).pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=1d95b087-00d8-4be2-af3d-e5f5b755ca30.pdf&downloadedFileName=Environmental%20Contractors%20Assessment%20Form%20%28002%29.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T11:24:45Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-179824",
+   "reference": "E2428GXMPMATR",
+   "title": "Refurbishment of coal Plant chutes, rotary feeders, and tripper cars at Matla Power Station for a period of five (05) years",
+   "department": "ESKOM",
+   "category": "Facilities Maintenance",
+   "company": "llp",
+   "matchedTerms": [
+    "refurbish"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-25T00:00:00+00:00",
+   "closingDate": "2027-01-11T10:00:00+00:00",
+   "procurementMethod": "Request for Bid(Open-Tender)",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "Coal chutes tech Evaluation.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=00ed11f3-4b02-492b-aecd-002c25b31b10.pdf&downloadedFileName=Coal%20chutes%20tech%20Evaluation.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:10:00Z"
+    },
+    {
+     "title": "Annexure E.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=4ceaebc0-8444-4413-9ca5-039c3e3e9d98.pdf&downloadedFileName=Annexure%20E.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:05Z"
+    },
+    {
+     "title": "Authority to submit a tender Nov 2012.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=3fd9663e-e2a1-459b-9f51-0454b86cb769.pdf&downloadedFileName=Authority%20to%20submit%20a%20tender%20Nov%202012.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:05Z"
+    },
+    {
+     "title": "Standard Bidding Document (SDB) 4_Annexure A.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=eb68719d-f759-4218-92f4-0c0f637f8f96.pdf&downloadedFileName=Standard%20Bidding%20Document%20%28SDB%29%204_Annexure%20A.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:09Z"
+    },
+    {
+     "title": "SBD 1.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=7784f17b-99ed-4a6c-afa7-100bbbc9ea5f.pdf&downloadedFileName=SBD%201.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:08Z"
+    },
+    {
+     "title": "Eskom Standard Condition.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=15c1ae6f-4e7b-4717-b393-109bcf34d8bf.pdf&downloadedFileName=Eskom%20Standard%20Condition.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:06Z"
+    },
+    {
+     "title": "Declaration of Fair Bidding Practices.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=6a5a8eed-e309-489f-80ca-11d3ef64340e.pdf&downloadedFileName=Declaration%20of%20Fair%20Bidding%20Practices.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:06Z"
+    },
+    {
+     "title": "Supplier Evaluation Pack Template for 01 March 2023 to 29 February 2024.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=0f878d66-f8b8-4857-b79f-15ba9a462f17.pdf&downloadedFileName=Supplier%20Evaluation%20Pack%20Template%20for%2001%20March%202023%20to%2029%20February%202024.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:09Z"
+    },
+    {
+     "title": "E-tendering Help Manual for supplier - 27 January 2025.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=7591e2e6-f488-4af4-b424-1cad99007cf8.pdf&downloadedFileName=E-tendering%20Help%20Manual%20for%20supplier%20-%2027%20January%202025.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:08Z"
+    },
+    {
+     "title": "Eskom - Standard Conditions of Tender - final.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=9937b8e1-5ce9-4058-bfb3-1f22ad4acb20.pdf&downloadedFileName=Eskom%20-%20Standard%20Conditions%20of%20Tender%20-%20final.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:06Z"
+    },
+    {
+     "title": "Conditions to tender.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=03889343-658b-4be4-894f-2b4f4774d143.pdf&downloadedFileName=Conditions%20to%20tender.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:05Z"
+    },
+    {
+     "title": "Eskom General Conditions of Purchase - 31 May 2024.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=6b4328e7-c317-48a5-befb-2c1bbd07975d.pdf&downloadedFileName=Eskom%20General%20Conditions%20of%20Purchase%20-%2031%20May%202024.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:06Z"
+    },
+    {
+     "title": "Eskom - Standard Conditions of Tender - Copy.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=753b636b-5be6-4eae-aa21-3eaec72adee1.pdf&downloadedFileName=Eskom%20-%20Standard%20Conditions%20of%20Tender%20-%20Copy.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:06Z"
+    },
+    {
+     "title": "E-Tenderers E-Tendering Training Acknowledgement Form - 27 January 2025.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=2921ce51-f422-45dd-bef6-41be2676205a.pdf&downloadedFileName=E-Tenderers%20E-Tendering%20Training%20Acknowledgement%20Form%20-%2027%20January%202025.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:08Z"
+    },
+    {
+     "title": "SBD 6.2.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=ac1f5bf7-fdb2-4d54-bd7f-43228491e031.pdf&downloadedFileName=SBD%206.2.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:08Z"
+    },
+    {
+     "title": "Authorisation Form - Final.f.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=3d12167a-7d36-4c7e-9787-4393ad696579.pdf&downloadedFileName=Authorisation%20Form%20-%20Final.f.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:05Z"
+    },
+    {
+     "title": "No 4 SBD 6.2 Local Content in terms of PPR 2017.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=430c1bda-42a2-4dfc-8c9e-45b60a5a0136.pdf&downloadedFileName=No%204%20SBD%206.2%20Local%20Content%20in%20terms%20of%20PPR%202017.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:08Z"
+    },
+    {
+     "title": "Supplier Risks identified Rev 1 Oct 2009.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=6978db3d-0aca-47f8-9884-497d59c4d1c0.pdf&downloadedFileName=Supplier%20Risks%20identified%20Rev%201%20Oct%202009.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:09Z"
+    },
+    {
+     "title": "SBD 1 - Invitation to Bid..pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=14cad02c-4b3f-4d6b-9b11-57da9670f8b4.pdf&downloadedFileName=SBD%201%20-%20Invitation%20to%20Bid..pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:08Z"
+    },
+    {
+     "title": "Code of Ethics.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=3ec53a3b-8acc-4484-bc39-5e4ca839ef00.pdf&downloadedFileName=Code%20of%20Ethics.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:05Z"
+    },
+    {
+     "title": "Invitation to Tender (ITT) for Coal chutes.final.2.rev signed.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=b7b7ca45-f6d3-416f-903e-60084a95abb8.pdf&downloadedFileName=Invitation%20to%20Tender%20%28ITT%29%20for%20Coal%20chutes.final.2.rev%20signed.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:10:01Z"
+    },
+    {
+     "title": "Environmental Contractors Assessment Form.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=ed0536e3-f6fb-4b7b-8013-6929d3fb61d9.pdf&downloadedFileName=Environmental%20Contractors%20Assessment%20Form.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:06Z"
+    },
+    {
+     "title": "Eskom Supplier Integrity Pact.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=e35fcba5-90f2-416a-b8cb-6d4a681d7926.pdf&downloadedFileName=Eskom%20Supplier%20Integrity%20Pact.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:07Z"
+    },
+    {
+     "title": "TAX EVALUATION.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=d8ff7ee9-021f-4936-9005-6eda8c0db3c0.pdf&downloadedFileName=TAX%20EVALUATION.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:10Z"
+    },
+    {
+     "title": "Supplier_Evaluation_Pack_Template_for_01_March_2024_to_29_February_2025.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=403e6150-906e-400f-89d9-70af25632182.pdf&downloadedFileName=Supplier_Evaluation_Pack_Template_for_01_March_2024_to_29_February_2025.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:09Z"
+    },
+    {
+     "title": "Eskom - Standard Conditions of Tender.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=377010fe-6119-4ea3-9f22-74728089c18c.pdf&downloadedFileName=Eskom%20-%20Standard%20Conditions%20of%20Tender.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:06Z"
+    },
+    {
+     "title": "Supplier Integrity Pack.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=636530c6-4dfd-4646-952d-7508c789c341.pdf&downloadedFileName=Supplier%20Integrity%20Pack.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:09Z"
+    },
+    {
+     "title": "SBD 6.1 - Preference Points Claims Form..pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=d812e75e-2dfd-44d2-af96-7791f5e31f9a.pdf&downloadedFileName=SBD%206.1%20-%20Preference%20Points%20Claims%20Form..pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:08Z"
+    },
+    {
+     "title": "Contractors Assessment Form - Copy.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=48363b32-aa21-4192-89d9-799d0a1ea4b0.pdf&downloadedFileName=Contractors%20Assessment%20Form%20-%20Copy.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:06Z"
+    },
+    {
+     "title": "BINDING TENDER DOCUMENT.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=7546031d-e49f-4356-ac2f-8c9eebef9567.pdf&downloadedFileName=BINDING%20TENDER%20DOCUMENT.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:05Z"
+    },
+    {
+     "title": "Contractors Assessment Form.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=892d7306-5d2d-41d4-a3c1-9b0dbea1275d.pdf&downloadedFileName=Contractors%20Assessment%20Form.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:06Z"
+    },
+    {
+     "title": "Attachment 5_ANNEXURE A Integrity  Declaration Form.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=3b907317-87ea-4efe-913c-9cd14798fe5f.pdf&downloadedFileName=Attachment%205_ANNEXURE%20A%20Integrity%20%20Declaration%20Form.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:05Z"
+    },
+    {
+     "title": "Annexure C.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=431b468f-855c-4309-83ff-9da6f48ce830.pdf&downloadedFileName=Annexure%20C.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:04Z"
+    },
+    {
+     "title": "Eskom - Standard Conditions of Tender - final - Copy.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=9b1ab0d0-08eb-4517-a34f-9e1296f0e1a9.pdf&downloadedFileName=Eskom%20-%20Standard%20Conditions%20of%20Tender%20-%20final%20-%20Copy.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:06Z"
+    },
+    {
+     "title": "Environmental Contractors Assessment Form - Copy.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=9af6476e-8230-46fc-b8d7-9e83b1ae8380.pdf&downloadedFileName=Environmental%20Contractors%20Assessment%20Form%20-%20Copy.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:06Z"
+    },
+    {
+     "title": "Authorisation Form - final.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=a8b37545-3e3a-4f9d-9647-a64c05e4ed5b.pdf&downloadedFileName=Authorisation%20Form%20-%20final.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:05Z"
+    },
+    {
+     "title": "E-Tenderers E-Tendering Training Acknowledgement Form - 27 January 2025 - Copy.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=8ec12df3-6e45-4ca5-9e2b-ab2a39ab1900.pdf&downloadedFileName=E-Tenderers%20E-Tendering%20Training%20Acknowledgement%20Form%20-%2027%20January%202025%20-%20Copy.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:08Z"
+    },
+    {
+     "title": "SWORN AFFIDAVIT – B-BBEE EXEMPTED MICRO ENTERPRISE - GENERAL.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=493d92df-f36e-4333-96cd-ac78a6b9b2ce.pdf&downloadedFileName=SWORN%20AFFIDAVIT%20%E2%80%93%20B-BBEE%20EXEMPTED%20MICRO%20ENTERPRISE%20-%20GENERAL.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:10Z"
+    },
+    {
+     "title": "Coal chutes final scope.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=523cb6e4-2c77-4ec9-9819-b029313a5253.pdf&downloadedFileName=Coal%20chutes%20final%20scope.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:09:59Z"
+    },
+    {
+     "title": "No 5 ANNEXURE A Integrity  Declaration Form (1).pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=4324181c-f6b4-4c3a-a778-bc803450afd5.pdf&downloadedFileName=No%205%20ANNEXURE%20A%20Integrity%20%20Declaration%20Form%20%281%29.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:08Z"
+    },
+    {
+     "title": "No 11 Designated items Local Content percentages THRESHOLDS.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=664bdd03-20b7-40a1-8141-c9b1708933ee.pdf&downloadedFileName=No%2011%20Designated%20items%20Local%20Content%20percentages%20THRESHOLDS.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:08Z"
+    },
+    {
+     "title": "Annexure D.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=8bb01901-c070-4fc4-b74a-d200bdde0baa.pdf&downloadedFileName=Annexure%20D.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:04Z"
+    },
+    {
+     "title": "Eskom Supplier Integrity Pact - 02 June 2023.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=c05074ca-ae0c-42e2-b879-e4d5530cc84c.pdf&downloadedFileName=Eskom%20Supplier%20Integrity%20Pact%20-%2002%20June%202023.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:07Z"
+    },
+    {
+     "title": "Annexure L – Authority to Submit a Tender (Returnable Schedule) Template.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=f02b3c5b-3853-4de1-ad50-e5e668f07c90.pdf&downloadedFileName=Annexure%20L%20%E2%80%93%20Authority%20to%20Submit%20a%20Tender%20%28Returnable%20Schedule%29%20Template.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:05Z"
+    },
+    {
+     "title": "Annexure B Safety Requirements.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=8958f3a7-5dbf-45d1-90b8-ecd526b86505.pdf&downloadedFileName=Annexure%20B%20Safety%20Requirements.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:04Z"
+    },
+    {
+     "title": "Declaration of Fair Bidding Practices - Copy.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=845f131e-7e41-4d86-91cf-f2bef57a02bb.pdf&downloadedFileName=Declaration%20of%20Fair%20Bidding%20Practices%20-%20Copy.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:06Z"
+    },
+    {
+     "title": "NDA Vendors.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=74f88ea8-b261-48c8-956a-f42e10141b6c.pdf&downloadedFileName=NDA%20Vendors.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:08Z"
+    },
+    {
+     "title": "SWORN AFFIDAVIT – B-BBEE QUALIFYING SMALL ENTERPRISE - GENERAL.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=9e710c40-b7bd-47e9-918b-fc0a719b3036.pdf&downloadedFileName=SWORN%20AFFIDAVIT%20%E2%80%93%20B-BBEE%20QUALIFYING%20SMALL%20ENTERPRISE%20-%20GENERAL.pdf",
+     "format": "pdf",
+     "published": "2026-11-25T13:05:10Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
    "id": "ocds-9t57fa-179154",
    "reference": "E3883GXMPDUV",
    "title": "The Supply and Refurbishment of Duvha Power Station Seal Air Fan Spares on an\r\n“As and When” required basis for a period of sixty (60) months.",
@@ -15018,6 +14840,48 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=a0e8653a-c992-40d1-965e-e1f4f818ef5d.pdf&downloadedFileName=OENE-TENDER-NOTICE-AND-INVITATION-TO-TENDER-002.pdf",
      "format": "pdf",
      "published": "2026-11-19T08:28:19Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-179758",
+   "reference": "E3398DXGPOUR",
+   "title": "For the provision of Substations, Office Repairs and Facility Maintenance Contract on an “as and when required” basis within Gauteng Cluster for a period of 36 months",
+   "department": "ESKOM",
+   "category": "Facilities Maintenance",
+   "company": "llp",
+   "matchedTerms": [
+    "facility maintenance",
+    "maintenance",
+    "repairs"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-25T00:00:00+00:00",
+   "closingDate": "2027-01-12T11:00:00+00:00",
+   "procurementMethod": "Request for Bid(Open-Tender)",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "Tender Pack - E3398DXGPOU.zip",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=a06f5a98-af73-4fbe-8a10-b372204ceb62.zip&downloadedFileName=Tender%20Pack%20-%20E3398DXGPOU.zip",
+     "format": "zip",
+     "published": "2026-11-25T09:36:10Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -15250,7 +15114,7 @@
    "reference": "E3902DXNWOU",
    "title": "PROVISION OF FACILITIES MANAGEMENT SERVICES (FMS) NON-CORE\r\nTECHNICAL SERVICES (CLEANING, GARDENING, HYGIENE, PEST CONTROL AND\r\nWASTE MANAGEMENT SERVICES) TO ESKOM REAL ESTATE (ERE) IN THE GEMMA\r\nCLUSTER – NORTHWEST FOR PERIOD OF 3 YEARS",
    "department": "ESKOM",
-   "category": "Supply & Consumables",
+   "category": "Grounds & Landscaping",
    "company": "llp",
    "matchedTerms": [
     "cleaning",
@@ -16064,6 +15928,47 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=d8724462-e256-4fb3-90bd-bd3e328d9e58.pdf&downloadedFileName=MISA.RUB.ULM.KZN.030.2026.27%20Mandlalathi%20Upgrade%20and%20Repairs%20of%20Boreholes%20.pdf",
      "format": "pdf",
      "published": "2026-11-24T18:09:56Z"
+    }
+   ],
+   "portalUrl": "https://www.etenders.gov.za"
+  },
+  {
+   "id": "ocds-9t57fa-180055",
+   "reference": "RCCH30/2025",
+   "title": "FOR THE REMOVAL OF WET WASTE, RECYCLING OF WASTE, REMOVAL OF SCRAP METAL, AND THE DEEP CLEANING, SANITISING, AND MAINTENANCE OF ALL GREASE MANAGEMENT SYSTEMS (FAT TRAPS) AT RED CROSS WAR MEMORIAL CHILDREN’S HOSPITAL FOR A PERIOD OF THREE (3) YEARS",
+   "department": "Western Cape - Health",
+   "category": "Facilities Maintenance",
+   "company": "llp",
+   "matchedTerms": [
+    "cleaning",
+    "maintenance"
+   ],
+   "value": null,
+   "currency": "ZAR",
+   "publishedDate": "2026-11-26T00:00:00+00:00",
+   "closingDate": "2027-01-26T11:00:00+00:00",
+   "procurementMethod": "Request for Bid(Open-Tender)",
+   "procurementCategory": "services",
+   "eligibility": "",
+   "submission": "",
+   "contact": {},
+   "province": "",
+   "briefing": {
+    "held": null,
+    "compulsory": null,
+    "date": null,
+    "venue": "",
+    "mode": "unknown",
+    "online": false,
+    "link": null,
+    "note": ""
+   },
+   "documents": [
+    {
+     "title": "Final Bid Document - RCCH30-2025.pdf",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=b0a88bf6-8e30-4b69-bd7c-154150f0f30a.pdf&downloadedFileName=Final%20Bid%20Document%20-%20RCCH30-2025.pdf",
+     "format": "pdf",
+     "published": "2026-11-26T14:29:55Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
