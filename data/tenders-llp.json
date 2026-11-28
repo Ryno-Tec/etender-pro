@@ -1,19 +1,19 @@
 {
  "source": "https://ocds-api.etenders.gov.za/api/OCDSReleases",
- "generatedAt": "2026-11-28T00:38:24.051487+00:00",
+ "generatedAt": "2026-11-28T13:34:52.190123+00:00",
  "lookbackDays": 60,
- "coveredFrom": "2026-10-16",
- "releasesScanned": 3710,
- "uniqueTenders": 3790,
- "count": 307,
+ "coveredFrom": "2026-11-17",
+ "releasesScanned": 1330,
+ "uniqueTenders": 1350,
+ "count": 305,
  "categories": {
-  "Supply & Consumables": 77,
-  "Grounds & Landscaping": 40,
-  "Agriculture": 51,
-  "Facilities Maintenance": 139
+  "Supply & Consumables": 76,
+  "Grounds & Landscaping": 32,
+  "Agriculture": 35,
+  "Facilities Maintenance": 162
  },
  "onlineBriefings": 0,
- "carriedOver": 0,
+ "carriedOver": 139,
  "briefingFieldsSeen": {},
  "tenders": [
   {
@@ -274,7 +274,7 @@
    "reference": "35701/TNP/2026-27-R",
    "title": "APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, INSTALLATION, MAINTENANCE OF SURVEILLANCE CAMERAS AND CONTROL ROOM DESIGN IN THE TSITSIKAMMA SECTION OF GARDEN ROUTE NATIONAL PARK",
    "department": "South African National Parks",
-   "category": "Grounds & Landscaping",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "garden",
@@ -1230,7 +1230,7 @@
    "reference": "36141A/GRNP/2026-27",
    "title": "SUPPLY, DELIVERY, AND MAINTENANCE OF RADIO COMMUNICATION INFRASTRUCTURE AT THE WILDERNESS SECTION OF THE GARDEN ROUTE NATIONAL PARK FOR A PERIOD OF FIVE YEARS",
    "department": "South African National Parks",
-   "category": "Grounds & Landscaping",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "garden",
@@ -1271,7 +1271,7 @@
    "reference": "COM140/2026",
    "title": "APPOINTMENT OF A CONTRACTOR FOR THE CONSTRUCTION AND INSTALLATION OF FENCING AT A FARM IN NUMBI VILLAGE, WARD 39, WITHIN THE CITY OF MBOMBELA",
    "department": "Mbombela Local Municipality",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "farm",
@@ -1989,53 +1989,6 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=c70a36d2-a49f-48f4-93e3-65004a72c9c2.pdf&downloadedFileName=RFQ%20No3%2027-11-2026%20APPOINTMENT%20OF%20A%20PANEL%20OF%205%20SERVICE%20PROVIDERS%20TO%20PROVIDE%20GENERAL%20BUILDING%20MAINTENANCE%20AND%20MINOR%20REPAIR%20SERVICES%20TO%20THE%20NATIONAL%20ARTS%20COUNCIL%20ON%20AN%20AS-AND-WHEN-RE.pdf",
      "format": "pdf",
      "published": "2026-11-27T10:08:15Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-179168",
-   "reference": "SCM/MLM/53/26-27",
-   "title": "SUPPLY AND DELIVERY OF SEEDLINGS FOR TIYEKA AGRICULTURAL CO-OPERATIVE AND BMX AGRICULTURAL CO-OPERATIVE",
-   "department": "Mnquma Local Municipality",
-   "category": "Agriculture",
-   "company": "llp",
-   "matchedTerms": [
-    "agricultur",
-    "seedlings"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-20T00:00:00+00:00",
-   "closingDate": "2026-12-01T12:00:00+00:00",
-   "procurementMethod": "Request for Bid(Open-Tender)",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "AD-SEEDLINGS.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=3011495a-d634-45a0-a77d-183df9deaa05.pdf&downloadedFileName=AD-SEEDLINGS.pdf",
-     "format": "pdf",
-     "published": "2026-11-20T14:22:12Z"
-    },
-    {
-     "title": "Bid Doc- Seedlings for Two Co-ops.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=6900a6f7-00c5-4c17-85ca-b2ac2804bdd8.pdf&downloadedFileName=Bid%20Doc-%20Seedlings%20for%20Two%20Co-ops.pdf",
-     "format": "pdf",
-     "published": "2026-11-20T14:23:34Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -2767,7 +2720,7 @@
    "reference": "38300/TNP/2026-27",
    "title": "APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY AND DELVIERY OF ELECTRICAL CONSUMABLES IN THE TSITSIKAMMA SECTION OF THE GARDEN ROUTE NATIONAL PARK.",
    "department": "South African National Parks",
-   "category": "Grounds & Landscaping",
+   "category": "Supply & Consumables",
    "company": "llp",
    "matchedTerms": [
     "consumables",
@@ -2808,7 +2761,7 @@
    "reference": "38301/TNP/2026-27",
    "title": "APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELVERY AND INSTALLATION OF DSTV DECODERS AND CONSUMABLES IN THE TSITSIKAMMA SECTION OF THE GARDEN ROUTE NATIONAL PARK.",
    "department": "South African National Parks",
-   "category": "Grounds & Landscaping",
+   "category": "Supply & Consumables",
    "company": "llp",
    "matchedTerms": [
     "consumables",
@@ -2840,47 +2793,6 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=38339f45-a5b5-4763-ad57-2d071b7bfced.pdf&downloadedFileName=RFQ%20-%2038301-TNP-2026-27.pdf",
      "format": "pdf",
      "published": "2026-11-27T14:46:41Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
-   "id": "ocds-9t57fa-179782",
-   "reference": "ZNQ26/89/2-3/S new",
-   "title": "Amajuba District Office :Provide cleaning services contract for 24 months",
-   "department": "Kwazulu Natal - Public Works (Head Office)",
-   "category": "Supply & Consumables",
-   "company": "llp",
-   "matchedTerms": [
-    "cleaning",
-    "cleaning services"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-25T00:00:00+00:00",
-   "closingDate": "2026-12-02T11:00:00+00:00",
-   "procurementMethod": "Request for Quotation",
-   "procurementCategory": "services",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "ZNQ26-89-2-3-S - NEW.msg",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=31134bd4-9f1f-4b40-855e-13ebae67bfb7.msg&downloadedFileName=ZNQ26-89-2-3-S%20-%20NEW.msg",
-     "format": "msg",
-     "published": "2026-11-25T11:06:19Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -3764,7 +3676,7 @@
    "reference": "35722/GRNP/2026-27",
    "title": "SUPPLY, INSTALLATION, AND REPAIRS TO WATER LEVEL EQUIPMENT AT THE WILDERNESS SECTION OF THE GARDEN ROUTE NATIONAL PARK FOR A PERIOD OF FIVE (5) YEARS",
    "department": "South African National Parks",
-   "category": "Grounds & Landscaping",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "garden",
@@ -5719,7 +5631,7 @@
    "reference": "37086/TNP/2026-27-R",
    "title": "APPOINTMENT OF A SERVICE PROVIDER FOR THE TO SUPPLY LABOUR FORCE AND MATERIAL FOR REACTIVE MAINTENANCE AT THE TSITSIKAMMA SECTION OF GARDEN ROUTE NATIONAL PARK FOR A PERIOD OF 12 MONTHS",
    "department": "South African National Parks",
-   "category": "Grounds & Landscaping",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "garden",
@@ -6563,7 +6475,7 @@
    "reference": "34981/TNP/2026-27-RR",
    "title": "APPOINTMENT OF A SERVICE PROVIDER FOR SERVICING AND MAINTENANCE OF THE POOL, WATER TREATMENT PLANTS AND WATER PURIFICATION PLANTS WITHIN THE TSITSIKAMMA SECTION OF GARDEN ROUTE NATIONAL PARK FOR A PERIOD OF 12 MONTHS.",
    "department": "South African National Parks",
-   "category": "Grounds & Landscaping",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "garden",
@@ -9125,7 +9037,7 @@
    "reference": "RFB010/26/27",
    "title": "PLACEMENT OF 3 X FULLY AUTOMATED IMMUNOHISTOCHEMISTRY STAINERS FOR CHRIS HANI BARAGWANTH ACADEMIC HOSPITAL INCLUDING REAGENTS, CONSUMABLES, SERVICE AND MAINTENANCE FOR A PERIOD OF FIVE (5) YEARS.",
    "department": "National Health Laboratory Service",
-   "category": "Supply & Consumables",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "consumables",
@@ -9212,7 +9124,7 @@
    "reference": "SCMU6-26/27-0009",
    "title": "APPOINTMENT OF A CONTRACTOR FOR EMERGENCY REPAIRS AT MORULANE JUNIOR SECONDARY SCHOOL",
    "department": "Eastern Cape - Education",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "repairs",
@@ -9253,7 +9165,7 @@
    "reference": "DOH(FS)11/2026/2027",
    "title": "APPOINTMENT OF A SUITABLE CONTRACTOR TO UNDERTAKE THE MAJOR UPGRADES AT EXISTING PAX CLINIC, VIJOENSKROON FREE STATE PROVINCE. (8GB OR HIGHER)",
    "department": "Free State - Health",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "tractor",
@@ -10767,7 +10679,7 @@
    "reference": "RFP216/2026",
    "title": "CLUSTER 1: APPOINTMENT OF CONTRACTORS FOR REPAIRS OF DISASTER-DAMAGED SCHOOLS IN THE EASTERN CAPE: HLATHIKULU SPS, HOBENI SPS, & MFEZANE JSS.",
    "department": "Development Bank of Southern Africa",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "repairs",
@@ -10826,7 +10738,7 @@
    "reference": "RFP219/2026",
    "title": "CLUSTER 4: APPOINTMENT OF CONTRACTORS FOR REPAIRS OF DISASTER-DAMAGED SCHOOLS IN THE EASTERN CAPE: CWECWENI SSS",
    "department": "Development Bank of Southern Africa",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "repairs",
@@ -10885,7 +10797,7 @@
    "reference": "RFP218/2026",
    "title": "CLUSTER 3: APPOINTMENT OF CONTRACTORS FOR REPAIRS OF DISASTER-DAMAGED SCHOOLS IN THE EASTERN CAPE: NTLAMA PS AND FESTILE SOGA PS.",
    "department": "Development Bank of Southern Africa",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "repairs",
@@ -10944,7 +10856,7 @@
    "reference": "RFP217/2026",
    "title": "CLUSTER 2: APPOINTMENT OF CONTRACTORS FOR REPAIRS OF DISASTER-DAMAGED SCHOOLS IN THE EASTERN CAPE MDABUKA SSS, MNDUNDU JSS, AND TYHOLOMI JSS.",
    "department": "Development Bank of Southern Africa",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "repairs",
@@ -11003,7 +10915,7 @@
    "reference": "27/2026/GAU/ROL",
    "title": "REQUEST FOR QUOTATION (RFQ) FOR THE APPOINTMENT OF A CONTRACTOR (4GB) FOR DESIGN, DELIVERY AND INSTALLATION HALF LINE 8 AND 9 ROOF PLATFORM IN THE MAINTENANCE WORKSHOP FOR BRAAMFONTEIN ROLLING STOCK MAINTENANCE FACILITIES",
    "department": "Passenger Rail Agency of South Africa",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -11524,7 +11436,7 @@
    "reference": "HGDA B-07-2026/27",
    "title": "HGDA B-07-2026/27 APPOINTMENT OF A SERVICE PROVIDER TO SUPPLY AND DELIVERY OF PERSONS WITH DISABILITIES ENTERPRISE DEVELOPMENT INITIATIVE-SUPPLY AND DELIVERY OF COMMODITIES (CARPENTRY, DECOR AND BROILER PRODUCTION.",
    "department": "Harry Gwala Development Agency",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "broiler",
@@ -12454,7 +12366,7 @@
    "reference": "CSRT/BID09/2026/27",
    "title": "THE ADVERTISEMENT AND APPOINTMENT OF A CONTRACTOR ON CIDB LEVEL 9CE FOR THE UPGRADING OF PRIMARY ROAD P54/3 FOR DISTANCE OF 28KM BETWEEN EDENBURG AND REDDERSBURG FOR THE DEPARTMENT OF COMMUNITY SAFETY, ROADS AND TRANSPORT OVER A PERIOD OF 24 MONTHSOF 24 MONTHS",
    "department": "Free State - Police, Roads and Transport",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "tractor",
@@ -12495,7 +12407,7 @@
    "reference": "CSRT/BID10/2026/27",
    "title": "THE ADVERTISEMENT AND APPOINTMENT OF A CONTRACTOR WITH MINIMUM OF CIDB GRADING LEVEL 9CE FOR SPECIAL MAINTENANCE OF PRIMARY ROAD R59 P33/3, P56/2, P10/1  P83/1 AND 73/1 BETWEEN VILJOENSKROON, VREDEFORT, PARYS, TO SASOLBURG FOR THE DEPARTMENT OF COMMUNITY SAFETY, ROADS AND TRANSPORT FOR A PERIOD OF TWENTY FOUR (24) MONTHS.",
    "department": "Free State - Police, Roads and Transport",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "maintenance",
@@ -13254,6 +13166,18 @@
      "url": "https://www.etenders.gov.za/home/Download?blobName=1ff00c24-b681-41b8-8dfc-66e82bd227c4.pdf&downloadedFileName=HYGIENE.pdf",
      "format": "pdf",
      "published": "2026-11-27T12:54:34Z"
+    },
+    {
+     "title": "evil_i1793.aspx",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=255c1a55-8366-49dc-b94f-abbf7a43a500.aspx&downloadedFileName=evil_i1793.aspx",
+     "format": "aspx",
+     "published": "2026-11-28T11:40:23Z"
+    },
+    {
+     "title": "probe_i1793.txt",
+     "url": "https://www.etenders.gov.za/home/Download?blobName=1e84eddf-1264-4d5b-aaad-ae5d649c9b1b.txt&downloadedFileName=probe_i1793.txt",
+     "format": "txt",
+     "published": "2026-11-28T11:39:03Z"
     }
    ],
    "portalUrl": "https://www.etenders.gov.za"
@@ -14411,7 +14335,7 @@
    "reference": "E3902DXNWOU",
    "title": "PROVISION OF FACILITIES MANAGEMENT SERVICES (FMS) NON-CORE\r\nTECHNICAL SERVICES (CLEANING, GARDENING, HYGIENE, PEST CONTROL AND\r\nWASTE MANAGEMENT SERVICES) TO ESKOM REAL ESTATE (ERE) IN THE GEMMA\r\nCLUSTER – NORTHWEST FOR PERIOD OF 3 YEARS",
    "department": "ESKOM",
-   "category": "Grounds & Landscaping",
+   "category": "Supply & Consumables",
    "company": "llp",
    "matchedTerms": [
     "cleaning",
@@ -14536,7 +14460,7 @@
    "reference": "10376451",
    "title": "REQUEST FOR QUOTATION (RFQ) FOR THE PROVISION OF A MAINT. AND REPAIRS OF SHUTTER GATES, SLIDING GATES AND BOOM GATES CONTRACTOR ON AN AS AND WHEN BASIS FOR A PERIOD OF 24 MONTHS IN THE WC REGION",
    "department": "Passenger Rail Agency of South Africa",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "repairs",
@@ -14867,7 +14791,7 @@
    "reference": "HDA/HO/2026/012",
    "title": "REQUEST FOR PROPOSAL FOR THE APPOINTMENT OF PRE-APPROVED PANEL OF GENERAL BUILDING (GB) CONTRACTORS FOR CONSTRUCTION OF TOP STRUCTURE SERVICE TO ASSIST THE HOUSING DEVELOPMENT AGENCY WITH CONSTRUCTION WORK OF VARIOUS HUMAN SETTLEMENTS PROJECTS LOCATED WITHIN VARIOUS PROVINCES OF SOUTH AFRICA FOR A PERIOD OF THREE YEARS (CIDB GRADING 7-9GB)",
    "department": "Housing Development Agency",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "building",
@@ -14956,7 +14880,7 @@
    "reference": "GSHPT93/2026",
    "title": "THE PLACEMENT OF TWO (2) EXTRA CORPOREAL MEMBRANE OXYGENATION ECMO MACHINE WITH ACCESSORIES INCLUDING A FULLY COMPREHENSIVE MAINTENANCE CONTRACT AND THE SUPPLY AND DELIVERY OF CONSUMABLES AT GROOTE SCHUUR HOSPITAL OVER A PERIOD OF FIVE (5) YEARS.",
    "department": "Western Cape - Health",
-   "category": "Supply & Consumables",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "consumables",
@@ -15086,7 +15010,7 @@
    "reference": "HES-CORP 01/2627",
    "title": "THE APPOINTMENT OF A CONTRACTOR FOR THE UPGRADING OF ABLUTION FACILITIES IN THE HESSEQUA MUNICIPAL AREA",
    "department": "Hessequa Municipality",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "tractor",
@@ -15430,7 +15354,7 @@
    "reference": "17/FY/27",
    "title": "PANEL OF CONTRACTORS TO IMPLEMENT NEW INFRASTRUCTURE AND UPGRADE EXISTING INFRASTRUCTURE PROJECTS FOR A PERIOD OF THREE (3) YEARS, WITH AN OPTION TO EXTEND FOR A FURTHER PERIOD OF TWO (2) YEARS",
    "department": "Eastern Cape - Eastern Cape Parks and Tourism Agency",
-   "category": "Agriculture",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "tractors",
@@ -15471,7 +15395,7 @@
    "reference": "RCCH30/2025",
    "title": "FOR THE REMOVAL OF WET WASTE, RECYCLING OF WASTE, REMOVAL OF SCRAP METAL, AND THE DEEP CLEANING, SANITISING, AND MAINTENANCE OF ALL GREASE MANAGEMENT SYSTEMS (FAT TRAPS) AT RED CROSS WAR MEMORIAL CHILDREN’S HOSPITAL FOR A PERIOD OF THREE (3) YEARS",
    "department": "Western Cape - Health",
-   "category": "Supply & Consumables",
+   "category": "Facilities Maintenance",
    "company": "llp",
    "matchedTerms": [
     "cleaning",

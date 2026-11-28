@@ -1,22 +1,22 @@
 {
  "source": "https://ocds-api.etenders.gov.za/api/OCDSReleases",
- "generatedAt": "2026-11-28T00:38:24.051487+00:00",
+ "generatedAt": "2026-11-28T13:34:52.190123+00:00",
  "lookbackDays": 60,
- "coveredFrom": "2026-10-16",
- "releasesScanned": 3710,
- "uniqueTenders": 3790,
- "count": 175,
+ "coveredFrom": "2026-11-17",
+ "releasesScanned": 1330,
+ "uniqueTenders": 1350,
+ "count": 174,
  "categories": {
   "Telecoms & Unified Comms": 9,
   "End-User Computing": 24,
   "Software & Systems": 77,
-  "IT Services & Support": 18,
-  "Cybersecurity": 12,
-  "Network & Infrastructure": 27,
-  "Cloud Services": 8
+  "IT Services & Support": 19,
+  "Cybersecurity": 10,
+  "Network & Infrastructure": 29,
+  "Cloud Services": 6
  },
  "onlineBriefings": 0,
- "carriedOver": 0,
+ "carriedOver": 61,
  "briefingFieldsSeen": {},
  "tenders": [
   {
@@ -1018,7 +1018,7 @@
    "reference": "RFQ 13-11-2026",
    "title": "APPOINTMENT OF A SERVICE PROVIDER FOR THE RENEWAL OF THE REALYST REALSIGN LICENSES INCLUDING HOSTING, SUPPORT AND MAINTENANCE.",
    "department": "Cross-Border Road Transport Agency",
-   "category": "Cloud Services",
+   "category": "Software & Systems",
    "company": "rtc",
    "matchedTerms": [
     "hosting",
@@ -1857,47 +1857,6 @@
    "portalUrl": "https://www.etenders.gov.za"
   },
   {
-   "id": "ocds-9t57fa-179826",
-   "reference": "NLM2027-004",
-   "title": "PROCUREMENT AND IMPLEMENTATION OF   FLEET MANAGEMENT SYSTEM FOR ONE (1) YEAR FROM DATE OF THE AWARD",
-   "department": "Naledi - NW Local Municipality",
-   "category": "Software & Systems",
-   "company": "rtc",
-   "matchedTerms": [
-    "management system",
-    "system"
-   ],
-   "value": null,
-   "currency": "ZAR",
-   "publishedDate": "2026-11-25T00:00:00+00:00",
-   "closingDate": "2026-12-02T12:00:00+00:00",
-   "procurementMethod": "Request for Bid(Open-Tender)",
-   "procurementCategory": "consultingServices",
-   "eligibility": "",
-   "submission": "",
-   "contact": {},
-   "province": "",
-   "briefing": {
-    "held": null,
-    "compulsory": null,
-    "date": null,
-    "venue": "",
-    "mode": "unknown",
-    "online": false,
-    "link": null,
-    "note": ""
-   },
-   "documents": [
-    {
-     "title": "BidDocument.pdf",
-     "url": "https://www.etenders.gov.za/home/Download?blobName=344c77d2-f002-493c-acd3-9ceb7e710e6b.pdf&downloadedFileName=BidDocument.pdf",
-     "format": "pdf",
-     "published": "2026-11-25T13:07:17Z"
-    }
-   ],
-   "portalUrl": "https://www.etenders.gov.za"
-  },
-  {
    "id": "ocds-9t57fa-179574",
    "reference": "IYM SCMU RFQ 22-2026/2027",
    "title": "SUPPLY, CONFIGURATIONS DNS, NEW DOMAIN LINKAGE AND HOSTING,INSTALLATION & MAINTENANCE NEW HOSTING OF WEBSITE.",
@@ -2513,7 +2472,7 @@
    "reference": "PR10119710",
    "title": "The Road Accident Fund (RAF) wishes to appoint a service provider for the Renewal of CISCO Firewall Licenses, Maintenance and Support for a period of twelve (12) months.",
    "department": "Road Accident Fund",
-   "category": "Cybersecurity",
+   "category": "Network & Infrastructure",
    "company": "rtc",
    "matchedTerms": [
     "cisco",
@@ -5258,7 +5217,7 @@
    "reference": "5-2-2-1 DLRRD 0021 2026-2027",
    "title": "THE APPOINTMENT OF A SERVICE PROVIDER TO CONDUCT AN INFORMATION TECHNOLOGY (IT) AUDIT PROJECT OF CYBERSECURITY FOR THE DEPARTMENT OF LAND REFORM AND RURAL DEVELOPMENT (DLRRD),",
    "department": "Department of  Land Reform and Rural Development",
-   "category": "Cybersecurity",
+   "category": "IT Services & Support",
    "company": "rtc",
    "matchedTerms": [
     "cyber",
@@ -7382,7 +7341,7 @@
    "reference": "UMN 03/2026-27",
    "title": "Appointment of a Service Provider for the procurement, installation and commissioning of enterprise servers, disaster recovery infrastructure, cloud backup solution, active directory monitoring tool, server monitoring tool, and Veeam backup & replication services for uMngeni local municipality for a period of 36 Months",
    "department": "Umngeni Municipality",
-   "category": "Cloud Services",
+   "category": "Network & Infrastructure",
    "company": "rtc",
    "matchedTerms": [
     "backup",
